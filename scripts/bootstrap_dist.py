@@ -191,7 +191,7 @@ def main():
 
     parser.add_argument("--path-labels", type=str, help="Path to the csv containing the labels of the training "
                                                         "(dev) and test set",
-                        default="../data/labels/training_labels.csv")
+                        default="../data/labels/pkpd_training_labels_labels.csv")
 
     parser.add_argument("--path-optimal-bow", type=str, help="Path to the parquet file with the optimal BoW features",
                         default="../data/encoded/ngrams/training_unigrams.parquet")

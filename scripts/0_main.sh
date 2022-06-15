@@ -50,7 +50,7 @@ python scripts/bootstrap_bow.py \
    --input-dir data/encoded/ngrams \
    --output-dir data/results/ngrams \
    --output-dir-bootstrap data/results/ngrams/bootstrap \
-   --path-labels data/labels/training_labels.csv \
+   --path-labels data/labels/pkpd_training_labels_labels.csv \
    --overwrite True
 
 # with idf. i.e ngram of 1 --use_idf is tfidf
@@ -58,7 +58,7 @@ python scripts/bootstrap_bow.py \
    --input-dir data/encoded/ngrams \
    --output-dir data/results/ngrams-idf \
    --output-dir-bootstrap data/results/ngrams/bootstrap-idf \
-   --path-labels data/labels/training_labels.csv \
+   --path-labels data/labels/pkpd_training_labels_labels.csv \
    --overwrite True \
    --use-idf True
 
@@ -77,6 +77,7 @@ source deactivate
 exit
 
 qrsh -l tmem=64G,gpu=true,h_rt=3600 -pe gpu 1
+source /share/apps/anaconda/bin/activate
 source activate bert
 # 3.2.1 specter
 # skip as this was really expensive to run and eh

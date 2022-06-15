@@ -30,8 +30,8 @@ if __name__ == '__main__':
     all_sets = spark.read.parquet(path_all)
     all_sets = all_sets.withColumn('pmid', all_sets['pmid'].cast(IntegerType()))
     # 2. Input paths:
-    path_labels_dev = os.path.join(data_dir, "labels", "training_labels.csv")
-    path_labels_test = os.path.join(data_dir, "labels", "test_labels.csv")
+    path_labels_dev = os.path.join(data_dir, "labels", "pkpd_training_labels_labels.csv")
+    path_labels_test = os.path.join(data_dir, "labels", "pkpd_test_labels.csv")
     # 3. Output paths
     path_out_lab_dev = os.path.join(data_dir, "subsets", "training_subset.parquet")
     path_out_lab_test = os.path.join(data_dir, "subsets", "test_subset.parquet")

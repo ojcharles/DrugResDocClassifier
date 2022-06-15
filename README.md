@@ -76,7 +76,7 @@ This should generate the files at [data/subsets/](https://github.com/fgh95/PKDoc
       --input-dir data/encoded/fields \
       --output-dir data/results/fields \
       --output-dir-bootstrap data/results/fields/bootstrap \
-      --path-labels data/labels/training_labels.csv \
+      --path-labels data/labels/pkpd_training_labels_labels.csv \
       --overwrite True
    ````
    Optional analysis using idf scores for reweighing:
@@ -85,7 +85,7 @@ This should generate the files at [data/subsets/](https://github.com/fgh95/PKDoc
       --input-dir data/encoded/fields \
       --output-dir data/results/fields \
       --output-dir-bootstrap data/results/fields/bootstrap \
-      --path-labels data/labels/training_labels.csv \
+      --path-labels data/labels/pkpd_training_labels_labels.csv \
       --use-idf True
    ````
 
@@ -96,7 +96,7 @@ This should generate the files at [data/subsets/](https://github.com/fgh95/PKDoc
       --input-dir data/encoded/ngrams \
       --output-dir data/results/ngrams \
       --output-dir-bootstrap data/results/ngrams/bootstrap \
-      --path-labels data/labels/training_labels.csv \
+      --path-labels data/labels/pkpd_training_labels_labels.csv \
       --overwrite True
    ````
 
@@ -165,7 +165,7 @@ This should generate the files at [data/subsets/](https://github.com/fgh95/PKDoc
       --input-dir data/encoded/specter \
       --output-dir data/results/distributional \
       --output-dir-bootstrap data/results/distributional/bootstrap \
-      --path-labels data/labels/training_labels.csv \
+      --path-labels data/labels/pkpd_training_labels_labels.csv \
       --path-optimal-bow data/encoded/ngrams/training_unigrams.parquet \
       --overwrite True
    ````
@@ -177,7 +177,7 @@ This should generate the files at [data/subsets/](https://github.com/fgh95/PKDoc
       --input-dir data/encoded/biobert \
       --output-dir data/results/distributional \
       --output-dir-bootstrap data/results/distributional/bootstrap \
-      --path-labels data/labels/training_labels.csv \
+      --path-labels data/labels/pkpd_training_labels_labels.csv \
       --path-optimal-bow data/encoded/ngrams/training_unigrams.parquet \
       --overwrite True
    ````
@@ -210,7 +210,7 @@ Run the cross-validation analyses:
    python scripts/cross_validate.py \
       --training-embeddings  data/encoded/biobert/training_biobert_avg.parquet \
       --training-optimal-bow  data/encoded/ngrams/training_unigrams.parquet \
-      --training-labels  data/labels/training_labels.csv\
+      --training-labels  data/labels/pkpd_training_labels_labels.csv\
       --output-dir  data/results/final-pipeline 
    ````
 
@@ -219,9 +219,9 @@ Train the final pipeline (preprocessing, encoding, decoding) from scratch with o
    ````bash
    python scripts/train_test_final.py \
       --path-train  data/subsets/training_subset.parquet \
-      --train-labels  data/labels/training_labels.csv \
+      --train-labels  data/labels/pkpd_training_labels_labels.csv \
       --path-test  data/subsets/test_subset.parquet \
-      --test-labels  data/labels/test_labels.csv \
+      --test-labels  data/labels/pkpd_test_labels.csv \
       --cv-dir  data/results/final-pipeline \
       --output-dir  data/results/final-pipeline \
       --train-pipeline  True 

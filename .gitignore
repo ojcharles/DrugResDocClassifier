@@ -95,3 +95,4 @@ cython_debug/
 # cluster stuff 
 /logs/
 /sparksetup/
+todo

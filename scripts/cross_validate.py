@@ -18,8 +18,8 @@ HYPERPARAMETER_GRID = {
 }
 
 
-def cross_validate_pk(training_embeddings: str, training_optimal_bow: str, training_labels: str, output_dir: str):
-    all_features, all_labs = read_in_distributional(path_preproc=training_embeddings, path_labels=training_labels,
+def cross_validate_pk(training_embeddings: str, training_optimal_bow: str, pkpd_training_labels_labels: str, output_dir: str):
+    all_features, all_labs = read_in_distributional(path_preproc=training_embeddings, path_labels=pkpd_training_labels_labels,
                                                     is_specter=False, path_optimal_bow=training_optimal_bow)
     all_labs = all_labs['label']
     rd_seed = 10042006
@@ -67,11 +67,11 @@ def cross_validate_pk(training_embeddings: str, training_optimal_bow: str, train
     joblib.dump(model_trained, os.path.join(output_dir, "cv_optimal_pipeline.pkl"))
 
 
-def run(training_embeddings: str, training_optimal_bow: str, training_labels: str, output_dir: str):
+def run(training_embeddings: str, training_optimal_bow: str, pkpd_training_labels_labels: str, output_dir: str):
     if not os.path.isdir(output_dir):
         os.makedirs(output_dir, exist_ok=True)
     cross_validate_pk(training_embeddings=training_embeddings, training_optimal_bow=training_optimal_bow,
-                      training_labels=training_labels, output_dir=output_dir)
+                      pkpd_training_labels_labels=pkpd_training_labels_labels, output_dir=output_dir)
 
 
 def main():
@@ -90,7 +90,7 @@ def main():
     parser.add_argument("--training-labels",
                         type=str,
                         help="Path to the CSV file containing the labels of the training data.",
-                        default="../data/labels/training_labels.csv")
+                        default="../data/labels/pkpd_training_labels_labels.csv")
 
     parser.add_argument("--output-dir",
                         type=str,
@@ -99,7 +99,7 @@ def main():
 
     args = parser.parse_args()
     run(training_embeddings=args.training_embeddings, training_optimal_bow=args.training_optimal_bow,
-        training_labels=args.training_labels, output_dir=args.output_dir)
+        pkpd_training_labels_labels=args.pkpd_training_labels_labels, output_dir=args.output_dir)
 
 
 if __name__ == '__main__':

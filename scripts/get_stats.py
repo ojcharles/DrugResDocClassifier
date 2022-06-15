@@ -21,7 +21,7 @@ if __name__ == '__main__':
     # 1. Input paths
     path_dev = os.path.join("data", "subsets", "training_subset.parquet")
     path_test = os.path.join("data", "subsets", "test_subset.parquet")
-    path_labels_dev = os.path.join("data", "labels", "training_labels.csv")
-    path_labels_test = os.path.join("data", "labels", "test_labels.csv")
+    path_labels_dev = os.path.join("data", "labels", "pkpd_training_labels_labels.csv")
+    path_labels_test = os.path.join("data", "labels", "pkpd_test_labels.csv")
     get_stats(inp_path=path_dev, inp_labels_path=path_labels_dev)
     get_stats(inp_path=path_test, inp_labels_path=path_labels_test)

@@ -75,17 +75,17 @@ def train_final_pipeline(train_data: pd.DataFrame, train_labels: pd.DataFrame, b
     return final_pipe
 
 
-def predict_on_test(test_data: pd.DataFrame, test_labels: pd.DataFrame, optimal_pipeline: Pipeline) -> pd.DataFrame:
-    assert test_data.pmid.to_list() == test_labels.pmid.to_list()
-    test_labels = test_labels['label']
+def predict_on_test(test_data: pd.DataFrame, pkpd_test_labels: pd.DataFrame, optimal_pipeline: Pipeline) -> pd.DataFrame:
+    assert test_data.pmid.to_list() == pkpd_test_labels.pmid.to_list()
+    pkpd_test_labels = pkpd_test_labels['label']
     print("Predicting test instances, this might take a few minutes...")
     pred_test = optimal_pipeline.predict(test_data)
 
-    test_results = pd.DataFrame(pred_test == test_labels.values, columns=['Result'])
+    test_results = pd.DataFrame(pred_test == pkpd_test_labels.values, columns=['Result'])
     accuracy = sum(test_results['Result'].values) / len(test_results)
     test_results['pmid'] = test_data['pmid']
-    test_results['Correct label'] = test_labels
-    precision_test, recall_test, f1_test, _ = precision_recall_fscore_support(test_labels, pred_test,
+    test_results['Correct label'] = pkpd_test_labels
+    precision_test, recall_test, f1_test, _ = precision_recall_fscore_support(pkpd_test_labels, pred_test,
                                                                               average='binary',
                                                                               pos_label="Relevant")
     print("===== Final results on the test set ==== ")
@@ -94,12 +94,12 @@ def predict_on_test(test_data: pd.DataFrame, test_labels: pd.DataFrame, optimal_
     return test_results
 
 
-def run(path_train: str, train_labels: str, path_test: str, test_labels: str, cv_dir: str, output_dir: str,
+def run(path_train: str, train_labels: str, path_test: str, pkpd_test_labels: str, cv_dir: str, output_dir: str,
         train_pipeline: bool):
     train_data = pd.read_parquet(path_train).sort_values(by=['pmid']).reset_index(drop=True)
     test_data = pd.read_parquet(path_test).sort_values(by=['pmid']).reset_index(drop=True)
     train_labels = pd.read_csv(train_labels).sort_values(by=['pmid']).reset_index(drop=True)
-    test_labels = pd.read_csv(test_labels).sort_values(by=['pmid']).reset_index(drop=True)
+    pkpd_test_labels = pd.read_csv(pkpd_test_labels).sort_values(by=['pmid']).reset_index(drop=True)
     cv_results, cv_pipe = read_crossval(cv_dir=cv_dir)
     if train_pipeline:
         pipeline_trained = train_final_pipeline(train_data=train_data, train_labels=train_labels,
@@ -108,7 +108,7 @@ def run(path_train: str, train_labels: str, path_test: str, test_labels: str, cv
     else:
         pipeline_trained = joblib.load(os.path.join(output_dir, "optimal_pipeline.pkl"))
 
-    test_results = predict_on_test(test_data=test_data, test_labels=test_labels, optimal_pipeline=pipeline_trained)
+    test_results = predict_on_test(test_data=test_data, pkpd_test_labels=pkpd_test_labels, optimal_pipeline=pipeline_trained)
     test_results.to_csv(os.path.join(output_dir, "test_results_per_instance.csv"))
 
 
@@ -123,7 +123,7 @@ def main():
     parser.add_argument("--train-labels",
                         type=str,
                         help="Path to the CSV file with the labels of the training data.",
-                        default="../data/labels/training_labels.csv")
+                        default="../data/labels/pkpd_training_labels_labels.csv")
 
     parser.add_argument("--path-test",
                         type=str,
@@ -133,7 +133,7 @@ def main():
     parser.add_argument("--test-labels",
                         type=str,
                         help="Path to the CSV file with the labels of the test data.",
-                        default="../data/labels/test_labels.csv")
+                        default="../data/labels/pkpd_test_labels.csv")
 
     parser.add_argument("--cv-dir",
                         type=str,
@@ -152,7 +152,7 @@ def main():
 
     args = parser.parse_args()
     run(path_train=args.path_train, train_labels=args.train_labels, path_test=args.path_test,
-        test_labels=args.test_labels, cv_dir=args.cv_dir, output_dir=args.output_dir,
+        pkpd_test_labels=args.pkpd_test_labels, cv_dir=args.cv_dir, output_dir=args.output_dir,
         train_pipeline=args.train_pipeline)
 
 

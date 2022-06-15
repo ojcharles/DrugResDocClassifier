@@ -1,0 +1,4793 @@
+ID,pmid,Dataset,label
+1,1564023,tba,Not Relevant
+2,1614591,tba,Not Relevant
+3,1643752,tba,Relevant
+4,1645579,tba,Not Relevant
+5,1663791,tba,Not Relevant
+6,1689904,tba,Not Relevant
+7,1700441,tba,Not Relevant
+8,1706262,tba,Not Relevant
+9,1709343,tba,Not Relevant
+10,1715264,tba,Not Relevant
+11,1718950,tba,Not Relevant
+12,1724176,tba,Not Relevant
+13,1765042,tba,Relevant
+14,1784469,tba,Not Relevant
+15,1794001,tba,Not Relevant
+16,1801154,tba,Relevant
+17,1823862,tba,Not Relevant
+18,1866694,tba,Not Relevant
+19,1880724,tba,Relevant
+20,1889912,tba,Relevant
+21,1935820,tba,Not Relevant
+22,1961925,tba,Not Relevant
+23,1981546,tba,Relevant
+24,1991835,tba,Not Relevant
+25,2003368,tba,Not Relevant
+26,2027015,tba,Not Relevant
+27,2048014,tba,Not Relevant
+28,2057987,tba,Not Relevant
+29,2074254,tba,Relevant
+30,2114465,tba,Not Relevant
+31,2153524,tba,Not Relevant
+32,2157527,tba,Not Relevant
+33,2196250,tba,Not Relevant
+34,2211452,tba,Relevant
+35,2229205,tba,Relevant
+36,2245168,tba,Relevant
+37,2257658,tba,Not Relevant
+38,2286699,tba,Not Relevant
+39,2299362,tba,Not Relevant
+40,2347059,tba,Not Relevant
+41,2361265,tba,Not Relevant
+42,2379385,tba,Relevant
+43,2387499,tba,Not Relevant
+44,2426259,tba,Not Relevant
+45,2485469,tba,Not Relevant
+46,2496951,tba,Relevant
+47,2513744,tba,Relevant
+48,2523878,tba,Not Relevant
+49,2540502,tba,Not Relevant
+50,2562802,tba,Not Relevant
+51,2574239,tba,Not Relevant
+52,2578501,tba,Not Relevant
+53,2596683,tba,Not Relevant
+54,2610509,tba,Relevant
+55,2620155,tba,Not Relevant
+56,2680228,tba,Not Relevant
+57,2684591,tba,Not Relevant
+58,2686397,tba,Not Relevant
+59,2693775,tba,Not Relevant
+60,2713214,tba,Relevant
+61,2716073,tba,Not Relevant
+62,2727431,tba,Not Relevant
+63,2756518,tba,Not Relevant
+64,2761263,tba,Relevant
+65,2789320,tba,Not Relevant
+66,2805658,tba,Not Relevant
+67,2819032,tba,Not Relevant
+68,2852947,tba,Relevant
+69,2896563,tba,Not Relevant
+70,2900879,tba,Not Relevant
+71,2906097,tba,Not Relevant
+72,2960342,tba,Relevant
+73,2976351,tba,Not Relevant
+74,3011359,tba,Not Relevant
+75,3043944,tba,Not Relevant
+76,3054222,tba,Not Relevant
+77,3069425,tba,Not Relevant
+78,3076784,tba,Not Relevant
+79,3126724,tba,Not Relevant
+80,3150571,tba,Not Relevant
+81,3185099,tba,Relevant
+82,3225491,tba,Relevant
+83,3249344,tba,Relevant
+84,3258298,tba,Not Relevant
+85,3264120,tba,Relevant
+86,3276321,tba,Not Relevant
+87,3276508,tba,Not Relevant
+88,3284092,tba,Not Relevant
+89,3372646,tba,Not Relevant
+90,3383542,tba,Not Relevant
+91,3429067,tba,Relevant
+92,3437104,tba,Not Relevant
+93,3439792,tba,Relevant
+94,3481836,tba,Relevant
+95,3493905,tba,Relevant
+96,3530584,tba,Not Relevant
+97,3555061,tba,Relevant
+98,3567508,tba,Not Relevant
+99,3590224,tba,Not Relevant
+100,3604530,tba,Relevant
+101,3610317,tba,Not Relevant
+102,3628194,tba,Not Relevant
+103,3629140,tba,Relevant
+104,3680576,tba,Not Relevant
+105,3742867,tba,Not Relevant
+106,3768791,tba,Not Relevant
+107,3775801,tba,Not Relevant
+108,3834082,tba,Relevant
+109,3881456,tba,Not Relevant
+110,3899777,tba,Not Relevant
+111,3908480,tba,Not Relevant
+112,3942558,tba,Not Relevant
+113,3948297,tba,Relevant
+114,3957664,tba,Not Relevant
+115,4032998,tba,Not Relevant
+116,4051955,tba,Not Relevant
+117,4053638,tba,Not Relevant
+118,4218184,tba,Not Relevant
+119,4225304,tba,Not Relevant
+120,4264433,tba,Not Relevant
+121,4374942,tba,Not Relevant
+122,4454486,tba,Not Relevant
+123,4459031,tba,Not Relevant
+124,4464801,tba,Not Relevant
+125,4556633,tba,Not Relevant
+126,4575719,tba,Not Relevant
+127,4656179,tba,Not Relevant
+128,4694690,tba,Relevant
+129,4780659,tba,Not Relevant
+130,4797550,tba,Not Relevant
+131,4824906,tba,Not Relevant
+132,4842138,tba,Not Relevant
+133,4878890,tba,Not Relevant
+134,4950232,tba,Not Relevant
+135,5423102,tba,Not Relevant
+136,5424261,tba,Not Relevant
+137,5430002,tba,Not Relevant
+138,5446743,tba,Not Relevant
+139,5451685,tba,Not Relevant
+140,5488769,tba,Not Relevant
+141,5514162,tba,Not Relevant
+142,5535185,tba,Relevant
+143,5618585,tba,Not Relevant
+144,5675849,tba,Not Relevant
+145,5783568,tba,Not Relevant
+146,5822248,tba,Not Relevant
+147,5881338,tba,Not Relevant
+148,5995194,tba,Not Relevant
+149,6085263,tba,Not Relevant
+150,6086693,tba,Not Relevant
+151,6110742,tba,Not Relevant
+152,6120218,tba,Not Relevant
+153,6124402,tba,Not Relevant
+154,6204966,tba,Not Relevant
+155,6210187,tba,Not Relevant
+156,6234265,tba,Not Relevant
+157,6331150,tba,Not Relevant
+158,6371930,tba,Not Relevant
+159,6402672,tba,Not Relevant
+160,6415082,tba,Not Relevant
+161,6462111,tba,Not Relevant
+162,6505289,tba,Not Relevant
+163,6513967,tba,Not Relevant
+164,6539198,tba,Not Relevant
+165,6613163,tba,Not Relevant
+166,6629664,tba,Not Relevant
+167,6636167,tba,Not Relevant
+168,6662978,tba,Relevant
+169,6687852,tba,Not Relevant
+170,6704556,tba,Not Relevant
+171,6733008,tba,Relevant
+172,6751129,tba,Not Relevant
+173,6752084,tba,Not Relevant
+174,6764164,tba,Not Relevant
+175,6764387,tba,Not Relevant
+176,6772607,tba,Not Relevant
+177,6777691,tba,Not Relevant
+178,6810768,tba,Not Relevant
+179,6820912,tba,Not Relevant
+180,6844336,tba,Not Relevant
+181,6894697,tba,Relevant
+182,6909512,tba,Not Relevant
+183,6990755,tba,Not Relevant
+184,7022206,tba,Not Relevant
+185,7028663,tba,Not Relevant
+186,7032560,tba,Relevant
+187,7042172,tba,Not Relevant
+188,7060462,tba,Not Relevant
+189,7080033,tba,Not Relevant
+190,7120117,tba,Relevant
+191,7127389,tba,Relevant
+192,7198444,tba,Not Relevant
+193,7203002,tba,Not Relevant
+194,7211006,tba,Not Relevant
+195,7215362,tba,Not Relevant
+196,7223286,tba,Not Relevant
+197,7264629,tba,Not Relevant
+198,7274056,tba,Relevant
+199,7284028,tba,Not Relevant
+200,7284624,tba,Not Relevant
+201,7285987,tba,Not Relevant
+202,7302947,tba,Not Relevant
+203,7406042,tba,Not Relevant
+204,7412556,tba,Not Relevant
+205,7413726,tba,Not Relevant
+206,7415217,tba,Not Relevant
+207,7415484,tba,Not Relevant
+208,7430614,tba,Not Relevant
+209,7462691,tba,Relevant
+210,7479551,tba,Not Relevant
+211,7489992,tba,Not Relevant
+212,7491272,tba,Not Relevant
+213,7506426,tba,Not Relevant
+214,7539062,tba,Not Relevant
+215,7543657,tba,Not Relevant
+216,7550137,tba,Not Relevant
+217,7551175,tba,Not Relevant
+218,7553336,tba,Not Relevant
+219,7578645,tba,Not Relevant
+220,7581552,tba,Not Relevant
+221,7591582,tba,Not Relevant
+222,7597909,tba,Relevant
+223,7611820,tba,Not Relevant
+224,7622812,tba,Not Relevant
+225,7627246,tba,Relevant
+226,7630844,tba,Not Relevant
+227,7662598,tba,Relevant
+228,7674566,tba,Relevant
+229,7720515,tba,Relevant
+230,7747269,tba,Relevant
+231,7830253,tba,Not Relevant
+232,7889861,tba,Not Relevant
+233,7907873,tba,Relevant
+234,7927862,tba,Not Relevant
+235,7936261,tba,Not Relevant
+236,7937523,tba,Relevant
+237,7945705,tba,Relevant
+238,7970444,tba,Relevant
+239,7971714,tba,Not Relevant
+240,7996320,tba,Not Relevant
+241,8004155,tba,Not Relevant
+242,8030508,tba,Not Relevant
+243,8068500,tba,Relevant
+244,8073537,tba,Not Relevant
+245,8217358,tba,Relevant
+246,8225127,tba,Relevant
+247,8233233,tba,Not Relevant
+248,8237055,tba,Not Relevant
+249,8241014,tba,Not Relevant
+250,8249080,tba,Relevant
+251,8277372,tba,Not Relevant
+252,8317646,tba,Not Relevant
+253,8321842,tba,Relevant
+254,8327652,tba,Not Relevant
+255,8337895,tba,Not Relevant
+256,8377589,tba,Not Relevant
+257,8396097,tba,Relevant
+258,8408401,tba,Relevant
+259,8445036,tba,Not Relevant
+260,8448274,tba,Not Relevant
+261,8458882,tba,Relevant
+262,8489718,tba,Not Relevant
+263,8491239,tba,Relevant
+264,8573639,tba,Not Relevant
+265,8573686,tba,Relevant
+266,8600613,tba,Not Relevant
+267,8638848,tba,Not Relevant
+268,8640342,tba,Not Relevant
+269,8646995,tba,Not Relevant
+270,8702478,tba,Not Relevant
+271,8737123,tba,Not Relevant
+272,8778386,tba,Not Relevant
+273,8801066,tba,Relevant
+274,8808777,tba,Not Relevant
+275,8868029,tba,Relevant
+276,8877292,tba,Not Relevant
+277,8884882,tba,Not Relevant
+278,8897139,tba,Not Relevant
+279,8946952,tba,Not Relevant
+280,8950046,tba,Not Relevant
+281,8997494,tba,Not Relevant
+282,9020502,tba,Not Relevant
+283,9079289,tba,Not Relevant
+284,9121813,tba,Not Relevant
+285,9128021,tba,Not Relevant
+286,9144737,tba,Not Relevant
+287,9147125,tba,Not Relevant
+288,9184195,tba,Not Relevant
+289,9202078,tba,Not Relevant
+290,9214677,tba,Not Relevant
+291,9233505,tba,Not Relevant
+292,9290071,tba,Not Relevant
+293,9353142,tba,Not Relevant
+294,9372622,tba,Relevant
+295,9402309,tba,Relevant
+296,9406691,tba,Not Relevant
+297,9408226,tba,Not Relevant
+298,9435990,tba,Not Relevant
+299,9450176,tba,Not Relevant
+300,9532603,tba,Not Relevant
+301,9537667,tba,Not Relevant
+302,9544547,tba,Not Relevant
+303,9549636,tba,Relevant
+304,9575559,tba,Not Relevant
+305,9600719,tba,Not Relevant
+306,9608824,tba,Relevant
+307,9626921,tba,Relevant
+308,9672759,tba,Not Relevant
+309,9676823,tba,Not Relevant
+310,9729342,tba,Not Relevant
+311,9753206,tba,Relevant
+312,9764334,tba,Relevant
+313,9806994,tba,Not Relevant
+314,9811504,tba,Not Relevant
+315,9840344,tba,Relevant
+316,9855315,tba,Not Relevant
+317,9875639,tba,Not Relevant
+318,9885296,tba,Not Relevant
+319,9950880,tba,Not Relevant
+320,10101855,tba,Not Relevant
+321,10149779,tba,Not Relevant
+322,10217338,tba,Not Relevant
+323,10346420,tba,Not Relevant
+324,10395298,tba,Not Relevant
+325,10476380,tba,Not Relevant
+326,10510150,tba,Relevant
+327,10534818,tba,Not Relevant
+328,10552083,tba,Not Relevant
+329,10564155,tba,Not Relevant
+330,10567556,tba,Not Relevant
+331,10584271,tba,Not Relevant
+332,10590192,tba,Not Relevant
+333,10613925,tba,Relevant
+334,10641221,tba,Not Relevant
+335,10654114,tba,Not Relevant
+336,10667393,tba,Not Relevant
+337,10680168,tba,Not Relevant
+338,10688207,tba,Not Relevant
+339,10690162,tba,Not Relevant
+340,10698008,tba,Not Relevant
+341,10706091,tba,Relevant
+342,10709801,tba,Not Relevant
+343,10750293,tba,Not Relevant
+344,10754274,tba,Not Relevant
+345,10777574,tba,Not Relevant
+346,10840686,tba,Not Relevant
+347,10846013,tba,Not Relevant
+348,10856681,tba,Relevant
+349,10891870,tba,Not Relevant
+350,10898086,tba,Not Relevant
+351,10908295,tba,Not Relevant
+352,10945163,tba,Not Relevant
+353,10960139,tba,Not Relevant
+354,10968205,tba,Not Relevant
+355,10976514,tba,Not Relevant
+356,10985229,tba,Not Relevant
+357,10990202,tba,Not Relevant
+358,10993198,tba,Relevant
+359,11069616,tba,Not Relevant
+360,11103749,tba,Relevant
+361,11144234,tba,Not Relevant
+362,11169171,tba,Relevant
+363,11181353,tba,Not Relevant
+364,11201249,tba,Not Relevant
+365,11237772,tba,Not Relevant
+366,11248761,tba,Not Relevant
+367,11248990,tba,Not Relevant
+368,11272106,tba,Not Relevant
+369,11288130,tba,Not Relevant
+370,11330555,tba,Not Relevant
+371,11336649,tba,Not Relevant
+372,11350783,tba,Not Relevant
+373,11372879,tba,Relevant
+374,11373759,tba,Not Relevant
+375,11395020,tba,Not Relevant
+376,11415461,tba,Not Relevant
+377,11418938,tba,Not Relevant
+378,11437465,tba,Not Relevant
+379,11451042,tba,Not Relevant
+380,11467079,tba,Not Relevant
+381,11467747,tba,Not Relevant
+382,11477331,tba,Not Relevant
+383,11487658,tba,Not Relevant
+384,11496065,tba,Not Relevant
+385,11505369,tba,Not Relevant
+386,11543780,tba,Not Relevant
+387,11549049,tba,Relevant
+388,11563419,tba,Not Relevant
+389,11564429,tba,Not Relevant
+390,11733088,tba,Not Relevant
+391,11739594,tba,Not Relevant
+392,11745752,tba,Not Relevant
+393,11764179,tba,Not Relevant
+394,11796742,tba,Not Relevant
+395,11817313,tba,Relevant
+396,11829671,tba,Not Relevant
+397,11842079,tba,Not Relevant
+398,11843744,tba,Not Relevant
+399,11850287,tba,Not Relevant
+400,11857704,tba,Not Relevant
+401,11866441,tba,Not Relevant
+402,11875716,tba,Not Relevant
+403,11891467,tba,Not Relevant
+404,11891565,tba,Not Relevant
+405,11933029,tba,Relevant
+406,11934243,tba,Not Relevant
+407,11948003,tba,Relevant
+408,11951941,tba,Not Relevant
+409,11951988,tba,Not Relevant
+410,11956161,tba,Not Relevant
+411,11967728,tba,Not Relevant
+412,11990780,tba,Not Relevant
+413,11992685,tba,Not Relevant
+414,12009421,tba,Not Relevant
+415,12183439,tba,Not Relevant
+416,12215889,tba,Not Relevant
+417,12386131,tba,Relevant
+418,12393599,tba,Not Relevant
+419,12396867,tba,Not Relevant
+420,12411841,tba,Not Relevant
+421,12426237,tba,Not Relevant
+422,12434199,tba,Not Relevant
+423,12445561,tba,Not Relevant
+424,12469829,tba,Not Relevant
+425,12488482,tba,Relevant
+426,12568766,tba,Not Relevant
+427,12576410,tba,Not Relevant
+428,12579765,tba,Relevant
+429,12591350,tba,Not Relevant
+430,12611323,tba,Not Relevant
+431,12627859,tba,Relevant
+432,12670758,tba,Not Relevant
+433,12677874,tba,Not Relevant
+434,12694866,tba,Not Relevant
+435,12706048,tba,Not Relevant
+436,12720413,tba,Relevant
+437,12725443,tba,Not Relevant
+438,12736110,tba,Relevant
+439,12744364,tba,Not Relevant
+440,12746875,tba,Not Relevant
+441,12759895,tba,Relevant
+442,12796032,tba,Relevant
+443,12797496,tba,Not Relevant
+444,12798758,tba,Not Relevant
+445,12798972,tba,Not Relevant
+446,12814476,tba,Not Relevant
+447,12824645,tba,Not Relevant
+448,12843216,tba,Not Relevant
+449,12855021,tba,Not Relevant
+450,12881198,tba,Not Relevant
+451,12884333,tba,Not Relevant
+452,12897252,tba,Not Relevant
+453,12900817,tba,Relevant
+454,12908848,tba,Not Relevant
+455,12934674,tba,Not Relevant
+456,12975333,tba,Not Relevant
+457,13747637,tba,Not Relevant
+458,13968220,tba,Not Relevant
+459,14509713,tba,Not Relevant
+460,14526937,tba,Not Relevant
+461,14527832,tba,Not Relevant
+462,14529538,tba,Not Relevant
+463,14551375,tba,Relevant
+464,14635181,tba,Not Relevant
+465,14651035,tba,Not Relevant
+466,14655189,tba,Not Relevant
+467,14686717,tba,Not Relevant
+468,14703949,tba,Not Relevant
+469,14726131,tba,Relevant
+470,15005300,tba,Not Relevant
+471,15015879,tba,Not Relevant
+472,15064917,tba,Not Relevant
+473,15113584,tba,Relevant
+474,15118262,tba,Not Relevant
+475,15128505,tba,Not Relevant
+476,15149182,tba,Not Relevant
+477,15163205,tba,Not Relevant
+478,15181141,tba,Not Relevant
+479,15195102,tba,Not Relevant
+480,15224411,tba,Not Relevant
+481,15252046,tba,Not Relevant
+482,15253652,tba,Not Relevant
+483,15254833,tba,Not Relevant
+484,15292049,tba,Not Relevant
+485,15315767,tba,Not Relevant
+486,15356235,tba,Not Relevant
+487,15369761,tba,Not Relevant
+488,15388441,tba,Relevant
+489,15479952,tba,Not Relevant
+490,15499498,tba,Not Relevant
+491,15511563,tba,Not Relevant
+492,15541439,tba,Not Relevant
+493,15567978,tba,Not Relevant
+494,15575621,tba,Not Relevant
+495,15618198,tba,Not Relevant
+496,15625935,tba,Not Relevant
+497,15666041,tba,Not Relevant
+498,15695787,tba,Not Relevant
+499,15707981,tba,Not Relevant
+500,15747152,tba,Not Relevant
+501,15768513,tba,Not Relevant
+502,15799627,tba,Not Relevant
+503,15802882,tba,Not Relevant
+504,15852681,tba,Not Relevant
+505,15878229,tba,Not Relevant
+506,15901744,tba,Relevant
+507,15912525,tba,Not Relevant
+508,15973685,tba,Not Relevant
+509,15979830,tba,Not Relevant
+510,16036859,tba,Not Relevant
+511,16100236,tba,Relevant
+512,16105610,tba,Not Relevant
+513,16124404,tba,Not Relevant
+514,16141604,tba,Relevant
+515,16154040,tba,Not Relevant
+516,16180789,tba,Not Relevant
+517,16193536,tba,Not Relevant
+518,16199684,tba,Not Relevant
+519,16201532,tba,Not Relevant
+520,16222443,tba,Relevant
+521,16251124,tba,Not Relevant
+522,16270632,tba,Not Relevant
+523,16359479,tba,Not Relevant
+524,16365311,tba,Not Relevant
+525,16374585,tba,Not Relevant
+526,16396841,tba,Not Relevant
+527,16428497,tba,Relevant
+528,16436328,tba,Not Relevant
+529,16470118,tba,Not Relevant
+530,16483871,tba,Not Relevant
+531,16485454,tba,Not Relevant
+532,16533506,tba,Not Relevant
+533,16580642,tba,Not Relevant
+534,16601807,tba,Not Relevant
+535,16612035,tba,Not Relevant
+536,16622675,tba,Not Relevant
+537,16625029,tba,Not Relevant
+538,16650391,tba,Not Relevant
+539,16682327,tba,Not Relevant
+540,16684712,tba,Relevant
+541,16725243,tba,Not Relevant
+542,16737587,tba,Not Relevant
+543,16755128,tba,Not Relevant
+544,16759110,tba,Not Relevant
+545,16763718,tba,Not Relevant
+546,16778212,tba,Not Relevant
+547,16798105,tba,Not Relevant
+548,16809800,tba,Relevant
+549,16848275,tba,Not Relevant
+550,16863462,tba,Not Relevant
+551,16871060,tba,Not Relevant
+552,16883559,tba,Relevant
+553,16891160,tba,Relevant
+554,16896303,tba,Not Relevant
+555,16965146,tba,Not Relevant
+556,16990504,tba,Not Relevant
+557,17021761,tba,Not Relevant
+558,17025353,tba,Not Relevant
+559,17090396,tba,Relevant
+560,17093398,tba,Not Relevant
+561,17130974,tba,Not Relevant
+562,17133275,tba,Not Relevant
+563,17163266,tba,Relevant
+564,17164373,tba,Relevant
+565,17192501,tba,Relevant
+566,17204409,tba,Not Relevant
+567,17269457,tba,Not Relevant
+568,17337085,tba,Not Relevant
+569,17339873,tba,Not Relevant
+570,17386978,tba,Not Relevant
+571,17418900,tba,Not Relevant
+572,17488782,tba,Relevant
+573,17518507,tba,Not Relevant
+574,17562144,tba,Not Relevant
+575,17576826,tba,Relevant
+576,17596650,tba,Not Relevant
+577,17631423,tba,Not Relevant
+578,17661678,tba,Not Relevant
+579,17709251,tba,Not Relevant
+580,17721779,tba,Not Relevant
+581,17875190,tba,Relevant
+582,17877438,tba,Not Relevant
+583,17885736,tba,Relevant
+584,17900948,tba,Relevant
+585,17954177,tba,Not Relevant
+586,17977676,tba,Not Relevant
+587,17988777,tba,Not Relevant
+588,18002320,tba,Not Relevant
+589,18044180,tba,Not Relevant
+590,18071957,tba,Not Relevant
+591,18178333,tba,Not Relevant
+592,18242914,tba,Not Relevant
+593,18279106,tba,Relevant
+594,18289614,tba,Not Relevant
+595,18307502,tba,Relevant
+596,18319188,tba,Not Relevant
+597,18332796,tba,Not Relevant
+598,18367789,tba,Not Relevant
+599,18372722,tba,Relevant
+600,18416470,tba,Relevant
+601,18430202,tba,Relevant
+602,18435628,tba,Not Relevant
+603,18451780,tba,Not Relevant
+604,18463625,tba,Not Relevant
+605,18467078,tba,Relevant
+606,18483382,tba,Relevant
+607,18504956,tba,Not Relevant
+608,18605671,tba,Not Relevant
+609,18632811,tba,Not Relevant
+610,18644198,tba,Not Relevant
+611,18713511,tba,Relevant
+612,18754478,tba,Not Relevant
+613,18773122,tba,Not Relevant
+614,18939578,tba,Not Relevant
+615,18958401,tba,Not Relevant
+616,18976844,tba,Not Relevant
+617,18990146,tba,Not Relevant
+618,19011858,tba,Relevant
+619,19032726,tba,Relevant
+620,19051337,tba,Not Relevant
+621,19053985,tba,Not Relevant
+622,19058832,tba,Not Relevant
+623,19075501,tba,Not Relevant
+624,19115313,tba,Not Relevant
+625,19154107,tba,Not Relevant
+626,19156669,tba,Relevant
+627,19157514,tba,Not Relevant
+628,19209525,tba,Not Relevant
+629,19229380,tba,Relevant
+630,19235379,tba,Not Relevant
+631,19366879,tba,Not Relevant
+632,19371619,tba,Not Relevant
+633,19374511,tba,Not Relevant
+634,19418271,tba,Relevant
+635,19421041,tba,Not Relevant
+636,19428348,tba,Not Relevant
+637,19449194,tba,Relevant
+638,19462966,tba,Not Relevant
+639,19549303,tba,Not Relevant
+640,19610038,tba,Not Relevant
+641,19637952,tba,Not Relevant
+642,19639240,tba,Not Relevant
+643,19672409,tba,Not Relevant
+644,19694745,tba,Not Relevant
+645,19707043,tba,Not Relevant
+646,19771879,tba,Not Relevant
+647,19819623,tba,Not Relevant
+648,19821348,tba,Not Relevant
+649,19825011,tba,Relevant
+650,19854080,tba,Relevant
+651,19934030,tba,Not Relevant
+652,19949929,tba,Not Relevant
+653,19951733,tba,Not Relevant
+654,19995926,tba,Relevant
+655,20065597,tba,Not Relevant
+656,20125740,tba,Not Relevant
+657,20165896,tba,Not Relevant
+658,20199131,tba,Not Relevant
+659,20207056,tba,Not Relevant
+660,20214592,tba,Not Relevant
+661,20232903,tba,Not Relevant
+662,20381112,tba,Not Relevant
+663,20406307,tba,Not Relevant
+664,20408309,tba,Not Relevant
+665,20471831,tba,Not Relevant
+666,20555328,tba,Not Relevant
+667,20605296,tba,Not Relevant
+668,20632009,tba,Not Relevant
+669,20705615,tba,Relevant
+670,20708933,tba,Not Relevant
+671,20807961,tba,Not Relevant
+672,20837299,tba,Relevant
+673,20850524,tba,Not Relevant
+674,20947070,tba,Not Relevant
+675,21042038,tba,Relevant
+676,21056810,tba,Not Relevant
+677,21062740,tba,Not Relevant
+678,21083005,tba,Not Relevant
+679,21118722,tba,Not Relevant
+680,21169406,tba,Not Relevant
+681,21185160,tba,Not Relevant
+682,21254453,tba,Not Relevant
+683,21269291,tba,Relevant
+684,21276131,tba,Not Relevant
+685,21300760,tba,Relevant
+686,21393427,tba,Relevant
+687,21473839,tba,Not Relevant
+688,21473915,tba,Not Relevant
+689,21504318,tba,Not Relevant
+690,21519214,tba,Not Relevant
+691,21601538,tba,Relevant
+692,21613232,tba,Relevant
+693,21629963,tba,Not Relevant
+694,21640175,tba,Not Relevant
+695,21647791,tba,Not Relevant
+696,21660618,tba,Relevant
+697,21793674,tba,Not Relevant
+698,21835019,tba,Not Relevant
+699,21864403,tba,Not Relevant
+700,21870836,tba,Not Relevant
+701,21890174,tba,Not Relevant
+702,21976976,tba,Not Relevant
+703,21993434,tba,Not Relevant
+704,22008148,tba,Relevant
+705,22076108,tba,Not Relevant
+706,22098224,tba,Relevant
+707,22105588,tba,Relevant
+708,22137964,tba,Not Relevant
+709,22152281,tba,Not Relevant
+710,22165231,tba,Not Relevant
+711,22242687,tba,Relevant
+712,22275232,tba,Relevant
+713,22286919,tba,Relevant
+714,22322899,tba,Not Relevant
+715,22351681,tba,Not Relevant
+716,22369198,tba,Relevant
+717,22374220,tba,Not Relevant
+718,22384452,tba,Not Relevant
+719,22471142,tba,Not Relevant
+720,22472987,tba,Not Relevant
+721,22515556,tba,Relevant
+722,22517604,tba,Not Relevant
+723,22525722,tba,Not Relevant
+724,22564835,tba,Relevant
+725,22612142,tba,Not Relevant
+726,22627223,tba,Not Relevant
+727,22634072,tba,Relevant
+728,22644862,tba,Relevant
+729,22689635,tba,Not Relevant
+730,22691291,tba,Not Relevant
+731,22719975,tba,Not Relevant
+732,22735367,tba,Not Relevant
+733,22757747,tba,Relevant
+734,22777686,tba,Relevant
+735,22809244,tba,Not Relevant
+736,22825127,tba,Not Relevant
+737,22846044,tba,Not Relevant
+738,22851017,tba,Not Relevant
+739,22928893,tba,Not Relevant
+740,22967225,tba,Not Relevant
+741,22967673,tba,Not Relevant
+742,22976316,tba,Relevant
+743,22991010,tba,Not Relevant
+744,23067100,tba,Relevant
+745,23083550,tba,Not Relevant
+746,23136718,tba,Not Relevant
+747,23151050,tba,Not Relevant
+748,23176177,tba,Not Relevant
+749,23194237,tba,Not Relevant
+750,23234150,tba,Relevant
+751,23264808,tba,Not Relevant
+752,23286178,tba,Not Relevant
+753,23303328,tba,Not Relevant
+754,23345165,tba,Not Relevant
+755,23364264,tba,Not Relevant
+756,23420517,tba,Relevant
+757,23436680,tba,Not Relevant
+758,23461861,tba,Relevant
+759,23462389,tba,Not Relevant
+760,23477032,tba,Not Relevant
+761,23551201,tba,Not Relevant
+762,23627705,tba,Not Relevant
+763,23675922,tba,Not Relevant
+764,23709417,tba,Not Relevant
+765,23793696,tba,Relevant
+766,23798336,tba,Not Relevant
+767,23806607,tba,Not Relevant
+768,23807084,tba,Relevant
+769,23817346,tba,Relevant
+770,23841569,tba,Not Relevant
+771,23890237,tba,Not Relevant
+772,23994015,tba,Not Relevant
+773,24026769,tba,Not Relevant
+774,24038512,tba,Not Relevant
+775,24051388,tba,Not Relevant
+776,24166457,tba,Not Relevant
+777,24176185,tba,Not Relevant
+778,24202174,tba,Not Relevant
+779,24218906,tba,Not Relevant
+780,24227626,tba,Not Relevant
+781,24229567,tba,Not Relevant
+782,24266509,tba,Not Relevant
+783,24267726,tba,Not Relevant
+784,24301684,tba,Not Relevant
+785,24387603,tba,Not Relevant
+786,24440429,tba,Not Relevant
+787,24443292,tba,Not Relevant
+788,24517989,tba,Not Relevant
+789,24522565,tba,Not Relevant
+790,24547403,tba,Not Relevant
+791,24556757,tba,Not Relevant
+792,24574331,tba,Not Relevant
+793,24598005,tba,Not Relevant
+794,24605425,tba,Relevant
+795,24616265,tba,Relevant
+796,24670100,tba,Not Relevant
+797,24691872,tba,Not Relevant
+798,24698009,tba,Relevant
+799,24707870,tba,Relevant
+800,24799699,tba,Not Relevant
+801,24825764,tba,Not Relevant
+802,24866515,tba,Not Relevant
+803,24870363,tba,Not Relevant
+804,24880085,tba,Not Relevant
+805,24917580,tba,Relevant
+806,24932357,tba,Not Relevant
+807,24956867,tba,Not Relevant
+808,24977292,tba,Relevant
+809,24984690,tba,Not Relevant
+810,25008056,tba,Not Relevant
+811,25011215,tba,Not Relevant
+812,25015887,tba,Not Relevant
+813,25036017,tba,Not Relevant
+814,25036018,tba,Not Relevant
+815,25051056,tba,Not Relevant
+816,25066628,tba,Relevant
+817,25113226,tba,Not Relevant
+818,25117078,tba,Not Relevant
+819,25118088,tba,Not Relevant
+820,25123454,tba,Not Relevant
+821,25148065,tba,Not Relevant
+822,25159818,tba,Not Relevant
+823,25265308,tba,Not Relevant
+824,25271172,tba,Relevant
+825,25325240,tba,Not Relevant
+826,25339160,tba,Not Relevant
+827,25380542,tba,Not Relevant
+828,25402233,tba,Relevant
+829,25408310,tba,Relevant
+830,25412253,tba,Not Relevant
+831,25416718,tba,Not Relevant
+832,25425114,tba,Not Relevant
+833,25462312,tba,Not Relevant
+834,25477145,tba,Not Relevant
+835,25560290,tba,Not Relevant
+836,25619919,tba,Not Relevant
+837,25655423,tba,Not Relevant
+838,25655506,tba,Relevant
+839,25673154,tba,Not Relevant
+840,25697809,tba,Not Relevant
+841,25711339,tba,Not Relevant
+842,25726757,tba,Not Relevant
+843,25743677,tba,Not Relevant
+844,25746014,tba,Not Relevant
+845,25774580,tba,Not Relevant
+846,25824561,tba,Not Relevant
+847,25891783,tba,Not Relevant
+848,25948873,tba,Not Relevant
+849,25963997,tba,Relevant
+850,25965455,tba,Not Relevant
+851,25971726,tba,Not Relevant
+852,25997662,tba,Not Relevant
+853,26021325,tba,Not Relevant
+854,26081853,tba,Not Relevant
+855,26134060,tba,Not Relevant
+856,26222220,tba,Not Relevant
+857,26237308,tba,Not Relevant
+858,26296292,tba,Not Relevant
+859,26304171,tba,Relevant
+860,26304335,tba,Not Relevant
+861,26304930,tba,Not Relevant
+862,26349224,tba,Not Relevant
+863,26361143,tba,Not Relevant
+864,26377413,tba,Not Relevant
+865,26440598,tba,Relevant
+866,26450460,tba,Not Relevant
+867,26473552,tba,Not Relevant
+868,26513505,tba,Relevant
+869,26517139,tba,Not Relevant
+870,26543366,tba,Relevant
+871,26547309,tba,Not Relevant
+872,26551921,tba,Relevant
+873,26626946,tba,Not Relevant
+874,26658763,tba,Not Relevant
+875,26678615,tba,Not Relevant
+876,26689795,tba,Not Relevant
+877,26736268,tba,Not Relevant
+878,26753602,tba,Not Relevant
+879,26762283,tba,Not Relevant
+880,26792373,tba,Relevant
+881,26796886,tba,Not Relevant
+882,26803007,tba,Not Relevant
+883,26873366,tba,Not Relevant
+884,26873495,tba,Not Relevant
+885,26915709,tba,Not Relevant
+886,27028535,tba,Not Relevant
+887,27046157,tba,Not Relevant
+888,27072431,tba,Relevant
+889,27088191,tba,Not Relevant
+890,27111148,tba,Not Relevant
+891,27114047,tba,Not Relevant
+892,27128837,tba,Relevant
+893,27132188,tba,Not Relevant
+894,27133481,tba,Relevant
+895,27135819,tba,Not Relevant
+896,27185808,tba,Relevant
+897,27186083,tba,Not Relevant
+898,27203278,tba,Not Relevant
+899,27209494,tba,Not Relevant
+900,27217747,tba,Not Relevant
+901,27270281,tba,Relevant
+902,27302626,tba,Not Relevant
+903,27382330,tba,Not Relevant
+904,27472892,tba,Not Relevant
+905,27513688,tba,Relevant
+906,27549778,tba,Not Relevant
+907,27550480,tba,Not Relevant
+908,27567102,tba,Not Relevant
+909,27569695,tba,Not Relevant
+910,27580073,tba,Not Relevant
+911,27606793,tba,Not Relevant
+912,27629123,tba,Not Relevant
+913,27693856,tba,Not Relevant
+914,27709289,tba,Not Relevant
+915,27761779,tba,Not Relevant
+916,27767204,tba,Not Relevant
+917,27816003,tba,Not Relevant
+918,27861439,tba,Not Relevant
+919,27937081,tba,Relevant
+920,27941394,tba,Relevant
+921,28004575,tba,Not Relevant
+922,28017769,tba,Not Relevant
+923,28028770,tba,Not Relevant
+924,28032446,tba,Not Relevant
+925,28074473,tba,Not Relevant
+926,28079236,tba,Not Relevant
+927,28101657,tba,Relevant
+928,28211134,tba,Not Relevant
+929,28218440,tba,Not Relevant
+930,28282291,tba,Not Relevant
+931,28301098,tba,Relevant
+932,28363098,tba,Relevant
+933,28366660,tba,Relevant
+934,28388512,tba,Not Relevant
+935,28414026,tba,Not Relevant
+936,28431349,tba,Not Relevant
+937,28431776,tba,Not Relevant
+938,28456943,tba,Not Relevant
+939,28579029,tba,Relevant
+940,28590445,tba,Not Relevant
+941,28610955,tba,Not Relevant
+942,28637741,tba,Not Relevant
+943,28653481,tba,Not Relevant
+944,28668891,tba,Relevant
+945,28691813,tba,Not Relevant
+946,28711678,tba,Relevant
+947,28722322,tba,Not Relevant
+948,28752396,tba,Not Relevant
+949,28798936,tba,Not Relevant
+950,28810733,tba,Not Relevant
+951,28978313,tba,Not Relevant
+952,29049469,tba,Not Relevant
+953,29059459,tba,Not Relevant
+954,29144137,tba,Not Relevant
+955,29164208,tba,Not Relevant
+956,29212860,tba,Not Relevant
+957,29228299,tba,Not Relevant
+958,29273485,tba,Relevant
+959,29285551,tba,Not Relevant
+960,29382572,tba,Not Relevant
+961,29463540,tba,Relevant
+962,29506127,tba,Not Relevant
+963,29521638,tba,Not Relevant
+964,29527636,tba,Not Relevant
+965,29551495,tba,Not Relevant
+966,29574688,tba,Relevant
+967,29661413,tba,Relevant
+968,29667952,tba,Not Relevant
+969,29673395,tba,Not Relevant
+970,29674514,tba,Not Relevant
+971,29675639,tba,Not Relevant
+972,29679234,tba,Relevant
+973,29684147,tba,Relevant
+974,29731646,tba,Not Relevant
+975,29758944,tba,Not Relevant
+976,29764549,tba,Relevant
+977,29792287,tba,Relevant
+978,29914947,tba,Not Relevant
+979,29917114,tba,Not Relevant
+980,30027513,tba,Not Relevant
+981,30033244,tba,Not Relevant
+982,30033744,tba,Not Relevant
+983,30056506,tba,Not Relevant
+984,30063652,tba,Relevant
+985,30115278,tba,Not Relevant
+986,30166111,tba,Not Relevant
+987,30174447,tba,Not Relevant
+988,30241377,tba,Relevant
+989,30254496,tba,Relevant
+990,30259933,tba,Not Relevant
+991,30267412,tba,Not Relevant
+992,30371100,tba,Not Relevant
+993,30390924,tba,Not Relevant
+994,19158532,tba,Not Relevant
+995,28255849,tba,Relevant
+996,28164202,tba,Not Relevant
+997,17090395,tba,Not Relevant
+998,14575613,tba,Not Relevant
+999,17538396,tba,Not Relevant
+1000,3243214,tba,Not Relevant
+1001,20945912,tba,Not Relevant
+1002,7721697,tba,Not Relevant
+1003,19277662,tba,Not Relevant
+1004,6631673,tba,Relevant
+1005,22436402,tba,Not Relevant
+1006,29083536,tba,Not Relevant
+1007,6561028,tba,Not Relevant
+1008,8811291,tba,Not Relevant
+1009,11721966,tba,Relevant
+1010,14632096,tba,Not Relevant
+1011,11046083,tba,Not Relevant
+1012,1690635,tba,Not Relevant
+1013,10656629,tba,Not Relevant
+1014,22095958,tba,Not Relevant
+1015,28137814,tba,Relevant
+1016,27884077,tba,Not Relevant
+1017,22512732,tba,Not Relevant
+1018,3664509,tba,Not Relevant
+1019,31519110,tba,Not Relevant
+1020,4643299,tba,Not Relevant
+1021,235501,tba,Not Relevant
+1022,27015880,tba,Not Relevant
+1023,15942203,tba,Not Relevant
+1024,971699,tba,Relevant
+1025,27353045,tba,Relevant
+1026,8128245,tba,Not Relevant
+1027,10454242,tba,Not Relevant
+1028,4095063,tba,Relevant
+1029,10751225,tba,Not Relevant
+1030,10443172,tba,Relevant
+1031,31084393,tba,Not Relevant
+1032,11838430,tba,Not Relevant
+1033,7012466,tba,Not Relevant
+1034,16859799,tba,Not Relevant
+1035,6769703,tba,Not Relevant
+1036,17245650,tba,Not Relevant
+1037,10382557,tba,Not Relevant
+1038,14290157,tba,Not Relevant
+1039,21540446,tba,Not Relevant
+1040,9814882,tba,Relevant
+1041,18350515,tba,Not Relevant
+1042,28572726,tba,Not Relevant
+1043,3596609,tba,Relevant
+1044,1523865,tba,Relevant
+1045,30959762,tba,Not Relevant
+1046,18034666,tba,Relevant
+1047,12791389,tba,Not Relevant
+1048,29450829,tba,Not Relevant
+1049,3677566,tba,Not Relevant
+1050,3609113,tba,Relevant
+1051,12570048,tba,Not Relevant
+1052,4019347,tba,Not Relevant
+1053,6487473,tba,Relevant
+1054,17092838,tba,Not Relevant
+1055,11511951,tba,Not Relevant
+1056,8655257,tba,Not Relevant
+1057,4730501,tba,Not Relevant
+1058,23994763,tba,Relevant
+1059,7536924,tba,Not Relevant
+1060,15045047,tba,Relevant
+1061,15548507,tba,Relevant
+1062,24692697,tba,Not Relevant
+1063,23631383,tba,Not Relevant
+1064,8503872,tba,Not Relevant
+1065,9820182,tba,Not Relevant
+1066,26468234,tba,Not Relevant
+1067,376114,tba,Not Relevant
+1068,10208657,tba,Not Relevant
+1069,11668058,tba,Not Relevant
+1070,7071860,tba,Not Relevant
+1071,27802518,tba,Not Relevant
+1072,28417527,tba,Relevant
+1073,27507824,tba,Not Relevant
+1074,4458325,tba,Not Relevant
+1075,6267235,tba,Not Relevant
+1076,15782324,tba,Not Relevant
+1077,3465490,tba,Relevant
+1078,23932275,tba,Not Relevant
+1079,2813489,tba,Not Relevant
+1080,11032731,tba,Not Relevant
+1081,24595134,tba,Not Relevant
+1082,25197918,tba,Not Relevant
+1083,11357867,tba,Not Relevant
+1084,21495269,tba,Relevant
+1085,24465481,tba,Not Relevant
+1086,15558784,tba,Not Relevant
+1087,19696237,tba,Not Relevant
+1088,3656064,tba,Relevant
+1089,7823718,tba,Not Relevant
+1090,13129462,tba,Not Relevant
+1091,2847939,tba,Not Relevant
+1092,11344561,tba,Not Relevant
+1093,29113803,tba,Not Relevant
+1094,15869316,tba,Not Relevant
+1095,7493556,tba,Relevant
+1096,19152061,tba,Not Relevant
+1097,3829911,tba,Not Relevant
+1098,10878524,tba,Not Relevant
+1099,11302238,tba,Not Relevant
+1100,990648,tba,Relevant
+1101,1999160,tba,Not Relevant
+1102,19728561,tba,Relevant
+1103,18559644,tba,Relevant
+1104,2769984,tba,Not Relevant
+1105,26010306,tba,Not Relevant
+1106,27022852,tba,Not Relevant
+1107,9466363,tba,Not Relevant
+1108,5382451,tba,Not Relevant
+1109,17889135,tba,Relevant
+1110,1659332,tba,Not Relevant
+1111,29771647,tba,Not Relevant
+1112,3206304,tba,Not Relevant
+1113,9374668,tba,Not Relevant
+1114,8335042,tba,Not Relevant
+1115,27713355,tba,Not Relevant
+1116,5796447,tba,Not Relevant
+1117,18763430,tba,Not Relevant
+1118,10832084,tba,Not Relevant
+1119,25459730,tba,Not Relevant
+1120,24644233,tba,Not Relevant
+1121,27439620,tba,Not Relevant
+1122,23523663,tba,Relevant
+1123,30953687,tba,Relevant
+1124,25928348,tba,Relevant
+1125,1840326,tba,Relevant
+1126,25051761,tba,Not Relevant
+1127,17937318,tba,Not Relevant
+1128,391035,tba,Not Relevant
+1129,17401092,tba,Not Relevant
+1130,19758414,tba,Not Relevant
+1131,7658783,tba,Not Relevant
+1132,11895922,tba,Not Relevant
+1133,20552706,tba,Not Relevant
+1134,26296963,tba,Not Relevant
+1135,25407546,tba,Not Relevant
+1136,20921955,tba,Not Relevant
+1137,16951619,tba,Not Relevant
+1138,12408967,tba,Not Relevant
+1139,15872357,tba,Not Relevant
+1140,27974147,tba,Not Relevant
+1141,16963242,tba,Not Relevant
+1142,7122577,tba,Not Relevant
+1143,11158897,tba,Not Relevant
+1144,12175181,tba,Not Relevant
+1145,19246289,tba,Not Relevant
+1146,12811422,tba,Not Relevant
+1147,3714142,tba,Not Relevant
+1148,20541405,tba,Relevant
+1149,63158,tba,Not Relevant
+1150,28521694,tba,Not Relevant
+1151,8514639,tba,Relevant
+1152,6440981,tba,Not Relevant
+1153,3247590,tba,Not Relevant
+1154,17608948,tba,Not Relevant
+1155,25495857,tba,Not Relevant
+1156,26744587,tba,Not Relevant
+1157,19952143,tba,Not Relevant
+1158,21258724,tba,Not Relevant
+1159,9305582,tba,Not Relevant
+1160,12963478,tba,Not Relevant
+1161,12467225,tba,Not Relevant
+1162,19022677,tba,Not Relevant
+1163,2003364,tba,Relevant
+1164,21219433,tba,Not Relevant
+1165,2568918,tba,Not Relevant
+1166,21266188,tba,Relevant
+1167,15562136,tba,Not Relevant
+1168,9757205,tba,Not Relevant
+1169,8299663,tba,Not Relevant
+1170,20721467,tba,Not Relevant
+1171,7202471,tba,Relevant
+1172,29317432,tba,Not Relevant
+1173,2378784,tba,Not Relevant
+1174,21352914,tba,Not Relevant
+1175,2515753,tba,Not Relevant
+1176,8564580,tba,Not Relevant
+1177,19429509,tba,Not Relevant
+1178,30940188,tba,Not Relevant
+1179,362853,tba,Not Relevant
+1180,6484008,tba,Not Relevant
+1181,30206729,tba,Not Relevant
+1182,3828202,tba,Relevant
+1183,12423248,tba,Not Relevant
+1184,1753450,tba,Not Relevant
+1185,28640086,tba,Not Relevant
+1186,11023980,tba,Not Relevant
+1187,3893143,tba,Not Relevant
+1188,10644573,tba,Not Relevant
+1189,8037677,tba,Not Relevant
+1190,17635395,tba,Not Relevant
+1191,8782837,tba,Not Relevant
+1192,9220467,tba,Not Relevant
+1193,9920347,tba,Not Relevant
+1194,23355822,tba,Not Relevant
+1195,24769252,tba,Not Relevant
+1196,25848107,tba,Not Relevant
+1197,17965439,tba,Not Relevant
+1198,7020706,tba,Not Relevant
+1199,27863186,tba,Relevant
+1200,15125776,tba,Not Relevant
+1201,14741166,tba,Not Relevant
+1202,28399267,tba,Relevant
+1203,3829018,tba,Relevant
+1204,11452184,tba,Not Relevant
+1205,16115037,tba,Not Relevant
+1206,21780098,tba,Not Relevant
+1207,12892837,tba,Not Relevant
+1208,6668546,tba,Relevant
+1209,6866128,tba,Not Relevant
+1210,9703942,tba,Not Relevant
+1211,25953735,tba,Relevant
+1212,12570858,tba,Not Relevant
+1213,29524770,tba,Not Relevant
+1214,21801960,tba,Relevant
+1215,11571567,tba,Not Relevant
+1216,10669910,tba,Relevant
+1217,28521250,tba,Not Relevant
+1218,8490113,tba,Relevant
+1219,22633764,tba,Not Relevant
+1220,7587050,tba,Relevant
+1221,10698233,tba,Not Relevant
+1222,9620637,tba,Not Relevant
+1223,29484615,tba,Relevant
+1224,16078719,tba,Not Relevant
+1225,16697379,tba,Not Relevant
+1226,4644642,tba,Not Relevant
+1227,3193494,tba,Relevant
+1228,2392456,tba,Not Relevant
+1229,263717,tba,Not Relevant
+1230,6392305,tba,Not Relevant
+1231,6750387,tba,Not Relevant
+1232,15709888,tba,Not Relevant
+1233,7361560,tba,Not Relevant
+1234,11168910,tba,Relevant
+1235,3936044,tba,Relevant
+1236,8511802,tba,Not Relevant
+1237,24134216,tba,Relevant
+1238,20936439,tba,Not Relevant
+1239,10716241,tba,Not Relevant
+1240,21354450,tba,Not Relevant
+1241,11397394,tba,Not Relevant
+1242,3502654,tba,Not Relevant
+1243,21732164,tba,Not Relevant
+1244,7948187,tba,Not Relevant
+1245,24487091,tba,Not Relevant
+1246,2661216,tba,Not Relevant
+1247,29171502,tba,Not Relevant
+1248,12454556,tba,Relevant
+1249,1294957,tba,Not Relevant
+1250,29465117,tba,Not Relevant
+1251,17689811,tba,Not Relevant
+1252,28719152,tba,Relevant
+1253,12210210,tba,Not Relevant
+1254,2009235,tba,Not Relevant
+1255,3504395,tba,Relevant
+1256,20041798,tba,Not Relevant
+1257,9569770,tba,Not Relevant
+1258,4359739,tba,Not Relevant
+1259,7037265,tba,Relevant
+1260,29600640,tba,Not Relevant
+1261,8837142,tba,Relevant
+1262,11045998,tba,Not Relevant
+1263,15313229,tba,Not Relevant
+1264,29049226,tba,Not Relevant
+1265,7086661,tba,Relevant
+1266,18616847,tba,Not Relevant
+1267,12617134,tba,Not Relevant
+1268,1636703,tba,Not Relevant
+1269,7529424,tba,Not Relevant
+1270,7086379,tba,Not Relevant
+1271,27770912,tba,Not Relevant
+1272,1741953,tba,Not Relevant
+1273,26355279,tba,Not Relevant
+1274,23162701,tba,Not Relevant
+1275,27153472,tba,Not Relevant
+1276,2353751,tba,Not Relevant
+1277,744564,tba,Not Relevant
+1278,26895981,tba,Relevant
+1279,28924948,tba,Not Relevant
+1280,11065353,tba,Not Relevant
+1281,1554119,tba,Not Relevant
+1282,7878694,tba,Relevant
+1283,25517308,tba,Relevant
+1284,2468373,tba,Not Relevant
+1285,24918171,tba,Not Relevant
+1286,31138121,tba,Not Relevant
+1287,1230153,tba,Not Relevant
+1288,11022017,tba,Not Relevant
+1289,28350572,tba,Relevant
+1290,19854672,tba,Not Relevant
+1291,15863069,tba,Not Relevant
+1292,24124123,tba,Not Relevant
+1293,2258013,tba,Not Relevant
+1294,14657453,tba,Not Relevant
+1295,28153492,tba,Not Relevant
+1296,9252148,tba,Not Relevant
+1297,28643902,tba,Not Relevant
+1298,23499655,tba,Not Relevant
+1299,11157124,tba,Not Relevant
+1300,6764389,tba,Not Relevant
+1301,11763270,tba,Not Relevant
+1302,8788139,tba,Relevant
+1303,9839145,tba,Not Relevant
+1304,9662072,tba,Not Relevant
+1305,12507759,tba,Relevant
+1306,26039628,tba,Not Relevant
+1307,24471758,tba,Not Relevant
+1308,4131103,tba,Not Relevant
+1309,26501141,tba,Not Relevant
+1310,20150450,tba,Relevant
+1311,21814853,tba,Not Relevant
+1312,20133148,tba,Not Relevant
+1313,8103798,tba,Not Relevant
+1314,30851209,tba,Relevant
+1315,17001185,tba,Relevant
+1316,29425915,tba,Not Relevant
+1317,19229594,tba,Not Relevant
+1318,22983304,tba,Relevant
+1319,30958881,tba,Not Relevant
+1320,8880967,tba,Not Relevant
+1321,27655494,tba,Not Relevant
+1322,9035044,tba,Not Relevant
+1323,8391446,tba,Not Relevant
+1324,8321517,tba,Relevant
+1325,9765983,tba,Not Relevant
+1326,10541689,tba,Not Relevant
+1327,27274011,tba,Not Relevant
+1328,6725485,tba,Relevant
+1329,22760642,tba,Not Relevant
+1330,26080512,tba,Relevant
+1331,19634181,tba,Not Relevant
+1332,20197464,tba,Relevant
+1333,27572805,tba,Not Relevant
+1334,367208,tba,Not Relevant
+1335,2390423,tba,Not Relevant
+1336,709096,tba,Relevant
+1337,12698988,tba,Relevant
+1338,16596469,tba,Relevant
+1339,9626905,tba,Not Relevant
+1340,19917526,tba,Not Relevant
+1341,7403404,tba,Relevant
+1342,12009933,tba,Relevant
+1343,28087835,tba,Not Relevant
+1344,30785748,tba,Relevant
+1345,8040937,tba,Relevant
+1346,7887175,tba,Not Relevant
+1347,11134556,tba,Not Relevant
+1348,10473808,tba,Not Relevant
+1349,20573569,tba,Relevant
+1350,15952782,tba,Not Relevant
+1351,713722,tba,Not Relevant
+1352,9723828,tba,Not Relevant
+1353,6820097,tba,Not Relevant
+1354,12842595,tba,Not Relevant
+1355,28411971,tba,Not Relevant
+1356,3030965,tba,Not Relevant
+1357,4729202,tba,Not Relevant
+1358,27393562,tba,Relevant
+1359,2882877,tba,Relevant
+1360,1963279,tba,Not Relevant
+1361,22954323,tba,Not Relevant
+1362,7127606,tba,Not Relevant
+1363,27270784,tba,Relevant
+1364,20685614,tba,Relevant
+1365,6546538,tba,Not Relevant
+1366,6278089,tba,Not Relevant
+1367,15222484,tba,Not Relevant
+1368,15063340,tba,Not Relevant
+1369,21288163,tba,Not Relevant
+1370,30055302,tba,Not Relevant
+1371,16672219,tba,Not Relevant
+1372,11309548,tba,Relevant
+1373,28130762,tba,Not Relevant
+1374,29329497,tba,Relevant
+1375,17614027,tba,Not Relevant
+1376,29565327,tba,Not Relevant
+1377,6475810,tba,Not Relevant
+1378,6990320,tba,Not Relevant
+1379,23958474,tba,Not Relevant
+1380,7712755,tba,Not Relevant
+1381,11293248,tba,Not Relevant
+1382,24973521,tba,Not Relevant
+1383,30798189,tba,Not Relevant
+1384,17964070,tba,Not Relevant
+1385,8207594,tba,Not Relevant
+1386,10362138,tba,Relevant
+1387,20332264,tba,Not Relevant
+1388,3402808,tba,Not Relevant
+1389,18478438,tba,Not Relevant
+1390,16451744,tba,Not Relevant
+1391,2810739,tba,Relevant
+1392,2044387,tba,Not Relevant
+1393,31071346,tba,Not Relevant
+1394,24380217,tba,Not Relevant
+1395,8202654,tba,Not Relevant
+1396,30610747,tba,Not Relevant
+1397,4440192,tba,Not Relevant
+1398,18417145,tba,Not Relevant
+1399,6128198,tba,Not Relevant
+1400,1037278,tba,Relevant
+1401,3400619,tba,Not Relevant
+1402,23863292,tba,Not Relevant
+1403,22385211,tba,Not Relevant
+1404,2521890,tba,Not Relevant
+1405,9895415,tba,Relevant
+1406,21511016,tba,Relevant
+1407,17804123,tba,Not Relevant
+1408,20078610,tba,Relevant
+1409,30802932,tba,Not Relevant
+1410,12552961,tba,Not Relevant
+1411,23784717,tba,Not Relevant
+1412,1394121,tba,Not Relevant
+1413,16022766,tba,Not Relevant
+1414,8383359,tba,Relevant
+1415,2818493,tba,Not Relevant
+1416,9131485,tba,Not Relevant
+1417,7654888,tba,Not Relevant
+1418,2349609,tba,Not Relevant
+1419,27956798,tba,Not Relevant
+1420,28604143,tba,Not Relevant
+1421,30710291,tba,Not Relevant
+1422,15592839,tba,Relevant
+1423,3806953,tba,Relevant
+1424,22922142,tba,Not Relevant
+1425,28240179,tba,Not Relevant
+1426,29980324,tba,Not Relevant
+1427,2260634,tba,Not Relevant
+1428,23570736,tba,Not Relevant
+1429,3327292,tba,Not Relevant
+1430,1742606,tba,Not Relevant
+1431,9871650,tba,Not Relevant
+1432,12985927,tba,Not Relevant
+1433,12587832,tba,Not Relevant
+1434,29468921,tba,Not Relevant
+1435,3393421,tba,Relevant
+1436,10866046,tba,Not Relevant
+1437,20333502,tba,Not Relevant
+1438,10825217,tba,Not Relevant
+1439,607963,tba,Not Relevant
+1440,8415410,tba,Not Relevant
+1441,8091379,tba,Relevant
+1442,6132283,tba,Not Relevant
+1443,30336808,tba,Relevant
+1444,31232274,tba,Relevant
+1445,17433706,tba,Not Relevant
+1446,17787004,tba,Not Relevant
+1447,15200428,tba,Not Relevant
+1448,667825,tba,Not Relevant
+1449,6897018,tba,Relevant
+1450,15519454,tba,Not Relevant
+1451,22307498,tba,Not Relevant
+1452,30922119,tba,Not Relevant
+1453,30529818,tba,Not Relevant
+1454,10404321,tba,Relevant
+1455,26722697,tba,Not Relevant
+1456,17264391,tba,Relevant
+1457,23226037,tba,Not Relevant
+1458,24191854,tba,Not Relevant
+1459,9228047,tba,Not Relevant
+1460,30538171,tba,Not Relevant
+1461,25030279,tba,Not Relevant
+1462,482163,tba,Relevant
+1463,9238480,tba,Not Relevant
+1464,4990672,tba,Not Relevant
+1465,8831821,tba,Not Relevant
+1466,29728598,tba,Not Relevant
+1467,26367707,tba,Not Relevant
+1468,26253653,tba,Not Relevant
+1469,12549473,tba,Not Relevant
+1470,9169114,tba,Not Relevant
+1471,8688988,tba,Relevant
+1472,24349945,tba,Relevant
+1473,13211667,tba,Not Relevant
+1474,22349360,tba,Not Relevant
+1475,12678734,tba,Not Relevant
+1476,11522121,tba,Not Relevant
+1477,20633025,tba,Not Relevant
+1478,9428565,tba,Relevant
+1479,21181152,tba,Not Relevant
+1480,6988205,tba,Not Relevant
+1481,20660670,tba,Relevant
+1482,8049502,tba,Not Relevant
+1483,5054238,tba,Not Relevant
+1484,31118630,tba,Relevant
+1485,3915966,tba,Not Relevant
+1486,9048877,tba,Not Relevant
+1487,2338163,tba,Not Relevant
+1488,28771735,tba,Not Relevant
+1489,14749756,tba,Not Relevant
+1490,11871130,tba,Not Relevant
+1491,750498,tba,Not Relevant
+1492,17604192,tba,Relevant
+1493,9479919,tba,Not Relevant
+1494,2715911,tba,Not Relevant
+1495,9421037,tba,Not Relevant
+1496,1638518,tba,Not Relevant
+1497,12231373,tba,Relevant
+1498,22038462,tba,Not Relevant
+1499,4668083,tba,Not Relevant
+1500,25936773,tba,Not Relevant
+1501,28274484,tba,Not Relevant
+1502,9883568,tba,Not Relevant
+1503,21969074,tba,Not Relevant
+1504,3910326,tba,Relevant
+1505,7987565,tba,Not Relevant
+1506,11954901,tba,Not Relevant
+1507,20407482,tba,Not Relevant
+1508,8970874,tba,Not Relevant
+1509,25653090,tba,Not Relevant
+1510,31228872,tba,Relevant
+1511,26580099,tba,Relevant
+1512,4424307,tba,Not Relevant
+1513,2347797,tba,Not Relevant
+1514,8305630,tba,Not Relevant
+1515,26260749,tba,Not Relevant
+1516,19086315,tba,Not Relevant
+1517,18191035,tba,Not Relevant
+1518,2702888,tba,Not Relevant
+1519,19360353,tba,Not Relevant
+1520,9428593,tba,Not Relevant
+1521,27662634,tba,Relevant
+1522,17454041,tba,Not Relevant
+1523,3592758,tba,Not Relevant
+1524,3366110,tba,Not Relevant
+1525,2672743,tba,Not Relevant
+1526,22014457,tba,Not Relevant
+1527,26318818,tba,Not Relevant
+1528,1844750,tba,Not Relevant
+1529,15359567,tba,Not Relevant
+1530,22927237,tba,Not Relevant
+1531,21780891,tba,Not Relevant
+1532,24978402,tba,Not Relevant
+1533,4433976,tba,Not Relevant
+1534,17639416,tba,Not Relevant
+1535,24380288,tba,Not Relevant
+1536,29750396,tba,Relevant
+1537,25983047,tba,Relevant
+1538,20220040,tba,Relevant
+1539,7621402,tba,Not Relevant
+1540,3549104,tba,Not Relevant
+1541,1658250,tba,Not Relevant
+1542,7713998,tba,Not Relevant
+1543,663674,tba,Not Relevant
+1544,2374330,tba,Not Relevant
+1545,2676153,tba,Not Relevant
+1546,12493174,tba,Not Relevant
+1547,9428878,tba,Not Relevant
+1548,16421100,tba,Not Relevant
+1549,15295278,tba,Not Relevant
+1550,17991767,tba,Relevant
+1551,14656295,tba,Not Relevant
+1552,20966444,tba,Not Relevant
+1553,30981181,tba,Relevant
+1554,15984776,tba,Not Relevant
+1555,18386838,tba,Relevant
+1556,27663475,tba,Not Relevant
+1557,11149105,tba,Not Relevant
+1558,4082424,tba,Not Relevant
+1559,25680552,tba,Not Relevant
+1560,9362003,tba,Not Relevant
+1561,30322458,tba,Not Relevant
+1562,7895612,tba,Relevant
+1563,3799198,tba,Not Relevant
+1564,1435091,tba,Relevant
+1565,11119892,tba,Relevant
+1566,16411163,tba,Not Relevant
+1567,7654491,tba,Relevant
+1568,11247795,tba,Not Relevant
+1569,23742293,tba,Not Relevant
+1570,1490823,tba,Not Relevant
+1571,3310583,tba,Not Relevant
+1572,5124312,tba,Relevant
+1573,8769208,tba,Not Relevant
+1574,15239652,tba,Relevant
+1575,20563655,tba,Not Relevant
+1576,19886226,tba,Not Relevant
+1577,11446697,tba,Not Relevant
+1578,16266734,tba,Not Relevant
+1579,23867642,tba,Not Relevant
+1580,3965580,tba,Not Relevant
+1581,23357766,tba,Not Relevant
+1582,10432677,tba,Not Relevant
+1583,5487617,tba,Not Relevant
+1584,19096843,tba,Not Relevant
+1585,21395360,tba,Not Relevant
+1586,14644660,tba,Not Relevant
+1587,10997403,tba,Not Relevant
+1588,18042506,tba,Relevant
+1589,6354859,tba,Not Relevant
+1590,21188114,tba,Not Relevant
+1591,3315123,tba,Not Relevant
+1592,30474103,tba,Not Relevant
+1593,22593646,tba,Not Relevant
+1594,6874691,tba,Not Relevant
+1595,22143528,tba,Relevant
+1596,10917540,tba,Not Relevant
+1597,18989608,tba,Not Relevant
+1598,19344240,tba,Not Relevant
+1599,11470559,tba,Not Relevant
+1600,12389868,tba,Not Relevant
+1601,6397750,tba,Not Relevant
+1602,2217404,tba,Not Relevant
+1603,18077531,tba,Not Relevant
+1604,10212011,tba,Not Relevant
+1605,9311449,tba,Not Relevant
+1606,32381,tba,Not Relevant
+1607,23770213,tba,Relevant
+1608,23787673,tba,Not Relevant
+1609,30075162,tba,Not Relevant
+1610,26660672,tba,Relevant
+1611,22706017,tba,Not Relevant
+1612,30247920,tba,Relevant
+1613,5764441,tba,Not Relevant
+1614,15043936,tba,Not Relevant
+1615,2491461,tba,Relevant
+1616,11075309,tba,Not Relevant
+1617,29468420,tba,Not Relevant
+1618,22132770,tba,Relevant
+1619,6074277,tba,Not Relevant
+1620,24194513,tba,Relevant
+1621,1596064,tba,Not Relevant
+1622,28808314,tba,Not Relevant
+1623,18097208,tba,Not Relevant
+1624,24470792,tba,Not Relevant
+1625,11067736,tba,Not Relevant
+1626,2561652,tba,Not Relevant
+1627,15022660,tba,Not Relevant
+1628,7851470,tba,Not Relevant
+1629,6144532,tba,Not Relevant
+1630,8883524,tba,Not Relevant
+1631,24903031,tba,Not Relevant
+1632,2293023,tba,Not Relevant
+1633,4035266,tba,Not Relevant
+1634,15060509,tba,Relevant
+1635,28282993,tba,Not Relevant
+1636,10465680,tba,Not Relevant
+1637,15033678,tba,Relevant
+1638,18535877,tba,Not Relevant
+1639,11013490,tba,Not Relevant
+1640,12125374,tba,Not Relevant
+1641,17673476,tba,Relevant
+1642,14614990,tba,Not Relevant
+1643,10784063,tba,Not Relevant
+1644,12958868,tba,Not Relevant
+1645,1696217,tba,Not Relevant
+1646,23756214,tba,Not Relevant
+1647,17497882,tba,Not Relevant
+1648,6213369,tba,Not Relevant
+1649,609864,tba,Not Relevant
+1650,18786259,tba,Not Relevant
+1651,15177925,tba,Not Relevant
+1652,15985474,tba,Not Relevant
+1653,22344880,tba,Not Relevant
+1654,11897581,tba,Relevant
+1655,10590278,tba,Relevant
+1656,19379059,tba,Not Relevant
+1657,11549207,tba,Relevant
+1658,21742547,tba,Not Relevant
+1659,4077440,tba,Relevant
+1660,19952982,tba,Not Relevant
+1661,6055916,tba,Not Relevant
+1662,6287502,tba,Not Relevant
+1663,17085334,tba,Not Relevant
+1664,28254086,tba,Not Relevant
+1665,22487447,tba,Not Relevant
+1666,17117724,tba,Not Relevant
+1667,29221899,tba,Not Relevant
+1668,24495149,tba,Relevant
+1669,22658862,tba,Relevant
+1670,19904568,tba,Not Relevant
+1671,17403849,tba,Not Relevant
+1672,17450625,tba,Relevant
+1673,27006091,tba,Relevant
+1674,11557604,tba,Not Relevant
+1675,28521167,tba,Not Relevant
+1676,29274697,tba,Not Relevant
+1677,12215243,tba,Not Relevant
+1678,2561331,tba,Not Relevant
+1679,25222260,tba,Not Relevant
+1680,23825221,tba,Not Relevant
+1681,12011660,tba,Not Relevant
+1682,15765827,tba,Not Relevant
+1683,3915994,tba,Not Relevant
+1684,28417339,tba,Not Relevant
+1685,1379782,tba,Not Relevant
+1686,19940033,tba,Not Relevant
+1687,24489565,tba,Not Relevant
+1688,22661630,tba,Not Relevant
+1689,684661,tba,Relevant
+1690,7479096,tba,Not Relevant
+1691,4153058,tba,Not Relevant
+1692,6430097,tba,Not Relevant
+1693,1536597,tba,Not Relevant
+1694,12672988,tba,Not Relevant
+1695,13813835,tba,Not Relevant
+1696,6318337,tba,Relevant
+1697,19740703,tba,Not Relevant
+1698,10612108,tba,Not Relevant
+1699,27343476,tba,Not Relevant
+1700,6412919,tba,Not Relevant
+1701,9753131,tba,Not Relevant
+1702,16979934,tba,Not Relevant
+1703,184998,tba,Not Relevant
+1704,30276868,tba,Not Relevant
+1705,25294187,tba,Relevant
+1706,2102982,tba,Not Relevant
+1707,7126419,tba,Relevant
+1708,1457267,tba,Relevant
+1709,2756531,tba,Not Relevant
+1710,868305,tba,Not Relevant
+1711,28945434,tba,Relevant
+1712,541409,tba,Relevant
+1713,26807332,tba,Not Relevant
+1714,12505826,tba,Not Relevant
+1715,1726670,tba,Not Relevant
+1716,17461495,tba,Not Relevant
+1717,14712437,tba,Relevant
+1718,5157766,tba,Not Relevant
+1719,29582929,tba,Not Relevant
+1720,16825689,tba,Not Relevant
+1721,10665963,tba,Not Relevant
+1722,16852451,tba,Not Relevant
+1723,7967632,tba,Not Relevant
+1724,15921268,tba,Not Relevant
+1725,493333,tba,Not Relevant
+1726,24906357,tba,Not Relevant
+1727,24243611,tba,Not Relevant
+1728,12801036,tba,Not Relevant
+1729,19723572,tba,Not Relevant
+1730,8001260,tba,Not Relevant
+1731,17392396,tba,Relevant
+1732,25694060,tba,Not Relevant
+1733,30412644,tba,Not Relevant
+1734,9625049,tba,Not Relevant
+1735,18422652,tba,Not Relevant
+1736,8346158,tba,Not Relevant
+1737,29423489,tba,Relevant
+1738,2591138,tba,Not Relevant
+1739,1510163,tba,Not Relevant
+1740,3199198,tba,Not Relevant
+1741,16164493,tba,Relevant
+1742,1678621,tba,Relevant
+1743,9892318,tba,Not Relevant
+1744,8603281,tba,Not Relevant
+1745,1729766,tba,Not Relevant
+1746,10205463,tba,Not Relevant
+1747,22674563,tba,Not Relevant
+1748,2910899,tba,Not Relevant
+1749,21970471,tba,Relevant
+1750,2460616,tba,Not Relevant
+1751,17704243,tba,Not Relevant
+1752,23721584,tba,Not Relevant
+1753,9200540,tba,Not Relevant
+1754,30172209,tba,Not Relevant
+1755,11554446,tba,Not Relevant
+1756,3125448,tba,Not Relevant
+1757,3949090,tba,Not Relevant
+1758,2108979,tba,Not Relevant
+1759,2235123,tba,Not Relevant
+1760,26296069,tba,Not Relevant
+1761,6788306,tba,Not Relevant
+1762,25681744,tba,Not Relevant
+1763,660529,tba,Not Relevant
+1764,8308696,tba,Not Relevant
+1765,24283396,tba,Relevant
+1766,30849661,tba,Relevant
+1767,25908834,tba,Not Relevant
+1768,30536420,tba,Relevant
+1769,11536917,tba,Not Relevant
+1770,18797152,tba,Not Relevant
+1771,2947935,tba,Relevant
+1772,11334349,tba,Not Relevant
+1773,8077690,tba,Not Relevant
+1774,9648082,tba,Not Relevant
+1775,11437980,tba,Relevant
+1776,31131515,tba,Not Relevant
+1777,9646062,tba,Relevant
+1778,22525079,tba,Not Relevant
+1779,8881659,tba,Not Relevant
+1780,1286937,tba,Relevant
+1781,4804792,tba,Not Relevant
+1782,1518269,tba,Not Relevant
+1783,27837664,tba,Not Relevant
+1784,22665050,tba,Not Relevant
+1785,2498268,tba,Relevant
+1786,24283162,tba,Not Relevant
+1787,11797510,tba,Not Relevant
+1788,7931031,tba,Not Relevant
+1789,23503988,tba,Not Relevant
+1790,12583602,tba,Not Relevant
+1791,18388870,tba,Not Relevant
+1792,25190152,tba,Relevant
+1793,7423735,tba,Not Relevant
+1794,2200250,tba,Not Relevant
+1795,22592987,tba,Not Relevant
+1796,16836247,tba,Not Relevant
+1797,20042053,tba,Not Relevant
+1798,19933527,tba,Not Relevant
+1799,30554015,tba,Not Relevant
+1800,7578383,tba,Not Relevant
+1801,28601765,tba,Not Relevant
+1802,28961171,tba,Relevant
+1803,2573205,tba,Not Relevant
+1804,25956486,tba,Not Relevant
+1805,12385714,tba,Not Relevant
+1806,27501037,tba,Relevant
+1807,22543452,tba,Not Relevant
+1808,1933851,tba,Relevant
+1809,4617567,tba,Not Relevant
+1810,7570676,tba,Not Relevant
+1811,10749317,tba,Not Relevant
+1812,22442826,tba,Relevant
+1813,27693181,tba,Not Relevant
+1814,30394854,tba,Not Relevant
+1815,16944127,tba,Not Relevant
+1816,22994136,tba,Not Relevant
+1817,14559103,tba,Not Relevant
+1818,1982642,tba,Not Relevant
+1819,7156868,tba,Not Relevant
+1820,28040371,tba,Not Relevant
+1821,18550245,tba,Relevant
+1822,23466428,tba,Not Relevant
+1823,25607590,tba,Not Relevant
+1824,2318131,tba,Not Relevant
+1825,17239426,tba,Not Relevant
+1826,6954313,tba,Not Relevant
+1827,15715596,tba,Not Relevant
+1828,7304632,tba,Relevant
+1829,27534937,tba,Not Relevant
+1830,22842015,tba,Not Relevant
+1831,15252778,tba,Not Relevant
+1832,10611459,tba,Relevant
+1833,1675048,tba,Not Relevant
+1834,10828487,tba,Not Relevant
+1835,2628587,tba,Not Relevant
+1836,14718732,tba,Not Relevant
+1837,25607708,tba,Not Relevant
+1838,8363442,tba,Not Relevant
+1839,620203,tba,Not Relevant
+1840,20571610,tba,Not Relevant
+1841,22943280,tba,Not Relevant
+1842,15961594,tba,Not Relevant
+1843,2715254,tba,Relevant
+1844,23637119,tba,Not Relevant
+1845,7486611,tba,Relevant
+1846,10075954,tba,Not Relevant
+1847,4456017,tba,Not Relevant
+1848,7362229,tba,Relevant
+1849,16730273,tba,Not Relevant
+1850,12184788,tba,Relevant
+1851,2652127,tba,Not Relevant
+1852,12046948,tba,Not Relevant
+1853,9810146,tba,Not Relevant
+1854,31005745,tba,Not Relevant
+1855,9766396,tba,Not Relevant
+1856,22374456,tba,Not Relevant
+1857,29304362,tba,Not Relevant
+1858,18473296,tba,Not Relevant
+1859,23354567,tba,Not Relevant
+1860,7992319,tba,Not Relevant
+1861,25474596,tba,Not Relevant
+1862,28976319,tba,Not Relevant
+1863,15123670,tba,Not Relevant
+1864,2310203,tba,Not Relevant
+1865,23421555,tba,Not Relevant
+1866,27285778,tba,Not Relevant
+1867,19088689,tba,Not Relevant
+1868,18293616,tba,Relevant
+1869,18609420,tba,Not Relevant
+1870,19635962,tba,Relevant
+1871,6684934,tba,Relevant
+1872,11736878,tba,Relevant
+1873,2233703,tba,Not Relevant
+1874,12127523,tba,Relevant
+1875,28042085,tba,Not Relevant
+1876,26688135,tba,Not Relevant
+1877,24089542,tba,Relevant
+1878,15607718,tba,Not Relevant
+1879,10564174,tba,Not Relevant
+1880,1910576,tba,Not Relevant
+1881,6829048,tba,Not Relevant
+1882,1471769,tba,Not Relevant
+1883,2139772,tba,Not Relevant
+1884,29993278,tba,Not Relevant
+1885,16837077,tba,Not Relevant
+1886,10050082,tba,Not Relevant
+1887,29880375,tba,Not Relevant
+1888,10490874,tba,Not Relevant
+1889,8546398,tba,Not Relevant
+1890,1469617,tba,Not Relevant
+1891,12822447,tba,Not Relevant
+1892,23259441,tba,Not Relevant
+1893,7430297,tba,Relevant
+1894,25147393,tba,Not Relevant
+1895,2170822,tba,Not Relevant
+1896,8500773,tba,Not Relevant
+1897,1682459,tba,Relevant
+1898,2098643,tba,Not Relevant
+1899,1595964,tba,Relevant
+1900,27353701,tba,Not Relevant
+1901,10375387,tba,Not Relevant
+1902,9388711,tba,Not Relevant
+1903,3709786,tba,Relevant
+1904,3477178,tba,Not Relevant
+1905,2295792,tba,Not Relevant
+1906,2816721,tba,Not Relevant
+1907,24346834,tba,Not Relevant
+1908,6467175,tba,Not Relevant
+1909,8653019,tba,Not Relevant
+1910,8216669,tba,Not Relevant
+1911,22437652,tba,Relevant
+1912,2841320,tba,Not Relevant
+1913,19181312,tba,Not Relevant
+1914,2223431,tba,Relevant
+1915,22471317,tba,Not Relevant
+1916,24101508,tba,Relevant
+1917,28385095,tba,Not Relevant
+1918,5059037,tba,Not Relevant
+1919,20398037,tba,Relevant
+1920,4544969,tba,Not Relevant
+1921,12020064,tba,Not Relevant
+1922,25924917,tba,Not Relevant
+1923,10965812,tba,Not Relevant
+1924,21274882,tba,Relevant
+1925,8891468,tba,Not Relevant
+1926,1473872,tba,Not Relevant
+1927,23512369,tba,Not Relevant
+1928,30192754,tba,Not Relevant
+1929,19147784,tba,Not Relevant
+1930,25446426,tba,Not Relevant
+1931,21434772,tba,Not Relevant
+1932,15742553,tba,Not Relevant
+1933,25231405,tba,Relevant
+1934,3410156,tba,Not Relevant
+1935,22268821,tba,Relevant
+1936,24373858,tba,Not Relevant
+1937,27117375,tba,Not Relevant
+1938,8539070,tba,Not Relevant
+1939,27093751,tba,Not Relevant
+1940,17082877,tba,Relevant
+1941,3668859,tba,Not Relevant
+1942,6844647,tba,Not Relevant
+1943,26936336,tba,Not Relevant
+1944,129212,tba,Not Relevant
+1945,26364849,tba,Not Relevant
+1946,16899729,tba,Not Relevant
+1947,4149919,tba,Not Relevant
+1948,9241592,tba,Not Relevant
+1949,11013130,tba,Not Relevant
+1950,288932,tba,Relevant
+1951,27832514,tba,Relevant
+1952,9892089,tba,Not Relevant
+1953,28472285,tba,Not Relevant
+1954,19895114,tba,Not Relevant
+1955,11920751,tba,Not Relevant
+1956,16625581,tba,Not Relevant
+1957,10601502,tba,Not Relevant
+1958,19779035,tba,Not Relevant
+1959,23704916,tba,Not Relevant
+1960,10486308,tba,Not Relevant
+1961,1512281,tba,Not Relevant
+1962,20055096,tba,Not Relevant
+1963,2015840,tba,Not Relevant
+1964,521221,tba,Not Relevant
+1965,23460034,tba,Relevant
+1966,6773291,tba,Relevant
+1967,28406546,tba,Not Relevant
+1968,25636511,tba,Not Relevant
+1969,27306849,tba,Not Relevant
+1970,15763631,tba,Not Relevant
+1971,14711790,tba,Not Relevant
+1972,19623836,tba,Not Relevant
+1973,19403950,tba,Not Relevant
+1974,2444177,tba,Not Relevant
+1975,18816299,tba,Not Relevant
+1976,26937591,tba,Not Relevant
+1977,25254638,tba,Not Relevant
+1978,27499389,tba,Not Relevant
+1979,8006217,tba,Not Relevant
+1980,25783855,tba,Relevant
+1981,18760927,tba,Not Relevant
+1982,16305476,tba,Not Relevant
+1983,1506072,tba,Relevant
+1984,20205193,tba,Not Relevant
+1985,734081,tba,Not Relevant
+1986,12787127,tba,Not Relevant
+1987,27161280,tba,Not Relevant
+1988,3933822,tba,Not Relevant
+1989,2917341,tba,Not Relevant
+1990,10635598,tba,Not Relevant
+1991,11243204,tba,Relevant
+1992,6456008,tba,Relevant
+1993,1438796,tba,Not Relevant
+1994,2274630,tba,Not Relevant
+1995,18840007,tba,Not Relevant
+1996,2721225,tba,Not Relevant
+1997,10625311,tba,Not Relevant
+1998,29023867,tba,Relevant
+1999,28974738,tba,Not Relevant
+2000,3301901,tba,Not Relevant
+2001,16417035,tba,Not Relevant
+2002,8842345,tba,Relevant
+2003,28074420,tba,Not Relevant
+2004,8894464,tba,Not Relevant
+2005,27886532,tba,Relevant
+2006,10426701,tba,Not Relevant
+2007,12297125,tba,Not Relevant
+2008,17675256,tba,Not Relevant
+2009,1820889,tba,Relevant
+2010,26220913,tba,Not Relevant
+2011,16412237,tba,Not Relevant
+2012,26852854,tba,Not Relevant
+2013,15471733,tba,Not Relevant
+2014,17396619,tba,Not Relevant
+2015,10751901,tba,Not Relevant
+2016,25825484,tba,Not Relevant
+2017,14604211,tba,Not Relevant
+2018,11801808,tba,Not Relevant
+2019,17298952,tba,Not Relevant
+2020,8025332,tba,Not Relevant
+2021,5013369,tba,Not Relevant
+2022,26513528,tba,Not Relevant
+2023,27821250,tba,Not Relevant
+2024,27166429,tba,Not Relevant
+2025,16885612,tba,Not Relevant
+2026,29353821,tba,Relevant
+2027,23681974,tba,Not Relevant
+2028,17008586,tba,Not Relevant
+2029,9510983,tba,Relevant
+2030,28791550,tba,Not Relevant
+2031,6791562,tba,Relevant
+2032,3136948,tba,Not Relevant
+2033,11428164,tba,Not Relevant
+2034,42718,tba,Not Relevant
+2035,430237,tba,Not Relevant
+2036,4407679,tba,Not Relevant
+2037,10576455,tba,Not Relevant
+2038,24718918,tba,Not Relevant
+2039,21543465,tba,Not Relevant
+2040,11334283,tba,Not Relevant
+2041,3972131,tba,Not Relevant
+2042,18927314,tba,Relevant
+2043,29415861,tba,Not Relevant
+2044,10093920,tba,Not Relevant
+2045,16391759,tba,Not Relevant
+2046,12194022,tba,Not Relevant
+2047,1599406,tba,Not Relevant
+2048,30961123,tba,Relevant
+2049,15522980,tba,Not Relevant
+2050,9090709,tba,Not Relevant
+2051,25570731,tba,Relevant
+2052,10638392,tba,Relevant
+2053,536469,tba,Not Relevant
+2054,16910144,tba,Not Relevant
+2055,22071000,tba,Not Relevant
+2056,21473048,tba,Not Relevant
+2057,10620320,tba,Not Relevant
+2058,28441967,tba,Not Relevant
+2059,25313022,tba,Relevant
+2060,9867556,tba,Not Relevant
+2061,22871975,tba,Not Relevant
+2062,26026951,tba,Not Relevant
+2063,26487917,tba,Not Relevant
+2064,27329475,tba,Not Relevant
+2065,15319802,tba,Not Relevant
+2066,2752366,tba,Not Relevant
+2067,10224860,tba,Not Relevant
+2068,26919659,tba,Not Relevant
+2069,17207854,tba,Not Relevant
+2070,8437827,tba,Not Relevant
+2071,25080080,tba,Not Relevant
+2072,1749211,tba,Not Relevant
+2073,12890006,tba,Relevant
+2074,28601755,tba,Relevant
+2075,6759105,tba,Not Relevant
+2076,10028744,tba,Not Relevant
+2077,15325918,tba,Not Relevant
+2078,3738459,tba,Not Relevant
+2079,25864370,tba,Not Relevant
+2080,25222040,tba,Not Relevant
+2081,18487659,tba,Not Relevant
+2082,25737423,tba,Not Relevant
+2083,3349389,tba,Relevant
+2084,25536900,tba,Not Relevant
+2085,18172612,tba,Not Relevant
+2086,8089271,tba,Not Relevant
+2087,11163983,tba,Not Relevant
+2088,7988515,tba,Not Relevant
+2089,19039248,tba,Not Relevant
+2090,23888060,tba,Not Relevant
+2091,565216,tba,Not Relevant
+2092,28765600,tba,Not Relevant
+2093,11150130,tba,Not Relevant
+2094,23238784,tba,Not Relevant
+2095,21626811,tba,Not Relevant
+2096,1970777,tba,Not Relevant
+2097,20811008,tba,Not Relevant
+2098,31004823,tba,Not Relevant
+2099,703012,tba,Not Relevant
+2100,12597538,tba,Not Relevant
+2101,3957489,tba,Relevant
+2102,10511401,tba,Not Relevant
+2103,29874005,tba,Not Relevant
+2104,7480390,tba,Not Relevant
+2105,98115,tba,Relevant
+2106,4972215,tba,Not Relevant
+2107,2658889,tba,Not Relevant
+2108,7891680,tba,Not Relevant
+2109,25944992,tba,Not Relevant
+2110,5481998,tba,Not Relevant
+2111,11456453,tba,Not Relevant
+2112,9661541,tba,Not Relevant
+2113,2680965,tba,Not Relevant
+2114,24290851,tba,Not Relevant
+2115,20424769,tba,Not Relevant
+2116,24451027,tba,Not Relevant
+2117,7836471,tba,Not Relevant
+2118,28369613,tba,Not Relevant
+2119,30218123,tba,Not Relevant
+2120,24286216,tba,Relevant
+2121,11433696,tba,Not Relevant
+2122,26149228,tba,Not Relevant
+2123,2012559,tba,Not Relevant
+2124,20195579,tba,Not Relevant
+2125,3237526,tba,Not Relevant
+2126,23589173,tba,Not Relevant
+2127,5762963,tba,Not Relevant
+2128,17897801,tba,Not Relevant
+2129,28989080,tba,Not Relevant
+2130,12411808,tba,Relevant
+2131,20957217,tba,Not Relevant
+2132,16778721,tba,Not Relevant
+2133,25966866,tba,Not Relevant
+2134,3340084,tba,Not Relevant
+2135,27349771,tba,Not Relevant
+2136,22549977,tba,Not Relevant
+2137,21822666,tba,Not Relevant
+2138,3269608,tba,Not Relevant
+2139,9112342,tba,Not Relevant
+2140,12678408,tba,Not Relevant
+2141,12383447,tba,Not Relevant
+2142,23531079,tba,Not Relevant
+2143,2360338,tba,Not Relevant
+2144,17125532,tba,Not Relevant
+2145,2352172,tba,Not Relevant
+2146,19544367,tba,Not Relevant
+2147,15104134,tba,Not Relevant
+2148,28126271,tba,Not Relevant
+2149,23958439,tba,Not Relevant
+2150,15532067,tba,Relevant
+2151,4027118,tba,Relevant
+2152,9811441,tba,Relevant
+2153,10025364,tba,Relevant
+2154,7582656,tba,Not Relevant
+2155,1319874,tba,Relevant
+2156,2628212,tba,Not Relevant
+2157,1783897,tba,Not Relevant
+2158,28825794,tba,Not Relevant
+2159,2258424,tba,Not Relevant
+2160,2387751,tba,Not Relevant
+2161,4020636,tba,Relevant
+2162,4719397,tba,Not Relevant
+2163,23079519,tba,Relevant
+2164,3754100,tba,Not Relevant
+2165,19911259,tba,Not Relevant
+2166,23369636,tba,Not Relevant
+2167,9004956,tba,Not Relevant
+2168,12018005,tba,Not Relevant
+2169,23035645,tba,Not Relevant
+2170,6549267,tba,Not Relevant
+2171,16978690,tba,Not Relevant
+2172,1674889,tba,Relevant
+2173,2499954,tba,Not Relevant
+2174,10512526,tba,Not Relevant
+2175,12069966,tba,Not Relevant
+2176,26778711,tba,Not Relevant
+2177,2279107,tba,Not Relevant
+2178,24002097,tba,Relevant
+2179,10501205,tba,Not Relevant
+2180,16105568,tba,Not Relevant
+2181,22377965,tba,Not Relevant
+2182,17683175,tba,Not Relevant
+2183,9192283,tba,Not Relevant
+2184,2769308,tba,Not Relevant
+2185,16125355,tba,Not Relevant
+2186,379420,tba,Not Relevant
+2187,29408757,tba,Not Relevant
+2188,6149842,tba,Not Relevant
+2189,11226143,tba,Not Relevant
+2190,6000697,tba,Not Relevant
+2191,8575639,tba,Not Relevant
+2192,11903953,tba,Not Relevant
+2193,8483800,tba,Not Relevant
+2194,8911750,tba,Not Relevant
+2195,6234387,tba,Relevant
+2196,11390729,tba,Relevant
+2197,25795051,tba,Not Relevant
+2198,6206087,tba,Not Relevant
+2199,24882155,tba,Not Relevant
+2200,7878347,tba,Not Relevant
+2201,5697814,tba,Not Relevant
+2202,10604817,tba,Not Relevant
+2203,3209794,tba,Not Relevant
+2204,3366167,tba,Relevant
+2205,11288911,tba,Not Relevant
+2206,16528493,tba,Not Relevant
+2207,817875,tba,Not Relevant
+2208,6416625,tba,Not Relevant
+2209,16344917,tba,Not Relevant
+2210,10486187,tba,Relevant
+2211,15893543,tba,Not Relevant
+2212,23122301,tba,Not Relevant
+2213,2575493,tba,Relevant
+2214,6959116,tba,Not Relevant
+2215,10464766,tba,Relevant
+2216,27068636,tba,Not Relevant
+2217,20123565,tba,Not Relevant
+2218,11551116,tba,Not Relevant
+2219,7105041,tba,Not Relevant
+2220,25152289,tba,Not Relevant
+2221,27556217,tba,Not Relevant
+2222,12584249,tba,Not Relevant
+2223,6906262,tba,Not Relevant
+2224,22285524,tba,Not Relevant
+2225,24329110,tba,Not Relevant
+2226,10814712,tba,Not Relevant
+2227,29693578,tba,Relevant
+2228,22531233,tba,Not Relevant
+2229,19203824,tba,Not Relevant
+2230,3888431,tba,Not Relevant
+2231,1827124,tba,Not Relevant
+2232,18654207,tba,Not Relevant
+2233,209739,tba,Not Relevant
+2234,27734286,tba,Not Relevant
+2235,9640281,tba,Not Relevant
+2236,12642302,tba,Not Relevant
+2237,3618775,tba,Not Relevant
+2238,15591587,tba,Not Relevant
+2239,26349527,tba,Not Relevant
+2240,21751488,tba,Not Relevant
+2241,8986061,tba,Not Relevant
+2242,6768168,tba,Not Relevant
+2243,23726788,tba,Not Relevant
+2244,8852664,tba,Not Relevant
+2245,27560019,tba,Not Relevant
+2246,28350697,tba,Not Relevant
+2247,28141813,tba,Relevant
+2248,5832249,tba,Not Relevant
+2249,4560865,tba,Not Relevant
+2250,2795208,tba,Relevant
+2251,1146275,tba,Not Relevant
+2252,1839084,tba,Not Relevant
+2253,6371583,tba,Not Relevant
+2254,17311984,tba,Not Relevant
+2255,19736932,tba,Relevant
+2256,22116543,tba,Relevant
+2257,15643550,tba,Relevant
+2258,7112759,tba,Not Relevant
+2259,26338001,tba,Not Relevant
+2260,12738265,tba,Not Relevant
+2261,6480923,tba,Not Relevant
+2262,11036983,tba,Not Relevant
+2263,2830204,tba,Not Relevant
+2264,27736030,tba,Not Relevant
+2265,15001711,tba,Not Relevant
+2266,17604275,tba,Not Relevant
+2267,2246677,tba,Not Relevant
+2268,11817063,tba,Not Relevant
+2269,6324123,tba,Not Relevant
+2270,16846797,tba,Not Relevant
+2271,10620470,tba,Not Relevant
+2272,18370508,tba,Relevant
+2273,6699200,tba,Not Relevant
+2274,26474199,tba,Not Relevant
+2275,26202187,tba,Not Relevant
+2276,1332353,tba,Not Relevant
+2277,9707499,tba,Not Relevant
+2278,512321,tba,Not Relevant
+2279,19855983,tba,Not Relevant
+2280,18248425,tba,Not Relevant
+2281,11375721,tba,Not Relevant
+2282,7952097,tba,Not Relevant
+2283,1130521,tba,Not Relevant
+2284,7106988,tba,Relevant
+2285,25695586,tba,Not Relevant
+2286,14951450,tba,Not Relevant
+2287,1782737,tba,Not Relevant
+2288,25593342,tba,Not Relevant
+2289,14760610,tba,Not Relevant
+2290,5371202,tba,Not Relevant
+2291,2781704,tba,Not Relevant
+2292,19573733,tba,Not Relevant
+2293,4378073,tba,Not Relevant
+2294,10563310,tba,Not Relevant
+2295,12810299,tba,Not Relevant
+2296,3915154,tba,Not Relevant
+2297,17537876,tba,Not Relevant
+2298,24113673,tba,Not Relevant
+2299,29096571,tba,Not Relevant
+2300,12177769,tba,Not Relevant
+2301,2329429,tba,Relevant
+2302,25384117,tba,Relevant
+2303,19962299,tba,Not Relevant
+2304,29633270,tba,Not Relevant
+2305,6283699,tba,Relevant
+2306,7508204,tba,Not Relevant
+2307,10512075,tba,Relevant
+2308,9885302,tba,Relevant
+2309,7840569,tba,Not Relevant
+2310,12851049,tba,Not Relevant
+2311,2892925,tba,Not Relevant
+2312,26491012,tba,Relevant
+2313,17719196,tba,Relevant
+2314,7159316,tba,Not Relevant
+2315,4151382,tba,Not Relevant
+2316,2113749,tba,Not Relevant
+2317,15669332,tba,Not Relevant
+2318,18058046,tba,Not Relevant
+2319,6421538,tba,Relevant
+2320,2837834,tba,Not Relevant
+2321,25073836,tba,Relevant
+2322,20175526,tba,Not Relevant
+2323,10667929,tba,Not Relevant
+2324,12019626,tba,Not Relevant
+2325,19783127,tba,Not Relevant
+2326,130395,tba,Not Relevant
+2327,21420284,tba,Not Relevant
+2328,467631,tba,Not Relevant
+2329,11711314,tba,Not Relevant
+2330,1356330,tba,Not Relevant
+2331,10845858,tba,Not Relevant
+2332,6396052,tba,Not Relevant
+2333,26992790,tba,Not Relevant
+2334,30082554,tba,Relevant
+2335,1826901,tba,Relevant
+2336,15032249,tba,Not Relevant
+2337,17374790,tba,Not Relevant
+2338,23510368,tba,Not Relevant
+2339,15979103,tba,Relevant
+2340,20849319,tba,Not Relevant
+2341,16777285,tba,Not Relevant
+2342,12019874,tba,Not Relevant
+2343,7207158,tba,Not Relevant
+2344,11216526,tba,Not Relevant
+2345,6491984,tba,Relevant
+2346,21276042,tba,Relevant
+2347,20351346,tba,Not Relevant
+2348,18241888,tba,Not Relevant
+2349,19555240,tba,Not Relevant
+2350,17464745,tba,Not Relevant
+2351,16713082,tba,Not Relevant
+2352,30118378,tba,Not Relevant
+2353,11359113,tba,Not Relevant
+2354,15257305,tba,Not Relevant
+2355,29281130,tba,Not Relevant
+2356,8494382,tba,Relevant
+2357,18848482,tba,Not Relevant
+2358,1148050,tba,Not Relevant
+2359,26752674,tba,Not Relevant
+2360,2379173,tba,Relevant
+2361,17143057,tba,Not Relevant
+2362,8593490,tba,Relevant
+2363,17722625,tba,Not Relevant
+2364,2861054,tba,Not Relevant
+2365,9815200,tba,Not Relevant
+2366,10836296,tba,Not Relevant
+2367,2122660,tba,Not Relevant
+2368,369179,tba,Not Relevant
+2369,18478192,tba,Relevant
+2370,18486370,tba,Relevant
+2371,7032901,tba,Not Relevant
+2372,24648045,tba,Not Relevant
+2373,22661887,tba,Not Relevant
+2374,25533183,tba,Not Relevant
+2375,17941730,tba,Not Relevant
+2376,11557606,tba,Not Relevant
+2377,1779667,tba,Not Relevant
+2378,11420886,tba,Relevant
+2379,163960,tba,Not Relevant
+2380,6752461,tba,Relevant
+2381,26352940,tba,Not Relevant
+2382,19362776,tba,Not Relevant
+2383,30627536,tba,Not Relevant
+2384,1514187,tba,Not Relevant
+2385,14978538,tba,Not Relevant
+2386,7281778,tba,Not Relevant
+2387,9816007,tba,Not Relevant
+2388,18763369,tba,Not Relevant
+2389,28933337,tba,Relevant
+2390,19595589,tba,Not Relevant
+2391,28728299,tba,Not Relevant
+2392,8353099,tba,Relevant
+2393,23206758,tba,Not Relevant
+2394,5138435,tba,Not Relevant
+2395,26184450,tba,Relevant
+2396,7037118,tba,Not Relevant
+2397,30908087,tba,Not Relevant
+2398,10903894,tba,Not Relevant
+2399,31471014,tba,Relevant
+2400,17004737,tba,Not Relevant
+2401,8859183,tba,Relevant
+2402,8094762,tba,Not Relevant
+2403,8588100,tba,Not Relevant
+2404,6872137,tba,Not Relevant
+2405,28093298,tba,Relevant
+2406,6438979,tba,Not Relevant
+2407,7004683,tba,Not Relevant
+2408,19006470,tba,Relevant
+2409,10097361,tba,Not Relevant
+2410,12942852,tba,Relevant
+2411,15739758,tba,Not Relevant
+2412,16325997,tba,Not Relevant
+2413,3166522,tba,Not Relevant
+2414,27523997,tba,Not Relevant
+2415,14749551,tba,Relevant
+2416,19551499,tba,Not Relevant
+2417,1678747,tba,Not Relevant
+2418,29537855,tba,Relevant
+2419,6380538,tba,Not Relevant
+2420,8526730,tba,Not Relevant
+2421,10910060,tba,Not Relevant
+2422,24753234,tba,Not Relevant
+2423,7712034,tba,Not Relevant
+2424,4123373,tba,Not Relevant
+2425,621578,tba,Not Relevant
+2426,10494381,tba,Not Relevant
+2427,7006804,tba,Not Relevant
+2428,12902890,tba,Relevant
+2429,19070269,tba,Not Relevant
+2430,12750156,tba,Not Relevant
+2431,28662343,tba,Relevant
+2432,3384820,tba,Not Relevant
+2433,2353325,tba,Relevant
+2434,6382950,tba,Not Relevant
+2435,17318022,tba,Not Relevant
+2436,29948492,tba,Not Relevant
+2437,3806601,tba,Not Relevant
+2438,2098520,tba,Not Relevant
+2439,9452221,tba,Not Relevant
+2440,6838235,tba,Not Relevant
+2441,7662501,tba,Not Relevant
+2442,6436365,tba,Not Relevant
+2443,30208518,tba,Not Relevant
+2444,10745281,tba,Not Relevant
+2445,9572913,tba,Not Relevant
+2446,7093907,tba,Not Relevant
+2447,1943832,tba,Not Relevant
+2448,18408137,tba,Not Relevant
+2449,24362330,tba,Not Relevant
+2450,4423999,tba,Not Relevant
+2451,28585177,tba,Relevant
+2452,8546439,tba,Not Relevant
+2453,8930779,tba,Relevant
+2454,3359216,tba,Not Relevant
+2455,16100679,tba,Not Relevant
+2456,29909416,tba,Not Relevant
+2457,26956592,tba,Relevant
+2458,29844208,tba,Not Relevant
+2459,16995327,tba,Relevant
+2460,5477259,tba,Relevant
+2461,9248767,tba,Relevant
+2462,8032155,tba,Not Relevant
+2463,5492217,tba,Not Relevant
+2464,2897058,tba,Not Relevant
+2465,1848349,tba,Not Relevant
+2466,7390653,tba,Not Relevant
+2467,8953815,tba,Not Relevant
+2468,2582539,tba,Not Relevant
+2469,3463410,tba,Not Relevant
+2470,25152243,tba,Relevant
+2471,30214302,tba,Not Relevant
+2472,14703194,tba,Not Relevant
+2473,23253428,tba,Not Relevant
+2474,23881042,tba,Not Relevant
+2475,11513124,tba,Not Relevant
+2476,16443632,tba,Not Relevant
+2477,28917923,tba,Not Relevant
+2478,15992367,tba,Not Relevant
+2479,12397367,tba,Not Relevant
+2480,11050293,tba,Not Relevant
+2481,22975500,tba,Not Relevant
+2482,3240451,tba,Not Relevant
+2483,2353935,tba,Not Relevant
+2484,7623757,tba,Not Relevant
+2485,3130980,tba,Not Relevant
+2486,24026957,tba,Not Relevant
+2487,8437106,tba,Not Relevant
+2488,23243948,tba,Not Relevant
+2489,30138519,tba,Not Relevant
+2490,13129923,tba,Not Relevant
+2491,15684491,tba,Relevant
+2492,1652416,tba,Relevant
+2493,6620186,tba,Not Relevant
+2494,22975967,tba,Not Relevant
+2495,9068940,tba,Not Relevant
+2496,3367617,tba,Relevant
+2497,3278442,tba,Not Relevant
+2498,16824729,tba,Not Relevant
+2499,1885709,tba,Not Relevant
+2500,21507814,tba,Not Relevant
+2501,367107,tba,Not Relevant
+2502,5735621,tba,Not Relevant
+2503,26546947,tba,Relevant
+2504,18059051,tba,Relevant
+2505,8644462,tba,Not Relevant
+2506,10634921,tba,Not Relevant
+2507,6178075,tba,Not Relevant
+2508,17006844,tba,Not Relevant
+2509,27957743,tba,Relevant
+2510,28590019,tba,Not Relevant
+2511,11672755,tba,Relevant
+2512,18378563,tba,Relevant
+2513,25871865,tba,Not Relevant
+2514,14191591,tba,Not Relevant
+2515,25616737,tba,Not Relevant
+2516,14727972,tba,Not Relevant
+2517,26306754,tba,Not Relevant
+2518,24424304,tba,Not Relevant
+2519,20068064,tba,Not Relevant
+2520,24603244,tba,Not Relevant
+2521,84852,tba,Not Relevant
+2522,23380426,tba,Relevant
+2523,2568405,tba,Not Relevant
+2524,3578520,tba,Not Relevant
+2525,24625764,tba,Not Relevant
+2526,11152017,tba,Not Relevant
+2527,26825378,tba,Not Relevant
+2528,5658992,tba,Not Relevant
+2529,12878416,tba,Not Relevant
+2530,8786978,tba,Relevant
+2531,7738811,tba,Not Relevant
+2532,6715563,tba,Relevant
+2533,3618793,tba,Not Relevant
+2534,30063978,tba,Not Relevant
+2535,24825249,tba,Not Relevant
+2536,10359412,tba,Not Relevant
+2537,3606058,tba,Relevant
+2538,12113063,tba,Not Relevant
+2539,17942285,tba,Relevant
+2540,22537561,tba,Not Relevant
+2541,6697677,tba,Relevant
+2542,17101985,tba,Not Relevant
+2543,3148670,tba,Relevant
+2544,14762081,tba,Not Relevant
+2545,8469782,tba,Not Relevant
+2546,2377947,tba,Not Relevant
+2547,5442215,tba,Not Relevant
+2548,19084873,tba,Not Relevant
+2549,21222187,tba,Not Relevant
+2550,1905350,tba,Not Relevant
+2551,25657337,tba,Relevant
+2552,7573412,tba,Not Relevant
+2553,21094153,tba,Not Relevant
+2554,7599006,tba,Not Relevant
+2555,5353724,tba,Not Relevant
+2556,23623399,tba,Not Relevant
+2557,26586461,tba,Not Relevant
+2558,29325818,tba,Not Relevant
+2559,30247811,tba,Not Relevant
+2560,9096096,tba,Not Relevant
+2561,29448183,tba,Not Relevant
+2562,7452492,tba,Relevant
+2563,1800465,tba,Not Relevant
+2564,23370356,tba,Not Relevant
+2565,24786603,tba,Relevant
+2566,16890576,tba,Not Relevant
+2567,20811132,tba,Not Relevant
+2568,8338131,tba,Not Relevant
+2569,8147566,tba,Not Relevant
+2570,10820645,tba,Not Relevant
+2571,8872714,tba,Not Relevant
+2572,11744613,tba,Relevant
+2573,28683216,tba,Not Relevant
+2574,21807883,tba,Relevant
+2575,27726640,tba,Not Relevant
+2576,21812421,tba,Not Relevant
+2577,4756882,tba,Not Relevant
+2578,27126326,tba,Not Relevant
+2579,5986191,tba,Not Relevant
+2580,24900480,tba,Relevant
+2581,2721604,tba,Relevant
+2582,23451103,tba,Not Relevant
+2583,27120177,tba,Relevant
+2584,13970425,tba,Not Relevant
+2585,20576405,tba,Not Relevant
+2586,16173558,tba,Not Relevant
+2587,9757014,tba,Not Relevant
+2588,9751420,tba,Not Relevant
+2589,26661202,tba,Not Relevant
+2590,6180128,tba,Not Relevant
+2591,1652031,tba,Not Relevant
+2592,29254680,tba,Relevant
+2593,22139691,tba,Relevant
+2594,20171941,tba,Not Relevant
+2595,9809677,tba,Not Relevant
+2596,8306146,tba,Not Relevant
+2597,27843598,tba,Not Relevant
+2598,10720807,tba,Not Relevant
+2599,10321671,tba,Not Relevant
+2600,26249584,tba,Not Relevant
+2601,1749082,tba,Not Relevant
+2602,17902170,tba,Not Relevant
+2603,15885459,tba,Not Relevant
+2604,3131059,tba,Not Relevant
+2605,29198674,tba,Not Relevant
+2606,17019653,tba,Not Relevant
+2607,19578302,tba,Relevant
+2608,25304311,tba,Not Relevant
+2609,16824935,tba,Not Relevant
+2610,27256698,tba,Not Relevant
+2611,8863052,tba,Not Relevant
+2612,7340641,tba,Not Relevant
+2613,3068900,tba,Not Relevant
+2614,7093102,tba,Relevant
+2615,18688908,tba,Not Relevant
+2616,26361892,tba,Not Relevant
+2617,732718,tba,Not Relevant
+2618,16426882,tba,Not Relevant
+2619,7976419,tba,Not Relevant
+2620,21122820,tba,Not Relevant
+2621,688238,tba,Not Relevant
+2622,2209775,tba,Not Relevant
+2623,10353549,tba,Not Relevant
+2624,2755119,tba,Not Relevant
+2625,6518091,tba,Relevant
+2626,18053323,tba,Not Relevant
+2627,10595316,tba,Not Relevant
+2628,17579357,tba,Not Relevant
+2629,30947665,tba,Not Relevant
+2630,24460510,tba,Not Relevant
+2631,27940270,tba,Not Relevant
+2632,10756596,tba,Not Relevant
+2633,20978165,tba,Relevant
+2634,6896886,tba,Not Relevant
+2635,2087410,tba,Not Relevant
+2636,30197030,tba,Not Relevant
+2637,3231892,tba,Not Relevant
+2638,3973937,tba,Not Relevant
+2639,21642642,tba,Not Relevant
+2640,30887226,tba,Relevant
+2641,12433798,tba,Not Relevant
+2642,12237121,tba,Not Relevant
+2643,3988644,tba,Not Relevant
+2644,4985341,tba,Not Relevant
+2645,30424502,tba,Relevant
+2646,27020654,tba,Not Relevant
+2647,14988120,tba,Not Relevant
+2648,3588651,tba,Relevant
+2649,932967,tba,Not Relevant
+2650,19339162,tba,Relevant
+2651,409096,tba,Not Relevant
+2652,15085875,tba,Not Relevant
+2653,4850261,tba,Not Relevant
+2654,16772486,tba,Not Relevant
+2655,6891599,tba,Relevant
+2656,8795026,tba,Not Relevant
+2657,16219448,tba,Relevant
+2658,11346897,tba,Not Relevant
+2659,11073803,tba,Not Relevant
+2660,6496872,tba,Relevant
+2661,17697065,tba,Not Relevant
+2662,29967606,tba,Not Relevant
+2663,19820270,tba,Relevant
+2664,1446488,tba,Not Relevant
+2665,23596529,tba,Not Relevant
+2666,12074600,tba,Not Relevant
+2667,953821,tba,Not Relevant
+2668,9056582,tba,Not Relevant
+2669,16552498,tba,Not Relevant
+2670,7704917,tba,Not Relevant
+2671,2979114,tba,Not Relevant
+2672,26123277,tba,Not Relevant
+2673,20498559,tba,Not Relevant
+2674,28771277,tba,Not Relevant
+2675,16454493,tba,Not Relevant
+2676,19002364,tba,Not Relevant
+2677,2928467,tba,Not Relevant
+2678,17151867,tba,Not Relevant
+2679,10614682,tba,Not Relevant
+2680,29301023,tba,Not Relevant
+2681,6402011,tba,Not Relevant
+2682,9527816,tba,Not Relevant
+2683,3975900,tba,Not Relevant
+2684,3664929,tba,Relevant
+2685,28808905,tba,Relevant
+2686,24095802,tba,Relevant
+2687,24422530,tba,Relevant
+2688,19538672,tba,Relevant
+2689,8142328,tba,Not Relevant
+2690,26780157,tba,Relevant
+2691,17270409,tba,Relevant
+2692,2811345,tba,Not Relevant
+2693,28864252,tba,Not Relevant
+2694,4431661,tba,Not Relevant
+2695,16640455,tba,Relevant
+2696,11886006,tba,Relevant
+2697,511347,tba,Not Relevant
+2698,18318784,tba,Relevant
+2699,10213222,tba,Not Relevant
+2700,9497016,tba,Relevant
+2701,21121374,tba,Not Relevant
+2702,9725633,tba,Not Relevant
+2703,23249839,tba,Not Relevant
+2704,4038674,tba,Not Relevant
+2705,10082325,tba,Not Relevant
+2706,3500925,tba,Not Relevant
+2707,24900608,tba,Not Relevant
+2708,26418053,tba,Not Relevant
+2709,467328,tba,Relevant
+2710,8866038,tba,Relevant
+2711,6848703,tba,Not Relevant
+2712,11960317,tba,Not Relevant
+2713,1777057,tba,Not Relevant
+2714,4803421,tba,Not Relevant
+2715,3181182,tba,Not Relevant
+2716,25793001,tba,Relevant
+2717,27274274,tba,Not Relevant
+2718,27312540,tba,Not Relevant
+2719,2898346,tba,Relevant
+2720,28283500,tba,Not Relevant
+2721,23356842,tba,Relevant
+2722,18320937,tba,Not Relevant
+2723,29479799,tba,Not Relevant
+2724,583252,tba,Not Relevant
+2725,24097307,tba,Not Relevant
+2726,28120466,tba,Not Relevant
+2727,28253084,tba,Not Relevant
+2728,966152,tba,Relevant
+2729,6482701,tba,Not Relevant
+2730,16898676,tba,Not Relevant
+2731,12138191,tba,Not Relevant
+2732,6673975,tba,Not Relevant
+2733,17241513,tba,Not Relevant
+2734,3676163,tba,Not Relevant
+2735,1690790,tba,Not Relevant
+2736,27469220,tba,Relevant
+2737,9112355,tba,Not Relevant
+2738,29209862,tba,Not Relevant
+2739,28533679,tba,Relevant
+2740,15032427,tba,Not Relevant
+2741,3612318,tba,Not Relevant
+2742,4030889,tba,Not Relevant
+2743,16198649,tba,Not Relevant
+2744,4214178,tba,Not Relevant
+2745,22034441,tba,Not Relevant
+2746,3411938,tba,Not Relevant
+2747,21515047,tba,Not Relevant
+2748,21090793,tba,Not Relevant
+2749,19481269,tba,Not Relevant
+2750,24694600,tba,Not Relevant
+2751,21110387,tba,Relevant
+2752,1975759,tba,Not Relevant
+2753,22044023,tba,Not Relevant
+2754,16076079,tba,Not Relevant
+2755,20919414,tba,Relevant
+2756,26844734,tba,Not Relevant
+2757,4955784,tba,Not Relevant
+2758,11526485,tba,Not Relevant
+2759,22690657,tba,Not Relevant
+2760,30772469,tba,Not Relevant
+2761,3589526,tba,Relevant
+2762,1151163,tba,Not Relevant
+2763,7592909,tba,Not Relevant
+2764,27144541,tba,Not Relevant
+2765,1321926,tba,Not Relevant
+2766,9481979,tba,Relevant
+2767,1030192,tba,Not Relevant
+2768,9034910,tba,Not Relevant
+2769,16353145,tba,Not Relevant
+2770,3673381,tba,Not Relevant
+2771,3725177,tba,Not Relevant
+2772,3254874,tba,Not Relevant
+2773,6141607,tba,Not Relevant
+2774,1648524,tba,Not Relevant
+2775,17635180,tba,Not Relevant
+2776,29651770,tba,Relevant
+2777,5653201,tba,Not Relevant
+2778,15277497,tba,Not Relevant
+2779,18031729,tba,Not Relevant
+2780,2130592,tba,Not Relevant
+2781,10077446,tba,Relevant
+2782,10573172,tba,Not Relevant
+2783,30179702,tba,Not Relevant
+2784,11856967,tba,Not Relevant
+2785,24428561,tba,Not Relevant
+2786,24645580,tba,Not Relevant
+2787,29685163,tba,Not Relevant
+2788,3826754,tba,Relevant
+2789,1653983,tba,Not Relevant
+2790,8503145,tba,Not Relevant
+2791,9860897,tba,Not Relevant
+2792,455295,tba,Not Relevant
+2793,21158450,tba,Not Relevant
+2794,25030284,tba,Not Relevant
+2795,12904139,tba,Not Relevant
+2796,19957932,tba,Not Relevant
+2797,10064316,tba,Not Relevant
+2798,27143941,tba,Not Relevant
+2799,527639,tba,Not Relevant
+2800,3136914,tba,Not Relevant
+2801,21568937,tba,Not Relevant
+2802,8554363,tba,Not Relevant
+2803,11712400,tba,Not Relevant
+2804,24760211,tba,Not Relevant
+2805,3612496,tba,Relevant
+2806,4063148,tba,Relevant
+2807,22975726,tba,Not Relevant
+2808,26846320,tba,Relevant
+2809,30722647,tba,Not Relevant
+2810,4595419,tba,Not Relevant
+2811,14994278,tba,Not Relevant
+2812,19167080,tba,Not Relevant
+2813,17722738,tba,Not Relevant
+2814,9372965,tba,Not Relevant
+2815,24098676,tba,Not Relevant
+2816,30356077,tba,Not Relevant
+2817,5123330,tba,Not Relevant
+2818,6643612,tba,Relevant
+2819,15545088,tba,Not Relevant
+2820,7004526,tba,Not Relevant
+2821,20180933,tba,Relevant
+2822,2046021,tba,Not Relevant
+2823,7646538,tba,Not Relevant
+2824,10100598,tba,Relevant
+2825,5350373,tba,Not Relevant
+2826,14400044,tba,Not Relevant
+2827,19834025,tba,Not Relevant
+2828,23360328,tba,Not Relevant
+2829,19519358,tba,Not Relevant
+2830,12833978,tba,Not Relevant
+2831,29453687,tba,Relevant
+2832,12843865,tba,Not Relevant
+2833,10077469,tba,Not Relevant
+2834,21887293,tba,Not Relevant
+2835,26086111,tba,Relevant
+2836,12725720,tba,Not Relevant
+2837,27425201,tba,Not Relevant
+2838,16251637,tba,Not Relevant
+2839,8066777,tba,Not Relevant
+2840,12413136,tba,Not Relevant
+2841,11553631,tba,Not Relevant
+2842,1335926,tba,Not Relevant
+2843,10498210,tba,Relevant
+2844,14744740,tba,Not Relevant
+2845,6765213,tba,Not Relevant
+2846,15289374,tba,Not Relevant
+2847,1226721,tba,Not Relevant
+2848,21427012,tba,Not Relevant
+2849,25757439,tba,Relevant
+2850,8150320,tba,Relevant
+2851,28832521,tba,Not Relevant
+2852,16570923,tba,Not Relevant
+2853,7576009,tba,Not Relevant
+2854,9808337,tba,Not Relevant
+2855,6350024,tba,Not Relevant
+2856,15756276,tba,Relevant
+2857,31411489,tba,Relevant
+2858,17017381,tba,Not Relevant
+2859,24409520,tba,Relevant
+2860,30098864,tba,Not Relevant
+2861,6147827,tba,Not Relevant
+2862,17974267,tba,Not Relevant
+2863,25142782,tba,Not Relevant
+2864,23352636,tba,Relevant
+2865,10919747,tba,Not Relevant
+2866,2210612,tba,Not Relevant
+2867,6139149,tba,Not Relevant
+2868,9749441,tba,Not Relevant
+2869,17250681,tba,Not Relevant
+2870,8984295,tba,Not Relevant
+2871,3365692,tba,Not Relevant
+2872,25491630,tba,Not Relevant
+2873,8230867,tba,Not Relevant
+2874,19437690,tba,Not Relevant
+2875,3304960,tba,Not Relevant
+2876,19847627,tba,Not Relevant
+2877,23775622,tba,Not Relevant
+2878,15827572,tba,Not Relevant
+2879,25646783,tba,Not Relevant
+2880,12089382,tba,Not Relevant
+2881,16086451,tba,Not Relevant
+2882,11569640,tba,Not Relevant
+2883,17326840,tba,Not Relevant
+2884,5249534,tba,Not Relevant
+2885,29439608,tba,Not Relevant
+2886,19266426,tba,Relevant
+2887,26263972,tba,Not Relevant
+2888,18636706,tba,Not Relevant
+2889,21756949,tba,Not Relevant
+2890,19228383,tba,Not Relevant
+2891,7916183,tba,Not Relevant
+2892,3292000,tba,Not Relevant
+2893,27594691,tba,Not Relevant
+2894,11743120,tba,Not Relevant
+2895,15465773,tba,Not Relevant
+2896,8731219,tba,Not Relevant
+2897,11782211,tba,Not Relevant
+2898,9402467,tba,Not Relevant
+2899,19660005,tba,Relevant
+2900,17637187,tba,Not Relevant
+2901,15809333,tba,Not Relevant
+2902,3198299,tba,Relevant
+2903,960284,tba,Not Relevant
+2904,30651158,tba,Relevant
+2905,21592549,tba,Not Relevant
+2906,14734680,tba,Not Relevant
+2907,10640521,tba,Not Relevant
+2908,25648815,tba,Not Relevant
+2909,12117349,tba,Not Relevant
+2910,43538,tba,Not Relevant
+2911,25953731,tba,Not Relevant
+2912,25114529,tba,Relevant
+2913,26067173,tba,Not Relevant
+2914,5581453,tba,Not Relevant
+2915,9227668,tba,Not Relevant
+2916,11129101,tba,Not Relevant
+2917,8385022,tba,Relevant
+2918,18320185,tba,Relevant
+2919,5429158,tba,Not Relevant
+2920,30336192,tba,Not Relevant
+2921,15902799,tba,Not Relevant
+2922,7274310,tba,Relevant
+2923,2539685,tba,Relevant
+2924,2041162,tba,Relevant
+2925,2253667,tba,Relevant
+2926,29117181,tba,Not Relevant
+2927,25343350,tba,Not Relevant
+2928,19027760,tba,Not Relevant
+2929,21999529,tba,Not Relevant
+2930,15927907,tba,Not Relevant
+2931,28901664,tba,Not Relevant
+2932,28731675,tba,Not Relevant
+2933,28723750,tba,Not Relevant
+2934,24646704,tba,Relevant
+2935,6989759,tba,Not Relevant
+2936,13107223,tba,Not Relevant
+2937,2893704,tba,Relevant
+2938,17240027,tba,Not Relevant
+2939,18380600,tba,Not Relevant
+2940,24633923,tba,Relevant
+2941,20116874,tba,Not Relevant
+2942,4740245,tba,Not Relevant
+2943,29098580,tba,Not Relevant
+2944,11779196,tba,Not Relevant
+2945,16988114,tba,Not Relevant
+2946,16387443,tba,Not Relevant
+2947,15650007,tba,Not Relevant
+2948,21342038,tba,Not Relevant
+2949,19557506,tba,Not Relevant
+2950,6702600,tba,Not Relevant
+2951,2701299,tba,Not Relevant
+2952,23621113,tba,Not Relevant
+2953,16296785,tba,Not Relevant
+2954,822269,tba,Not Relevant
+2955,2657617,tba,Relevant
+2956,17803729,tba,Not Relevant
+2957,9822912,tba,Not Relevant
+2958,8324929,tba,Not Relevant
+2959,28412689,tba,Not Relevant
+2960,17610996,tba,Not Relevant
+2961,2867153,tba,Not Relevant
+2962,9247180,tba,Relevant
+2963,25554071,tba,Not Relevant
+2964,28689098,tba,Not Relevant
+2965,18533086,tba,Not Relevant
+2966,11095573,tba,Not Relevant
+2967,9048587,tba,Not Relevant
+2968,2115985,tba,Not Relevant
+2969,31166686,tba,Not Relevant
+2970,4026929,tba,Relevant
+2971,18306292,tba,Relevant
+2972,6143591,tba,Not Relevant
+2973,2320122,tba,Not Relevant
+2974,10383928,tba,Relevant
+2975,28394925,tba,Not Relevant
+2976,7630328,tba,Not Relevant
+2977,8863473,tba,Not Relevant
+2978,6773627,tba,Not Relevant
+2979,23818776,tba,Relevant
+2980,7885353,tba,Relevant
+2981,30864085,tba,Not Relevant
+2982,6144159,tba,Not Relevant
+2983,17378442,tba,Relevant
+2984,25082735,tba,Not Relevant
+2985,29636218,tba,Not Relevant
+2986,16287258,tba,Not Relevant
+2987,10378362,tba,Not Relevant
+2988,2641633,tba,Not Relevant
+2989,26259716,tba,Not Relevant
+2990,17459667,tba,Not Relevant
+2991,17325899,tba,Relevant
+2992,25160,tba,Not Relevant
+2993,6381515,tba,Not Relevant
+2994,28536023,tba,Relevant
+2995,8126999,tba,Not Relevant
+2996,17574990,tba,Not Relevant
+2997,16460870,tba,Not Relevant
+2998,853022,tba,Not Relevant
+2999,11931448,tba,Not Relevant
+3000,30391789,tba,Not Relevant
+3001,26895507,tba,Not Relevant
+3002,25041947,tba,Not Relevant
+3003,22736376,tba,Not Relevant
+3004,2203009,tba,Not Relevant
+3005,9638308,tba,Not Relevant
+3006,6519121,tba,Relevant
+3007,15109145,tba,Not Relevant
+3008,12785456,tba,Not Relevant
+3009,22415360,tba,Not Relevant
+3010,16802853,tba,Relevant
+3011,16892339,tba,Not Relevant
+3012,30006023,tba,Not Relevant
+3013,11032923,tba,Relevant
+3014,20385854,tba,Relevant
+3015,11550078,tba,Not Relevant
+3016,16280085,tba,Not Relevant
+3017,8020535,tba,Not Relevant
+3018,8698064,tba,Not Relevant
+3019,25283614,tba,Not Relevant
+3020,7179325,tba,Relevant
+3021,8557010,tba,Not Relevant
+3022,10852646,tba,Not Relevant
+3023,23314933,tba,Not Relevant
+3024,6782425,tba,Not Relevant
+3025,9802247,tba,Not Relevant
+3026,24815113,tba,Not Relevant
+3027,14334019,tba,Not Relevant
+3028,20942834,tba,Not Relevant
+3029,29259982,tba,Relevant
+3030,5030580,tba,Not Relevant
+3031,21852130,tba,Not Relevant
+3032,21835424,tba,Not Relevant
+3033,21828909,tba,Not Relevant
+3034,2312414,tba,Not Relevant
+3035,10576037,tba,Not Relevant
+3036,21718088,tba,Relevant
+3037,24460481,tba,Not Relevant
+3038,5038963,tba,Not Relevant
+3039,29167066,tba,Not Relevant
+3040,29017426,tba,Relevant
+3041,11804276,tba,Not Relevant
+3042,4376939,tba,Not Relevant
+3043,8353095,tba,Relevant
+3044,24814876,tba,Not Relevant
+3045,16804161,tba,Not Relevant
+3046,8916050,tba,Not Relevant
+3047,3824710,tba,Not Relevant
+3048,27238011,tba,Not Relevant
+3049,24514453,tba,Not Relevant
+3050,10541257,tba,Not Relevant
+3051,2551541,tba,Not Relevant
+3052,27735915,tba,Not Relevant
+3053,9512791,tba,Not Relevant
+3054,20720434,tba,Not Relevant
+3055,4413732,tba,Not Relevant
+3056,17645874,tba,Not Relevant
+3057,8742004,tba,Not Relevant
+3058,3478331,tba,Not Relevant
+3059,27552090,tba,Not Relevant
+3060,21719264,tba,Not Relevant
+3061,18482898,tba,Not Relevant
+3062,1638952,tba,Not Relevant
+3063,21191392,tba,Not Relevant
+3064,16048354,tba,Not Relevant
+3065,12099577,tba,Not Relevant
+3066,2607380,tba,Not Relevant
+3067,27903648,tba,Not Relevant
+3068,7325699,tba,Relevant
+3069,1001486,tba,Not Relevant
+3070,24489896,tba,Not Relevant
+3071,21410075,tba,Not Relevant
+3072,12676485,tba,Not Relevant
+3073,3255121,tba,Relevant
+3074,2910896,tba,Not Relevant
+3075,10549850,tba,Not Relevant
+3076,26956936,tba,Not Relevant
+3077,28041837,tba,Not Relevant
+3078,30308507,tba,Not Relevant
+3079,9240371,tba,Not Relevant
+3080,19630062,tba,Not Relevant
+3081,9792531,tba,Not Relevant
+3082,2555466,tba,Relevant
+3083,8458801,tba,Not Relevant
+3084,16364862,tba,Not Relevant
+3085,30974173,tba,Not Relevant
+3086,8070367,tba,Not Relevant
+3087,11571884,tba,Not Relevant
+3088,22069727,tba,Not Relevant
+3089,28893246,tba,Not Relevant
+3090,2643153,tba,Not Relevant
+3091,11052793,tba,Not Relevant
+3092,19195882,tba,Not Relevant
+3093,26333809,tba,Not Relevant
+3094,12033375,tba,Not Relevant
+3095,12597427,tba,Not Relevant
+3096,30068284,tba,Not Relevant
+3097,19124281,tba,Relevant
+3098,11791625,tba,Not Relevant
+3099,2829267,tba,Relevant
+3100,21265540,tba,Not Relevant
+3101,28499633,tba,Not Relevant
+3102,18627213,tba,Not Relevant
+3103,1246013,tba,Relevant
+3104,21075960,tba,Not Relevant
+3105,15058769,tba,Not Relevant
+3106,20073455,tba,Not Relevant
+3107,28294333,tba,Not Relevant
+3108,17478881,tba,Not Relevant
+3109,22343256,tba,Relevant
+3110,12499181,tba,Relevant
+3111,712604,tba,Relevant
+3112,25819095,tba,Relevant
+3113,30864076,tba,Not Relevant
+3114,25703950,tba,Relevant
+3115,1950587,tba,Relevant
+3116,466906,tba,Not Relevant
+3117,24314992,tba,Not Relevant
+3118,4330458,tba,Not Relevant
+3119,20532429,tba,Not Relevant
+3120,19918005,tba,Not Relevant
+3121,30208119,tba,Not Relevant
+3122,1511322,tba,Not Relevant
+3123,1623916,tba,Relevant
+3124,28785879,tba,Relevant
+3125,24879978,tba,Not Relevant
+3126,24555934,tba,Not Relevant
+3127,9680993,tba,Not Relevant
+3128,9851778,tba,Not Relevant
+3129,6384253,tba,Relevant
+3130,24723450,tba,Not Relevant
+3131,29447084,tba,Not Relevant
+3132,28803266,tba,Not Relevant
+3133,29403809,tba,Relevant
+3134,21881232,tba,Not Relevant
+3135,27611841,tba,Not Relevant
+3136,25037684,tba,Relevant
+3137,25987030,tba,Not Relevant
+3138,21366654,tba,Relevant
+3139,9657840,tba,Not Relevant
+3140,10968607,tba,Not Relevant
+3141,1313380,tba,Not Relevant
+3142,2181491,tba,Not Relevant
+3143,29991087,tba,Relevant
+3144,18288959,tba,Not Relevant
+3145,17179615,tba,Not Relevant
+3146,4483057,tba,Not Relevant
+3147,7697757,tba,Not Relevant
+3148,26226967,tba,Not Relevant
+3149,15976862,tba,Not Relevant
+3150,16423191,tba,Not Relevant
+3151,8069770,tba,Not Relevant
+3152,16998589,tba,Not Relevant
+3153,20205659,tba,Not Relevant
+3154,7124412,tba,Not Relevant
+3155,23545225,tba,Not Relevant
+3156,4082636,tba,Relevant
+3157,12973420,tba,Not Relevant
+3158,15041713,tba,Relevant
+3159,28265983,tba,Not Relevant
+3160,9162837,tba,Not Relevant
+3161,21083275,tba,Not Relevant
+3162,17656620,tba,Relevant
+3163,6617992,tba,Not Relevant
+3164,24406981,tba,Not Relevant
+3165,10801224,tba,Not Relevant
+3166,9932889,tba,Not Relevant
+3167,11944680,tba,Not Relevant
+3168,24204147,tba,Not Relevant
+3169,17133402,tba,Not Relevant
+3170,29454622,tba,Not Relevant
+3171,25056692,tba,Not Relevant
+3172,7041879,tba,Not Relevant
+3173,6473318,tba,Not Relevant
+3174,15312152,tba,Not Relevant
+3175,8110160,tba,Not Relevant
+3176,5938467,tba,Not Relevant
+3177,29938900,tba,Not Relevant
+3178,18641553,tba,Relevant
+3179,18597006,tba,Not Relevant
+3180,22229325,tba,Not Relevant
+3181,6305277,tba,Not Relevant
+3182,1892339,tba,Not Relevant
+3183,2234506,tba,Not Relevant
+3184,18592266,tba,Not Relevant
+3185,9548893,tba,Relevant
+3186,30833692,tba,Not Relevant
+3187,2737742,tba,Relevant
+3188,11923312,tba,Not Relevant
+3189,26667813,tba,Not Relevant
+3190,30225831,tba,Not Relevant
+3191,1485175,tba,Not Relevant
+3192,25070482,tba,Relevant
+3193,20055704,tba,Not Relevant
+3194,15280813,tba,Not Relevant
+3195,4282660,tba,Not Relevant
+3196,28828572,tba,Not Relevant
+3197,25698306,tba,Not Relevant
+3198,2089913,tba,Not Relevant
+3199,8214161,tba,Not Relevant
+3200,16262018,tba,Not Relevant
+3201,28643076,tba,Not Relevant
+3202,8762461,tba,Relevant
+3203,18257815,tba,Relevant
+3204,11330364,tba,Not Relevant
+3205,4000241,tba,Not Relevant
+3206,9270496,tba,Not Relevant
+3207,29967572,tba,Relevant
+3208,25853479,tba,Relevant
+3209,29479139,tba,Not Relevant
+3210,12818695,tba,Not Relevant
+3211,21937291,tba,Not Relevant
+3212,14970197,tba,Not Relevant
+3213,12525458,tba,Not Relevant
+3214,11323563,tba,Not Relevant
+3215,18229605,tba,Not Relevant
+3216,15570658,tba,Not Relevant
+3217,16005693,tba,Relevant
+3218,16132714,tba,Not Relevant
+3219,19118083,tba,Relevant
+3220,12869367,tba,Relevant
+3221,7828432,tba,Not Relevant
+3222,15575592,tba,Not Relevant
+3223,5703766,tba,Relevant
+3224,7853675,tba,Not Relevant
+3225,16829051,tba,Not Relevant
+3226,11439886,tba,Not Relevant
+3227,21822902,tba,Not Relevant
+3228,12697405,tba,Not Relevant
+3229,19414517,tba,Not Relevant
+3230,20958008,tba,Not Relevant
+3231,17459656,tba,Not Relevant
+3232,10917206,tba,Relevant
+3233,2853841,tba,Not Relevant
+3234,7528846,tba,Relevant
+3235,7903890,tba,Not Relevant
+3236,18199279,tba,Not Relevant
+3237,15333728,tba,Relevant
+3238,652175,tba,Not Relevant
+3239,29979556,tba,Not Relevant
+3240,26354352,tba,Not Relevant
+3241,12637892,tba,Not Relevant
+3242,15746006,tba,Not Relevant
+3243,22163264,tba,Not Relevant
+3244,24337137,tba,Relevant
+3245,12383957,tba,Not Relevant
+3246,1808599,tba,Not Relevant
+3247,8842043,tba,Relevant
+3248,18326322,tba,Not Relevant
+3249,9344659,tba,Not Relevant
+3250,1720447,tba,Not Relevant
+3251,4073841,tba,Not Relevant
+3252,14745439,tba,Not Relevant
+3253,17159010,tba,Not Relevant
+3254,18593948,tba,Not Relevant
+3255,11256712,tba,Not Relevant
+3256,4422762,tba,Not Relevant
+3257,20838679,tba,Not Relevant
+3258,3378617,tba,Relevant
+3259,28785860,tba,Relevant
+3260,16402385,tba,Not Relevant
+3261,25686902,tba,Not Relevant
+3262,1978230,tba,Not Relevant
+3263,7780228,tba,Relevant
+3264,1361780,tba,Not Relevant
+3265,13136463,tba,Not Relevant
+3266,18576904,tba,Relevant
+3267,7477663,tba,Not Relevant
+3268,24294969,tba,Relevant
+3269,14738590,tba,Not Relevant
+3270,16171731,tba,Not Relevant
+3271,25545098,tba,Not Relevant
+3272,5563063,tba,Not Relevant
+3273,26111604,tba,Not Relevant
+3274,26769860,tba,Not Relevant
+3275,6356158,tba,Not Relevant
+3276,21145740,tba,Not Relevant
+3277,3481917,tba,Not Relevant
+3278,2090444,tba,Not Relevant
+3279,9171994,tba,Not Relevant
+3280,542955,tba,Not Relevant
+3281,3246569,tba,Relevant
+3282,3680596,tba,Not Relevant
+3283,9795989,tba,Not Relevant
+3284,22927759,tba,Not Relevant
+3285,19558233,tba,Not Relevant
+3286,9177783,tba,Not Relevant
+3287,20356808,tba,Not Relevant
+3288,16873536,tba,Not Relevant
+3289,28483858,tba,Relevant
+3290,16651305,tba,Relevant
+3291,17356543,tba,Not Relevant
+3292,16206086,tba,Not Relevant
+3293,23103351,tba,Not Relevant
+3294,12105984,tba,Not Relevant
+3295,20938175,tba,Not Relevant
+3296,11536320,tba,Not Relevant
+3297,12921250,tba,Relevant
+3298,13011198,tba,Not Relevant
+3299,1330991,tba,Not Relevant
+3300,7763596,tba,Not Relevant
+3301,7198289,tba,Not Relevant
+3302,20073555,tba,Not Relevant
+3303,5972439,tba,Not Relevant
+3304,3576654,tba,Relevant
+3305,19050768,tba,Not Relevant
+3306,23471276,tba,Not Relevant
+3307,3523515,tba,Not Relevant
+3308,19447205,tba,Not Relevant
+3309,9647999,tba,Not Relevant
+3310,26873038,tba,Not Relevant
+3311,30094711,tba,Not Relevant
+3312,19936599,tba,Not Relevant
+3313,19081254,tba,Not Relevant
+3314,30335259,tba,Not Relevant
+3315,9395249,tba,Relevant
+3316,5369834,tba,Not Relevant
+3317,23776118,tba,Not Relevant
+3318,19609714,tba,Not Relevant
+3319,8721098,tba,Not Relevant
+3320,17090977,tba,Not Relevant
+3321,20129794,tba,Not Relevant
+3322,6391783,tba,Not Relevant
+3323,21553164,tba,Not Relevant
+3324,9849279,tba,Not Relevant
+3325,8625850,tba,Not Relevant
+3326,9358548,tba,Not Relevant
+3327,1923552,tba,Not Relevant
+3328,9812653,tba,Relevant
+3329,24063809,tba,Not Relevant
+3330,4041329,tba,Relevant
+3331,25032886,tba,Not Relevant
+3332,24566323,tba,Not Relevant
+3333,15982776,tba,Not Relevant
+3334,21037444,tba,Not Relevant
+3335,18329195,tba,Not Relevant
+3336,16904229,tba,Not Relevant
+3337,14201404,tba,Not Relevant
+3338,28125921,tba,Not Relevant
+3339,8612306,tba,Not Relevant
+3340,20637790,tba,Not Relevant
+3341,28646117,tba,Not Relevant
+3342,22398970,tba,Relevant
+3343,17931239,tba,Not Relevant
+3344,16609041,tba,Relevant
+3345,2051334,tba,Relevant
+3346,2108810,tba,Not Relevant
+3347,12026221,tba,Relevant
+3348,3123584,tba,Not Relevant
+3349,3214100,tba,Not Relevant
+3350,25991737,tba,Not Relevant
+3351,23562926,tba,Not Relevant
+3352,21121359,tba,Not Relevant
+3353,10148131,tba,Not Relevant
+3354,23188183,tba,Not Relevant
+3355,25650135,tba,Relevant
+3356,30039238,tba,Not Relevant
+3357,1291520,tba,Not Relevant
+3358,8990384,tba,Not Relevant
+3359,18686040,tba,Not Relevant
+3360,22189656,tba,Not Relevant
+3361,27672116,tba,Not Relevant
+3362,6796278,tba,Not Relevant
+3363,17960402,tba,Not Relevant
+3364,31055990,tba,Not Relevant
+3365,23757386,tba,Not Relevant
+3366,24211708,tba,Not Relevant
+3367,9602582,tba,Not Relevant
+3368,20669331,tba,Not Relevant
+3369,1469954,tba,Relevant
+3370,7846192,tba,Not Relevant
+3371,7524350,tba,Not Relevant
+3372,20078709,tba,Not Relevant
+3373,8941747,tba,Not Relevant
+3374,22764584,tba,Not Relevant
+3375,11553913,tba,Not Relevant
+3376,7603557,tba,Not Relevant
+3377,14768142,tba,Not Relevant
+3378,4817257,tba,Not Relevant
+3379,19400191,tba,Not Relevant
+3380,15748744,tba,Not Relevant
+3381,14602781,tba,Relevant
+3382,17454060,tba,Not Relevant
+3383,15842552,tba,Relevant
+3384,24312573,tba,Not Relevant
+3385,15500948,tba,Not Relevant
+3386,15764283,tba,Not Relevant
+3387,25091699,tba,Not Relevant
+3388,19472387,tba,Not Relevant
+3389,23038001,tba,Relevant
+3390,2746498,tba,Relevant
+3391,17392732,tba,Not Relevant
+3392,23210843,tba,Not Relevant
+3393,29411152,tba,Not Relevant
+3394,3736386,tba,Relevant
+3395,7974917,tba,Not Relevant
+3396,19496709,tba,Not Relevant
+3397,1472557,tba,Not Relevant
+3398,1914381,tba,Not Relevant
+3399,12107263,tba,Not Relevant
+3400,398632,tba,Not Relevant
+3401,8499894,tba,Not Relevant
+3402,24907585,tba,Not Relevant
+3403,29475458,tba,Not Relevant
+3404,14763995,tba,Not Relevant
+3405,12117101,tba,Not Relevant
+3406,1341981,tba,Not Relevant
+3407,27385762,tba,Not Relevant
+3408,27451018,tba,Relevant
+3409,19325254,tba,Not Relevant
+3410,490323,tba,Not Relevant
+3411,31238009,tba,Not Relevant
+3412,30981373,tba,Not Relevant
+3413,11815587,tba,Not Relevant
+3414,29115333,tba,Not Relevant
+3415,15907391,tba,Not Relevant
+3416,25423195,tba,Relevant
+3417,23386075,tba,Not Relevant
+3418,19838155,tba,Not Relevant
+3419,26142947,tba,Not Relevant
+3420,20858701,tba,Not Relevant
+3421,29216348,tba,Not Relevant
+3422,15763515,tba,Not Relevant
+3423,2328706,tba,Not Relevant
+3424,26806573,tba,Relevant
+3425,7955769,tba,Not Relevant
+3426,29534286,tba,Not Relevant
+3427,30060204,tba,Not Relevant
+3428,30620988,tba,Not Relevant
+3429,20650915,tba,Not Relevant
+3430,12118899,tba,Relevant
+3431,14984061,tba,Not Relevant
+3432,11438680,tba,Not Relevant
+3433,4703576,tba,Not Relevant
+3434,1672049,tba,Relevant
+3435,7796154,tba,Relevant
+3436,6789900,tba,Not Relevant
+3437,29590676,tba,Not Relevant
+3438,21046203,tba,Not Relevant
+3439,22314995,tba,Not Relevant
+3440,6725063,tba,Not Relevant
+3441,25578387,tba,Not Relevant
+3442,31257628,tba,Not Relevant
+3443,29110389,tba,Not Relevant
+3444,7185768,tba,Relevant
+3445,28290483,tba,Not Relevant
+3446,12396175,tba,Not Relevant
+3447,21546217,tba,Not Relevant
+3448,16436292,tba,Not Relevant
+3449,15749465,tba,Not Relevant
+3450,15163278,tba,Not Relevant
+3451,2019340,tba,Not Relevant
+3452,28167538,tba,Not Relevant
+3453,15786025,tba,Not Relevant
+3454,12150361,tba,Not Relevant
+3455,16378695,tba,Not Relevant
+3456,31286321,tba,Not Relevant
+3457,10048739,tba,Not Relevant
+3458,21865578,tba,Not Relevant
+3459,535528,tba,Not Relevant
+3460,15993021,tba,Not Relevant
+3461,30478168,tba,Relevant
+3462,8390259,tba,Not Relevant
+3463,14624492,tba,Not Relevant
+3464,8035789,tba,Not Relevant
+3465,7882176,tba,Relevant
+3466,26652353,tba,Not Relevant
+3467,11304654,tba,Not Relevant
+3468,22438887,tba,Not Relevant
+3469,20936483,tba,Not Relevant
+3470,7931489,tba,Relevant
+3471,6414694,tba,Not Relevant
+3472,20492294,tba,Not Relevant
+3473,2554502,tba,Not Relevant
+3474,7173898,tba,Not Relevant
+3475,18095849,tba,Not Relevant
+3476,10344748,tba,Not Relevant
+3477,2975286,tba,Not Relevant
+3478,6546296,tba,Not Relevant
+3479,9025299,tba,Not Relevant
+3480,26189915,tba,Not Relevant
+3481,1588637,tba,Not Relevant
+3482,21125318,tba,Relevant
+3483,3554156,tba,Not Relevant
+3484,20123197,tba,Relevant
+3485,30746557,tba,Not Relevant
+3486,11822754,tba,Relevant
+3487,3370627,tba,Not Relevant
+3488,31223456,tba,Relevant
+3489,6380283,tba,Not Relevant
+3490,4987300,tba,Not Relevant
+3491,11105057,tba,Not Relevant
+3492,27789338,tba,Not Relevant
+3493,10627642,tba,Relevant
+3494,1211899,tba,Relevant
+3495,12228068,tba,Not Relevant
+3496,18442227,tba,Not Relevant
+3497,10879186,tba,Not Relevant
+3498,16113458,tba,Not Relevant
+3499,20965901,tba,Not Relevant
+3500,15627307,tba,Not Relevant
+3501,12900776,tba,Relevant
+3502,23769277,tba,Not Relevant
+3503,1507403,tba,Relevant
+3504,8151467,tba,Not Relevant
+3505,14508280,tba,Not Relevant
+3506,27104671,tba,Not Relevant
+3507,21340042,tba,Not Relevant
+3508,16098742,tba,Not Relevant
+3509,9762959,tba,Not Relevant
+3510,7682118,tba,Not Relevant
+3511,16832611,tba,Relevant
+3512,10085183,tba,Not Relevant
+3513,6531791,tba,Relevant
+3514,4790663,tba,Not Relevant
+3515,28111103,tba,Relevant
+3516,10234667,tba,Not Relevant
+3517,3523230,tba,Not Relevant
+3518,28705021,tba,Not Relevant
+3519,1396345,tba,Not Relevant
+3520,29923314,tba,Not Relevant
+3521,2659322,tba,Relevant
+3522,30963393,tba,Not Relevant
+3523,3364885,tba,Not Relevant
+3524,6394312,tba,Not Relevant
+3525,4774728,tba,Not Relevant
+3526,27299749,tba,Relevant
+3527,10501222,tba,Not Relevant
+3528,21813169,tba,Not Relevant
+3529,20298768,tba,Not Relevant
+3530,12540404,tba,Not Relevant
+3531,2516617,tba,Not Relevant
+3532,30536638,tba,Relevant
+3533,25178252,tba,Not Relevant
+3534,16958828,tba,Not Relevant
+3535,21792921,tba,Not Relevant
+3536,19801046,tba,Not Relevant
+3537,17483727,tba,Not Relevant
+3538,21676449,tba,Not Relevant
+3539,3581803,tba,Not Relevant
+3540,4608579,tba,Not Relevant
+3541,11748064,tba,Not Relevant
+3542,12595170,tba,Not Relevant
+3543,19167488,tba,Not Relevant
+3544,937235,tba,Not Relevant
+3545,15180477,tba,Not Relevant
+3546,5929473,tba,Not Relevant
+3547,22888226,tba,Relevant
+3548,22292783,tba,Not Relevant
+3549,17923345,tba,Not Relevant
+3550,2113596,tba,Not Relevant
+3551,14634591,tba,Not Relevant
+3552,11431343,tba,Not Relevant
+3553,12455153,tba,Not Relevant
+3554,23755828,tba,Not Relevant
+3555,29409861,tba,Not Relevant
+3556,23222216,tba,Not Relevant
+3557,26321516,tba,Relevant
+3558,15936513,tba,Not Relevant
+3559,26140311,tba,Not Relevant
+3560,9565681,tba,Not Relevant
+3561,28905411,tba,Not Relevant
+3562,4062279,tba,Relevant
+3563,21191714,tba,Not Relevant
+3564,17125263,tba,Not Relevant
+3565,3309213,tba,Not Relevant
+3566,24641773,tba,Relevant
+3567,19594759,tba,Relevant
+3568,9458185,tba,Not Relevant
+3569,25316744,tba,Not Relevant
+3570,3367511,tba,Relevant
+3571,26272123,tba,Not Relevant
+3572,16515896,tba,Relevant
+3573,1467998,tba,Not Relevant
+3574,3341792,tba,Not Relevant
+3575,16830558,tba,Not Relevant
+3576,3586127,tba,Relevant
+3577,21245207,tba,Not Relevant
+3578,6813184,tba,Not Relevant
+3579,7696534,tba,Not Relevant
+3580,9249590,tba,Not Relevant
+3581,7092570,tba,Relevant
+3582,7154248,tba,Relevant
+3583,3305823,tba,Relevant
+3584,22970859,tba,Not Relevant
+3585,3244615,tba,Not Relevant
+3586,11786284,tba,Not Relevant
+3587,1979852,tba,Not Relevant
+3588,9048663,tba,Not Relevant
+3589,17200661,tba,Not Relevant
+3590,2312248,tba,Not Relevant
+3591,3108221,tba,Not Relevant
+3592,2947633,tba,Not Relevant
+3593,15136053,tba,Not Relevant
+3594,6871303,tba,Relevant
+3595,11348531,tba,Relevant
+3596,12915140,tba,Not Relevant
+3597,8040131,tba,Relevant
+3598,10498191,tba,Not Relevant
+3599,18813047,tba,Not Relevant
+3600,17091502,tba,Not Relevant
+3601,17646232,tba,Not Relevant
+3602,22047993,tba,Not Relevant
+3603,2196803,tba,Not Relevant
+3604,952408,tba,Not Relevant
+3605,11939684,tba,Not Relevant
+3606,812652,tba,Not Relevant
+3607,29869307,tba,Relevant
+3608,6020372,tba,Not Relevant
+3609,1412145,tba,Not Relevant
+3610,9806912,tba,Not Relevant
+3611,7492975,tba,Not Relevant
+3612,9809202,tba,Not Relevant
+3613,420128,tba,Not Relevant
+3614,23380429,tba,Relevant
+3615,26028483,tba,Not Relevant
+3616,16612588,tba,Not Relevant
+3617,599404,tba,Not Relevant
+3618,12424503,tba,Not Relevant
+3619,454083,tba,Not Relevant
+3620,2946827,tba,Not Relevant
+3621,10687864,tba,Not Relevant
+3622,2988459,tba,Relevant
+3623,16846463,tba,Relevant
+3624,8223410,tba,Not Relevant
+3625,90923,tba,Not Relevant
+3626,11566783,tba,Not Relevant
+3627,28916621,tba,Not Relevant
+3628,1317047,tba,Not Relevant
+3629,4443807,tba,Not Relevant
+3630,3042947,tba,Not Relevant
+3631,25976487,tba,Not Relevant
+3632,20172073,tba,Not Relevant
+3633,27998190,tba,Not Relevant
+3634,2954813,tba,Not Relevant
+3635,2704055,tba,Relevant
+3636,3740309,tba,Not Relevant
+3637,24099564,tba,Not Relevant
+3638,477954,tba,Not Relevant
+3639,18475294,tba,Relevant
+3640,3745152,tba,Not Relevant
+3641,1550563,tba,Not Relevant
+3642,27006280,tba,Not Relevant
+3643,10496672,tba,Relevant
+3644,15901041,tba,Relevant
+3645,7711446,tba,Relevant
+3646,26269236,tba,Not Relevant
+3647,26810316,tba,Not Relevant
+3648,12652815,tba,Not Relevant
+3649,16807032,tba,Not Relevant
+3650,10971229,tba,Relevant
+3651,30148083,tba,Not Relevant
+3652,13202422,tba,Not Relevant
+3653,16181741,tba,Not Relevant
+3654,12067574,tba,Not Relevant
+3655,31015032,tba,Not Relevant
+3656,14569237,tba,Not Relevant
+3657,20712521,tba,Not Relevant
+3658,13800057,tba,Not Relevant
+3659,22553050,tba,Not Relevant
+3660,24900185,tba,Relevant
+3661,26045659,tba,Not Relevant
+3662,6504402,tba,Not Relevant
+3663,1092161,tba,Not Relevant
+3664,25354943,tba,Not Relevant
+3665,2360333,tba,Relevant
+3666,12221059,tba,Not Relevant
+3667,2369812,tba,Not Relevant
+3668,30142410,tba,Not Relevant
+3669,5653693,tba,Not Relevant
+3670,1362930,tba,Not Relevant
+3671,16954550,tba,Not Relevant
+3672,7097457,tba,Not Relevant
+3673,6616139,tba,Relevant
+3674,26922034,tba,Not Relevant
+3675,22237927,tba,Not Relevant
+3676,6945861,tba,Not Relevant
+3677,21540647,tba,Relevant
+3678,318213,tba,Relevant
+3679,18277073,tba,Not Relevant
+3680,15031013,tba,Not Relevant
+3681,6294363,tba,Relevant
+3682,10787102,tba,Not Relevant
+3683,15076005,tba,Not Relevant
+3684,4653481,tba,Not Relevant
+3685,1479539,tba,Relevant
+3686,31502101,tba,Not Relevant
+3687,2507138,tba,Not Relevant
+3688,8897839,tba,Not Relevant
+3689,5685808,tba,Not Relevant
+3690,25155592,tba,Relevant
+3691,11605292,tba,Not Relevant
+3692,24672263,tba,Relevant
+3693,2245488,tba,Not Relevant
+3694,4170164,tba,Not Relevant
+3695,11448962,tba,Not Relevant
+3696,26316073,tba,Not Relevant
+3697,30565117,tba,Not Relevant
+3698,30274098,tba,Not Relevant
+3699,1672896,tba,Not Relevant
+3700,1663355,tba,Relevant
+3701,2333280,tba,Relevant
+3702,2746726,tba,Relevant
+3703,9344166,tba,Relevant
+3704,9038083,tba,Not Relevant
+3705,26079512,tba,Not Relevant
+3706,2316191,tba,Relevant
+3707,12076349,tba,Not Relevant
+3708,3378277,tba,Not Relevant
+3709,27668697,tba,Relevant
+3710,6311553,tba,Not Relevant
+3711,22564843,tba,Relevant
+3712,7057787,tba,Not Relevant
+3713,15189673,tba,Not Relevant
+3714,28770827,tba,Relevant
+3715,3695503,tba,Not Relevant
+3716,19025902,tba,Not Relevant
+3717,15566093,tba,Relevant
+3718,3621447,tba,Relevant
+3719,29886929,tba,Not Relevant
+3720,100370,tba,Not Relevant
+3721,27135366,tba,Not Relevant
+3722,2253668,tba,Relevant
+3723,1489328,tba,Relevant
+3724,24510752,tba,Not Relevant
+3725,1731580,tba,Not Relevant
+3726,14697223,tba,Not Relevant
+3727,9383724,tba,Not Relevant
+3728,171822,tba,Not Relevant
+3729,7789393,tba,Not Relevant
+3730,9266040,tba,Not Relevant
+3731,11934554,tba,Not Relevant
+3732,12739755,tba,Not Relevant
+3733,27145450,tba,Not Relevant
+3734,12729862,tba,Not Relevant
+3735,28888355,tba,Not Relevant
+3736,1198671,tba,Relevant
+3737,18936621,tba,Not Relevant
+3738,6207286,tba,Not Relevant
+3739,17685392,tba,Relevant
+3740,16446602,tba,Relevant
+3741,12224598,tba,Not Relevant
+3742,23110261,tba,Not Relevant
+3743,16757170,tba,Relevant
+3744,18628777,tba,Not Relevant
+3745,7967223,tba,Not Relevant
+3746,11453611,tba,Not Relevant
+3747,14504308,tba,Not Relevant
+3748,27406420,tba,Not Relevant
+3749,7173598,tba,Relevant
+3750,22367877,tba,Not Relevant
+3751,11227429,tba,Not Relevant
+3752,36107,tba,Relevant
+3753,23726267,tba,Relevant
+3754,8368610,tba,Relevant
+3755,29072917,tba,Not Relevant
+3756,2822672,tba,Not Relevant
+3757,2764717,tba,Relevant
+3758,14684277,tba,Not Relevant
+3759,9180396,tba,Not Relevant
+3760,21430500,tba,Not Relevant
+3761,946379,tba,Not Relevant
+3762,8888068,tba,Relevant
+3763,24564797,tba,Not Relevant
+3764,17199017,tba,Not Relevant
+3765,2418259,tba,Not Relevant
+3766,26940767,tba,Not Relevant
+3767,24982342,tba,Not Relevant
+3768,22204883,tba,Not Relevant
+3769,7995005,tba,Relevant
+3770,1527081,tba,Not Relevant
+3771,3572563,tba,Not Relevant
+3772,30610497,tba,Not Relevant
+3773,6990859,tba,Not Relevant
+3774,6407839,tba,Not Relevant
+3775,5057208,tba,Not Relevant
+3776,21151159,tba,Not Relevant
+3777,18706773,tba,Not Relevant
+3778,25559689,tba,Not Relevant
+3779,8500736,tba,Not Relevant
+3780,1986642,tba,Not Relevant
+3781,2713875,tba,Not Relevant
+3782,21221068,tba,Not Relevant
+3783,29746728,tba,Relevant
+3784,25590058,tba,Not Relevant
+3785,8820464,tba,Not Relevant
+3786,731339,tba,Not Relevant
+3787,24387781,tba,Not Relevant
+3788,25343296,tba,Not Relevant
+3789,30486979,tba,Relevant
+3790,10747237,tba,Not Relevant
+3791,21052564,tba,Not Relevant
+3792,16181300,tba,Relevant
+3793,16736066,tba,Not Relevant
+3794,30091852,tba,Relevant
+3795,6268765,tba,Not Relevant
+3796,28856728,tba,Not Relevant
+3797,12387006,tba,Not Relevant
+3798,17105992,tba,Not Relevant
+3799,25100753,tba,Not Relevant
+3800,10438058,tba,Not Relevant
+3801,1715268,tba,Not Relevant
+3802,23212890,tba,Not Relevant
+3803,8710758,tba,Relevant
+3804,23689660,tba,Not Relevant
+3805,30337074,tba,Not Relevant
+3806,1150046,tba,Not Relevant
+3807,22612620,tba,Relevant
+3808,12398395,tba,Not Relevant
+3809,10296163,tba,Not Relevant
+3810,11916544,tba,Not Relevant
+3811,6180066,tba,Not Relevant
+3812,21865031,tba,Not Relevant
+3813,1427960,tba,Not Relevant
+3814,14264554,tba,Not Relevant
+3815,2718218,tba,Not Relevant
+3816,12711454,tba,Not Relevant
+3817,6506133,tba,Not Relevant
+3818,18589298,tba,Not Relevant
+3819,2729181,tba,Not Relevant
+3820,29565998,tba,Not Relevant
+3821,1856145,tba,Relevant
+3822,16211753,tba,Relevant
+3823,24224523,tba,Relevant
+3824,23279047,tba,Not Relevant
+3825,27128231,tba,Relevant
+3826,2428440,tba,Not Relevant
+3827,28737403,tba,Not Relevant
+3828,8775916,tba,Not Relevant
+3829,10835426,tba,Not Relevant
+3830,20411598,tba,Not Relevant
+3831,15082359,tba,Not Relevant
+3832,7986244,tba,Not Relevant
+3833,1517295,tba,Not Relevant
+3834,22900471,tba,Not Relevant
+3835,11802215,tba,Not Relevant
+3836,18050297,tba,Not Relevant
+3837,12161862,tba,Not Relevant
+3838,4062269,tba,Not Relevant
+3839,21395375,tba,Not Relevant
+3840,37091,tba,Relevant
+3841,17914077,tba,Not Relevant
+3842,11140777,tba,Not Relevant
+3843,29458790,tba,Not Relevant
+3844,18037624,tba,Not Relevant
+3845,27196716,tba,Not Relevant
+3846,19744810,tba,Not Relevant
+3847,11879060,tba,Not Relevant
+3848,14146538,tba,Not Relevant
+3849,7351238,tba,Not Relevant
+3850,1531155,tba,Not Relevant
+3851,14996627,tba,Not Relevant
+3852,3620488,tba,Not Relevant
+3853,15018802,tba,Relevant
+3854,29915588,tba,Not Relevant
+3855,18560630,tba,Relevant
+3856,7012888,tba,Not Relevant
+3857,17491110,tba,Not Relevant
+3858,8335038,tba,Not Relevant
+3859,30409432,tba,Not Relevant
+3860,18608553,tba,Not Relevant
+3861,22454136,tba,Relevant
+3862,28126392,tba,Not Relevant
+3863,9119356,tba,Not Relevant
+3864,28428543,tba,Not Relevant
+3865,8000380,tba,Relevant
+3866,3141451,tba,Not Relevant
+3867,11270806,tba,Relevant
+3868,28185961,tba,Not Relevant
+3869,26079203,tba,Not Relevant
+3870,27169852,tba,Not Relevant
+3871,4357525,tba,Not Relevant
+3872,29371020,tba,Not Relevant
+3873,2275917,tba,Not Relevant
+3874,7349330,tba,Relevant
+3875,11179210,tba,Not Relevant
+3876,6342774,tba,Not Relevant
+3877,29607891,tba,Relevant
+3878,24014186,tba,Relevant
+3879,848770,tba,Not Relevant
+3880,21464174,tba,Relevant
+3881,2699478,tba,Not Relevant
+3882,25643920,tba,Relevant
+3883,3308297,tba,Not Relevant
+3884,18388122,tba,Not Relevant
+3885,21672215,tba,Not Relevant
+3886,1742921,tba,Not Relevant
+3887,9137523,tba,Relevant
+3888,965131,tba,Relevant
+3889,10773014,tba,Not Relevant
+3890,9509899,tba,Not Relevant
+3891,12054475,tba,Not Relevant
+3892,2724094,tba,Relevant
+3893,15621257,tba,Not Relevant
+3894,18766262,tba,Relevant
+3895,6644309,tba,Not Relevant
+3896,25850750,tba,Relevant
+3897,9681144,tba,Not Relevant
+3898,28277886,tba,Not Relevant
+3899,30668390,tba,Not Relevant
+3900,10626948,tba,Relevant
+3901,11404005,tba,Not Relevant
+3902,30623310,tba,Not Relevant
+3903,30642931,tba,Relevant
+3904,26755708,tba,Not Relevant
+3905,2694162,tba,Not Relevant
+3906,30629193,tba,Relevant
+3907,582104,tba,Not Relevant
+3908,25336386,tba,Not Relevant
+3909,15885411,tba,Not Relevant
+3910,6191407,tba,Not Relevant
+3911,1569060,tba,Relevant
+3912,8586607,tba,Not Relevant
+3913,8837066,tba,Not Relevant
+3914,8783774,tba,Not Relevant
+3915,24427325,tba,Not Relevant
+3916,7905383,tba,Not Relevant
+3917,31288488,tba,Not Relevant
+3918,11710679,tba,Not Relevant
+3919,29408710,tba,Not Relevant
+3920,26577956,tba,Not Relevant
+3921,1910070,tba,Relevant
+3922,3392144,tba,Not Relevant
+3923,8061832,tba,Relevant
+3924,10085788,tba,Relevant
+3925,31075798,tba,Not Relevant
+3926,2644930,tba,Not Relevant
+3927,3665805,tba,Not Relevant
+3928,29635061,tba,Relevant
+3929,8596833,tba,Relevant
+3930,19856795,tba,Relevant
+3931,29607927,tba,Not Relevant
+3932,7396455,tba,Relevant
+3933,11802091,tba,Relevant
+3934,26886328,tba,Not Relevant
+3935,17704033,tba,Not Relevant
+3936,21794149,tba,Not Relevant
+3937,6511790,tba,Not Relevant
+3938,16473056,tba,Not Relevant
+3939,7731022,tba,Not Relevant
+3940,2691873,tba,Not Relevant
+3941,15687110,tba,Not Relevant
+3942,8091243,tba,Not Relevant
+3943,5386122,tba,Not Relevant
+3944,28144138,tba,Not Relevant
+3945,5285802,tba,Not Relevant
+3946,5434670,tba,Not Relevant
+3947,22913551,tba,Not Relevant
+3948,27608317,tba,Not Relevant
+3949,24789274,tba,Not Relevant
+3950,24019205,tba,Relevant
+3951,26381054,tba,Relevant
+3952,28667670,tba,Not Relevant
+3953,26082973,tba,Not Relevant
+3954,7742576,tba,Not Relevant
+3955,24741485,tba,Relevant
+3956,959468,tba,Not Relevant
+3957,28326559,tba,Not Relevant
+3958,8115380,tba,Not Relevant
+3959,30595526,tba,Relevant
+3960,1819743,tba,Not Relevant
+3961,12057646,tba,Not Relevant
+3962,3050368,tba,Not Relevant
+3963,6461460,tba,Not Relevant
+3964,28473642,tba,Not Relevant
+3965,16496491,tba,Not Relevant
+3966,7842707,tba,Not Relevant
+3967,20141884,tba,Not Relevant
+3968,2274571,tba,Not Relevant
+3969,26919546,tba,Not Relevant
+3970,962181,tba,Not Relevant
+3971,24041886,tba,Not Relevant
+3972,23214383,tba,Not Relevant
+3973,21252391,tba,Relevant
+3974,23211429,tba,Not Relevant
+3975,17121084,tba,Not Relevant
+3976,12093595,tba,Not Relevant
+3977,14745002,tba,Not Relevant
+3978,29688783,tba,Relevant
+3979,24883145,tba,Not Relevant
+3980,1309880,tba,Not Relevant
+3981,22525313,tba,Not Relevant
+3982,16897319,tba,Not Relevant
+3983,23090839,tba,Not Relevant
+3984,28255359,tba,Not Relevant
+3985,7695782,tba,Relevant
+3986,17320115,tba,Not Relevant
+3987,11602692,tba,Not Relevant
+3988,5011920,tba,Not Relevant
+3989,675695,tba,Not Relevant
+3990,21315406,tba,Not Relevant
+3991,28508378,tba,Relevant
+3992,24593792,tba,Relevant
+3993,20480242,tba,Not Relevant
+3994,28074334,tba,Relevant
+3995,2328308,tba,Relevant
+3996,2339670,tba,Not Relevant
+3997,18833870,tba,Not Relevant
+3998,3058606,tba,Not Relevant
+3999,24849382,tba,Relevant
+4000,31126485,tba,Not Relevant
+4001,11988682,tba,Not Relevant
+4002,6740733,tba,Relevant
+4003,30235484,tba,Relevant
+4004,3220963,tba,Not Relevant
+4005,27062515,tba,Not Relevant
+4006,23797213,tba,Not Relevant
+4007,20185786,tba,Not Relevant
+4008,25440196,tba,Not Relevant
+4009,19464884,tba,Not Relevant
+4010,29737265,tba,Not Relevant
+4011,10221039,tba,Not Relevant
+4012,20553859,tba,Not Relevant
+4013,21612646,tba,Not Relevant
+4014,8509348,tba,Not Relevant
+4015,15900263,tba,Not Relevant
+4016,18618305,tba,Not Relevant
+4017,24859811,tba,Not Relevant
+4018,5155153,tba,Not Relevant
+4019,27131093,tba,Not Relevant
+4020,11083497,tba,Not Relevant
+4021,22118098,tba,Not Relevant
+4022,3566313,tba,Not Relevant
+4023,24704542,tba,Not Relevant
+4024,4174189,tba,Not Relevant
+4025,12518338,tba,Relevant
+4026,9392603,tba,Not Relevant
+4027,6706946,tba,Not Relevant
+4028,11855724,tba,Not Relevant
+4029,17408303,tba,Not Relevant
+4030,8471158,tba,Not Relevant
+4031,11432125,tba,Not Relevant
+4032,6311786,tba,Relevant
+4033,19195422,tba,Not Relevant
+4034,29344301,tba,Not Relevant
+4035,17455637,tba,Not Relevant
+4036,16564400,tba,Not Relevant
+4037,28629814,tba,Relevant
+4038,9316714,tba,Not Relevant
+4039,6480542,tba,Relevant
+4040,911310,tba,Not Relevant
+4041,6864477,tba,Not Relevant
+4042,28374908,tba,Not Relevant
+4043,17009079,tba,Not Relevant
+4044,28214935,tba,Not Relevant
+4045,21110709,tba,Not Relevant
+4046,14202032,tba,Not Relevant
+4047,19514965,tba,Not Relevant
+4048,22922480,tba,Not Relevant
+4049,11808830,tba,Relevant
+4050,26635230,tba,Not Relevant
+4051,19773162,tba,Not Relevant
+4052,17052680,tba,Not Relevant
+4053,1230028,tba,Not Relevant
+4054,20364565,tba,Not Relevant
+4055,11297393,tba,Not Relevant
+4056,25157280,tba,Not Relevant
+4057,9532520,tba,Not Relevant
+4058,579981,tba,Not Relevant
+4059,20972350,tba,Not Relevant
+4060,30264342,tba,Not Relevant
+4061,12031512,tba,Not Relevant
+4062,21743375,tba,Not Relevant
+4063,6131013,tba,Not Relevant
+4064,23528446,tba,Not Relevant
+4065,925144,tba,Not Relevant
+4066,11856782,tba,Relevant
+4067,15846539,tba,Not Relevant
+4068,1378134,tba,Relevant
+4069,14614705,tba,Not Relevant
+4070,7832148,tba,Relevant
+4071,10841312,tba,Not Relevant
+4072,1781986,tba,Not Relevant
+4073,21464717,tba,Not Relevant
+4074,19167688,tba,Relevant
+4075,1416280,tba,Not Relevant
+4076,11696083,tba,Relevant
+4077,16954030,tba,Not Relevant
+4078,10676427,tba,Not Relevant
+4079,14251008,tba,Not Relevant
+4080,529044,tba,Not Relevant
+4081,3569589,tba,Not Relevant
+4082,22984473,tba,Not Relevant
+4083,16956313,tba,Not Relevant
+4084,25457984,tba,Not Relevant
+4085,21140258,tba,Not Relevant
+4086,1730144,tba,Not Relevant
+4087,16048029,tba,Not Relevant
+4088,28333183,tba,Not Relevant
+4089,28215471,tba,Relevant
+4090,18801587,tba,Not Relevant
+4091,8012169,tba,Relevant
+4092,27897087,tba,Not Relevant
+4093,20608724,tba,Not Relevant
+4094,2442558,tba,Relevant
+4095,3522142,tba,Not Relevant
+4096,17907248,tba,Not Relevant
+4097,19581705,tba,Not Relevant
+4098,21324753,tba,Not Relevant
+4099,30274177,tba,Not Relevant
+4100,8104119,tba,Relevant
+4101,9044242,tba,Relevant
+4102,10702596,tba,Not Relevant
+4103,25807813,tba,Relevant
+4104,10609871,tba,Not Relevant
+4105,15847115,tba,Not Relevant
+4106,16451757,tba,Not Relevant
+4107,21779538,tba,Not Relevant
+4108,363052,tba,Relevant
+4109,10713469,tba,Not Relevant
+4110,16470113,tba,Not Relevant
+4111,27567539,tba,Relevant
+4112,25938514,tba,Relevant
+4113,6979616,tba,Not Relevant
+4114,23336105,tba,Not Relevant
+4115,15591164,tba,Relevant
+4116,3903651,tba,Not Relevant
+4117,8858691,tba,Not Relevant
+4118,10971048,tba,Not Relevant
+4119,18330026,tba,Not Relevant
+4120,11472281,tba,Not Relevant
+4121,4555122,tba,Not Relevant
+4122,9399974,tba,Not Relevant
+4123,22125963,tba,Not Relevant
+4124,9552325,tba,Not Relevant
+4125,3054055,tba,Not Relevant
+4126,18540407,tba,Not Relevant
+4127,26373416,tba,Not Relevant
+4128,10852648,tba,Not Relevant
+4129,8261595,tba,Not Relevant
+4130,9892226,tba,Not Relevant
+4131,27867020,tba,Relevant
+4132,26210188,tba,Not Relevant
+4133,7824963,tba,Relevant
+4134,9209244,tba,Relevant
+4135,1744941,tba,Relevant
+4136,27093907,tba,Not Relevant
+4137,24853950,tba,Not Relevant
+4138,5300832,tba,Not Relevant
+4139,2116703,tba,Relevant
+4140,22118221,tba,Not Relevant
+4141,15066466,tba,Not Relevant
+4142,9100558,tba,Not Relevant
+4143,23554130,tba,Not Relevant
+4144,2498438,tba,Not Relevant
+4145,8896358,tba,Not Relevant
+4146,3955196,tba,Relevant
+4147,2395501,tba,Relevant
+4148,10854239,tba,Not Relevant
+4149,17002024,tba,Not Relevant
+4150,24247022,tba,Not Relevant
+4151,20543107,tba,Not Relevant
+4152,25542142,tba,Not Relevant
+4153,17921371,tba,Not Relevant
+4154,10514019,tba,Not Relevant
+4155,5513812,tba,Not Relevant
+4156,2835183,tba,Not Relevant
+4157,25925797,tba,Not Relevant
+4158,30779339,tba,Relevant
+4159,1852482,tba,Not Relevant
+4160,27025982,tba,Not Relevant
+4161,22677067,tba,Not Relevant
+4162,29074254,tba,Relevant
+4163,18511602,tba,Not Relevant
+4164,9561111,tba,Not Relevant
+4165,26766632,tba,Not Relevant
+4166,10234663,tba,Not Relevant
+4167,1036945,tba,Not Relevant
+4168,1366389,tba,Not Relevant
+4169,10465889,tba,Not Relevant
+4170,3709879,tba,Not Relevant
+4171,29183843,tba,Not Relevant
+4172,8447375,tba,Not Relevant
+4173,16144926,tba,Relevant
+4174,10378128,tba,Not Relevant
+4175,23613096,tba,Not Relevant
+4176,17628465,tba,Not Relevant
+4177,16078140,tba,Not Relevant
+4178,25671403,tba,Not Relevant
+4179,1350360,tba,Not Relevant
+4180,16632820,tba,Not Relevant
+4181,7146628,tba,Not Relevant
+4182,7217832,tba,Relevant
+4183,836831,tba,Not Relevant
+4184,10675619,tba,Not Relevant
+4185,11440906,tba,Not Relevant
+4186,23964133,tba,Not Relevant
+4187,10490905,tba,Relevant
+4188,12223207,tba,Not Relevant
+4189,9290070,tba,Not Relevant
+4190,1535593,tba,Relevant
+4191,15964387,tba,Not Relevant
+4192,14510745,tba,Not Relevant
+4193,6061744,tba,Not Relevant
+4194,2879891,tba,Not Relevant
+4195,17628157,tba,Not Relevant
+4196,14999221,tba,Relevant
+4197,6616021,tba,Not Relevant
+4198,9422989,tba,Not Relevant
+4199,22124983,tba,Relevant
+4200,29948795,tba,Relevant
+4201,22669131,tba,Not Relevant
+4202,9011028,tba,Not Relevant
+4203,22577234,tba,Not Relevant
+4204,21493601,tba,Not Relevant
+4205,1363493,tba,Not Relevant
+4206,17627674,tba,Not Relevant
+4207,29248731,tba,Relevant
+4208,17549475,tba,Relevant
+4209,16381472,tba,Relevant
+4210,18991927,tba,Not Relevant
+4211,18203091,tba,Not Relevant
+4212,8983963,tba,Not Relevant
+4213,8983408,tba,Not Relevant
+4214,2515041,tba,Relevant
+4215,787911,tba,Not Relevant
+4216,6460685,tba,Not Relevant
+4217,16912218,tba,Not Relevant
+4218,10893696,tba,Not Relevant
+4219,2329498,tba,Relevant
+4220,29788884,tba,Not Relevant
+4221,6697877,tba,Relevant
+4222,17635557,tba,Not Relevant
+4223,8569068,tba,Not Relevant
+4224,1981714,tba,Not Relevant
+4225,29317615,tba,Not Relevant
+4226,28257748,tba,Not Relevant
+4227,15791932,tba,Not Relevant
+4228,28062259,tba,Not Relevant
+4229,5965594,tba,Not Relevant
+4230,17484386,tba,Not Relevant
+4231,6362975,tba,Not Relevant
+4232,2156686,tba,Not Relevant
+4233,24988438,tba,Relevant
+4234,20100032,tba,Relevant
+4235,18033636,tba,Not Relevant
+4236,7945939,tba,Not Relevant
+4237,26020924,tba,Not Relevant
+4238,2196260,tba,Not Relevant
+4239,24346633,tba,Not Relevant
+4240,31509357,tba,Not Relevant
+4241,11574199,tba,Not Relevant
+4242,23305536,tba,Relevant
+4243,20125728,tba,Not Relevant
+4244,31402708,tba,Not Relevant
+4245,6841107,tba,Not Relevant
+4246,30343607,tba,Not Relevant
+4247,4777608,tba,Not Relevant
+4248,20460991,tba,Relevant
+4249,7141752,tba,Relevant
+4250,2591691,tba,Not Relevant
+4251,2701569,tba,Not Relevant
+4252,21361034,tba,Not Relevant
+4253,11683258,tba,Not Relevant
+4254,6340904,tba,Not Relevant
+4255,12007987,tba,Not Relevant
+4256,21757343,tba,Not Relevant
+4257,17631545,tba,Relevant
+4258,7889539,tba,Not Relevant
+4259,4700437,tba,Not Relevant
+4260,6105062,tba,Relevant
+4261,8486329,tba,Not Relevant
+4262,24079630,tba,Not Relevant
+4263,1705552,tba,Not Relevant
+4264,883876,tba,Not Relevant
+4265,12113870,tba,Not Relevant
+4266,10848053,tba,Not Relevant
+4267,8799511,tba,Not Relevant
+4268,12118029,tba,Relevant
+4269,29691238,tba,Relevant
+4270,12270605,tba,Not Relevant
+4271,30445625,tba,Not Relevant
+4272,12014962,tba,Not Relevant
+4273,12915868,tba,Not Relevant
+4274,4465780,tba,Not Relevant
+4275,29104982,tba,Not Relevant
+4276,8306567,tba,Not Relevant
+4277,17646137,tba,Not Relevant
+4278,30058499,tba,Not Relevant
+4279,11141592,tba,Not Relevant
+4280,11472825,tba,Not Relevant
+4281,16617238,tba,Not Relevant
+4282,11978157,tba,Not Relevant
+4283,30832656,tba,Not Relevant
+4284,28019675,tba,Not Relevant
+4285,7820792,tba,Not Relevant
+4286,17894481,tba,Relevant
+4287,11510139,tba,Not Relevant
+4288,9248780,tba,Not Relevant
+4289,11806464,tba,Not Relevant
+4290,25404690,tba,Not Relevant
+4291,8241609,tba,Not Relevant
+4292,6118950,tba,Not Relevant
+4293,6117616,tba,Not Relevant
+4294,8711465,tba,Not Relevant
+4295,2066764,tba,Relevant
+4296,3247291,tba,Not Relevant
+4297,15238367,tba,Relevant
+4298,13678656,tba,Not Relevant
+4299,25498100,tba,Relevant
+4300,18186148,tba,Not Relevant
+4301,2805810,tba,Not Relevant
+4302,10499632,tba,Not Relevant
+4303,3097094,tba,Relevant
+4304,21049519,tba,Relevant
+4305,1924146,tba,Not Relevant
+4306,22679004,tba,Not Relevant
+4307,8379600,tba,Relevant
+4308,8452195,tba,Not Relevant
+4309,4438415,tba,Not Relevant
+4310,9342447,tba,Relevant
+4311,12475773,tba,Relevant
+4312,7609931,tba,Not Relevant
+4313,5069813,tba,Not Relevant
+4314,29324347,tba,Relevant
+4315,17493590,tba,Not Relevant
+4316,1691613,tba,Not Relevant
+4317,12069288,tba,Not Relevant
+4318,29063458,tba,Not Relevant
+4319,31152982,tba,Not Relevant
+4320,6372265,tba,Not Relevant
+4321,28502496,tba,Relevant
+4322,26815590,tba,Relevant
+4323,26231525,tba,Not Relevant
+4324,20551083,tba,Not Relevant
+4325,30086658,tba,Not Relevant
+4326,21205947,tba,Not Relevant
+4327,4029216,tba,Relevant
+4328,1874515,tba,Not Relevant
+4329,11861442,tba,Relevant
+4330,15647811,tba,Not Relevant
+4331,27530933,tba,Not Relevant
+4332,11074266,tba,Not Relevant
+4333,2104537,tba,Relevant
+4334,12801385,tba,Not Relevant
+4335,19751795,tba,Not Relevant
+4336,17016486,tba,Not Relevant
+4337,6401237,tba,Not Relevant
+4338,8292744,tba,Not Relevant
+4339,15312718,tba,Not Relevant
+4340,690034,tba,Not Relevant
+4341,21417031,tba,Not Relevant
+4342,8517711,tba,Not Relevant
+4343,6295711,tba,Relevant
+4344,2245178,tba,Relevant
+4345,6142717,tba,Relevant
+4346,2692292,tba,Not Relevant
+4347,24102315,tba,Not Relevant
+4348,30466778,tba,Not Relevant
+4349,23100496,tba,Not Relevant
+4350,4257801,tba,Not Relevant
+4351,12562865,tba,Not Relevant
+4352,5503527,tba,Not Relevant
+4353,10721932,tba,Not Relevant
+4354,25959930,tba,Not Relevant
+4355,29353321,tba,Not Relevant
+4356,26863889,tba,Not Relevant
+4357,29859812,tba,Not Relevant
+4358,7319929,tba,Not Relevant
+4359,18090744,tba,Not Relevant
+4360,23584079,tba,Relevant
+4361,18167095,tba,Relevant
+4362,3168149,tba,Relevant
+4363,23670590,tba,Not Relevant
+4364,7583953,tba,Not Relevant
+4365,30919089,tba,Not Relevant
+4366,23020519,tba,Relevant
+4367,27919190,tba,Relevant
+4368,29729638,tba,Not Relevant
+4369,3338441,tba,Not Relevant
+4370,14630135,tba,Relevant
+4371,9492931,tba,Not Relevant
+4372,23386312,tba,Not Relevant
+4373,8115311,tba,Relevant
+4374,27056178,tba,Relevant
+4375,29180039,tba,Not Relevant
+4376,7510180,tba,Not Relevant
+4377,20350135,tba,Not Relevant
+4378,28871815,tba,Not Relevant
+4379,1244748,tba,Not Relevant
+4380,12579768,tba,Relevant
+4381,6797055,tba,Not Relevant
+4382,8566920,tba,Not Relevant
+4383,19654533,tba,Not Relevant
+4384,26412429,tba,Not Relevant
+4385,660734,tba,Not Relevant
+4386,22276398,tba,Not Relevant
+4387,19435855,tba,Not Relevant
+4388,7197967,tba,Not Relevant
+4389,15468253,tba,Not Relevant
+4390,24697182,tba,Not Relevant
+4391,16307706,tba,Not Relevant
+4392,15713722,tba,Relevant
+4393,10915395,tba,Not Relevant
+4394,18246775,tba,Not Relevant
+4395,2053487,tba,Not Relevant
+4396,4340850,tba,Not Relevant
+4397,991370,tba,Relevant
+4398,2970673,tba,Not Relevant
+4399,19447295,tba,Not Relevant
+4400,21930108,tba,Not Relevant
+4401,30028351,tba,Relevant
+4402,12212548,tba,Not Relevant
+4403,19717751,tba,Relevant
+4404,2322293,tba,Not Relevant
+4405,12176257,tba,Not Relevant
+4406,20715796,tba,Not Relevant
+4407,6267927,tba,Not Relevant
+4408,11779791,tba,Not Relevant
+4409,700916,tba,Not Relevant
+4410,3580238,tba,Relevant
+4411,27444983,tba,Not Relevant
+4412,19074586,tba,Not Relevant
+4413,19581711,tba,Not Relevant
+4414,30590313,tba,Relevant
+4415,8907172,tba,Not Relevant
+4416,16279349,tba,Not Relevant
+4417,15113533,tba,Not Relevant
+4418,17360134,tba,Relevant
+4419,22917181,tba,Not Relevant
+4420,18843481,tba,Relevant
+4421,24521261,tba,Not Relevant
+4422,3092618,tba,Not Relevant
+4423,10834256,tba,Not Relevant
+4424,26695429,tba,Not Relevant
+4425,16790523,tba,Not Relevant
+4426,11023654,tba,Not Relevant
+4427,24050973,tba,Relevant
+4428,12237835,tba,Relevant
+4429,2364675,tba,Not Relevant
+4430,2425531,tba,Not Relevant
+4431,789085,tba,Relevant
+4432,2893706,tba,Relevant
+4433,23749495,tba,Relevant
+4434,1319370,tba,Not Relevant
+4435,1035624,tba,Not Relevant
+4436,27287134,tba,Not Relevant
+4437,26079717,tba,Not Relevant
+4438,14526923,tba,Not Relevant
+4439,8983942,tba,Not Relevant
+4440,19481929,tba,Not Relevant
+4441,398415,tba,Not Relevant
+4442,12851879,tba,Not Relevant
+4443,3880050,tba,Not Relevant
+4444,27430970,tba,Not Relevant
+4445,11495017,tba,Not Relevant
+4446,8686330,tba,Not Relevant
+4447,8651042,tba,Not Relevant
+4448,21185921,tba,Relevant
+4449,11991811,tba,Not Relevant
+4450,30168909,tba,Not Relevant
+4451,30535822,tba,Not Relevant
+4452,926593,tba,Not Relevant
+4453,23999699,tba,Not Relevant
+4454,8964827,tba,Not Relevant
+4455,11716441,tba,Not Relevant
+4456,15626585,tba,Not Relevant
+4457,15610674,tba,Not Relevant
+4458,3705069,tba,Relevant
+4459,19146767,tba,Not Relevant
+4460,11711129,tba,Not Relevant
+4461,2409851,tba,Not Relevant
+4462,5653800,tba,Not Relevant
+4463,28462920,tba,Relevant
+4464,9757153,tba,Relevant
+4465,15378990,tba,Relevant
+4466,15109631,tba,Not Relevant
+4467,8693265,tba,Not Relevant
+4468,26406291,tba,Not Relevant
+4469,3500958,tba,Not Relevant
+4470,27839733,tba,Not Relevant
+4471,421849,tba,Relevant
+4472,19320279,tba,Relevant
+4473,23618178,tba,Not Relevant
+4474,30376295,tba,Not Relevant
+4475,30090,tba,Not Relevant
+4476,3697811,tba,Relevant
+4477,3441239,tba,Not Relevant
+4478,6214998,tba,Relevant
+4479,18784280,tba,Relevant
+4480,16697206,tba,Relevant
+4481,16177401,tba,Not Relevant
+4482,15252988,tba,Not Relevant
+4483,11482658,tba,Not Relevant
+4484,11266414,tba,Relevant
+4485,3954800,tba,Not Relevant
+4486,8608817,tba,Not Relevant
+4487,29795752,tba,Not Relevant
+4488,20944432,tba,Not Relevant
+4489,29920312,tba,Not Relevant
+4490,11870164,tba,Relevant
+4491,20068374,tba,Not Relevant
+4492,6634844,tba,Not Relevant
+4493,30299160,tba,Not Relevant
+4494,3737270,tba,Relevant
+4495,26383152,tba,Not Relevant
+4496,10398516,tba,Not Relevant
+4497,20691066,tba,Not Relevant
+4498,28526868,tba,Not Relevant
+4499,21685343,tba,Not Relevant
+4500,6693323,tba,Not Relevant
+4501,21872414,tba,Not Relevant
+4502,24657144,tba,Relevant
+4503,15901797,tba,Relevant
+4504,17180493,tba,Not Relevant
+4505,29913220,tba,Relevant
+4506,1969785,tba,Not Relevant
+4507,31405856,tba,Relevant
+4508,11051588,tba,Not Relevant
+4509,1662392,tba,Not Relevant
+4510,19718794,tba,Not Relevant
+4511,2020610,tba,Not Relevant
+4512,23175667,tba,Not Relevant
+4513,27006179,tba,Relevant
+4514,25272857,tba,Relevant
+4515,16513433,tba,Not Relevant
+4516,9202739,tba,Not Relevant
+4517,23542081,tba,Not Relevant
+4518,30791055,tba,Not Relevant
+4519,25843430,tba,Not Relevant
+4520,19939799,tba,Not Relevant
+4521,19037761,tba,Not Relevant
+4522,15552132,tba,Not Relevant
+4523,22946228,tba,Not Relevant
+4524,4402313,tba,Not Relevant
+4525,24852095,tba,Not Relevant
+4526,21682397,tba,Not Relevant
+4527,11511387,tba,Not Relevant
+4528,10606317,tba,Not Relevant
+4529,17475971,tba,Not Relevant
+4530,2426425,tba,Not Relevant
+4531,23084636,tba,Not Relevant
+4532,5824321,tba,Relevant
+4533,10568165,tba,Not Relevant
+4534,1609411,tba,Not Relevant
+4535,24286215,tba,Not Relevant
+4536,18666374,tba,Not Relevant
+4537,1324510,tba,Not Relevant
+4538,1375058,tba,Not Relevant
+4539,19877643,tba,Not Relevant
+4540,294954,tba,Not Relevant
+4541,21495881,tba,Not Relevant
+4542,6704506,tba,Relevant
+4543,10215956,tba,Relevant
+4544,28012684,tba,Relevant
+4545,12017343,tba,Relevant
+4546,24439335,tba,Not Relevant
+4547,9701366,tba,Not Relevant
+4548,4382186,tba,Not Relevant
+4549,3251907,tba,Not Relevant
+4550,748535,tba,Not Relevant
+4551,16111871,tba,Not Relevant
+4552,24185126,tba,Not Relevant
+4553,17226855,tba,Not Relevant
+4554,9073316,tba,Not Relevant
+4555,14567594,tba,Not Relevant
+4556,11231078,tba,Not Relevant
+4557,13679426,tba,Not Relevant
+4558,978570,tba,Not Relevant
+4559,10206449,tba,Not Relevant
+4560,8582119,tba,Not Relevant
+4561,11378523,tba,Relevant
+4562,21292469,tba,Relevant
+4563,2501460,tba,Not Relevant
+4564,1139130,tba,Not Relevant
+4565,23189085,tba,Not Relevant
+4566,8221648,tba,Not Relevant
+4567,2290020,tba,Not Relevant
+4568,21641838,tba,Not Relevant
+4569,16037643,tba,Not Relevant
+4570,10352034,tba,Not Relevant
+4571,19065992,tba,Not Relevant
+4572,9660303,tba,Not Relevant
+4573,30272435,tba,Not Relevant
+4574,1609942,tba,Not Relevant
+4575,30117738,tba,Not Relevant
+4576,27061522,tba,Not Relevant
+4577,24619893,tba,Not Relevant
+4578,9147866,tba,Not Relevant
+4579,8746100,tba,Not Relevant
+4580,7899953,tba,Relevant
+4581,8421222,tba,Not Relevant
+4582,19889282,tba,Not Relevant
+4583,28119212,tba,Not Relevant
+4584,2296582,tba,Relevant
+4585,10369612,tba,Relevant
+4586,16918320,tba,Not Relevant
+4587,10942906,tba,Not Relevant
+4588,6272977,tba,Not Relevant
+4589,3954817,tba,Not Relevant
+4590,19193410,tba,Not Relevant
+4591,15979197,tba,Not Relevant
+4592,28238915,tba,Not Relevant
+4593,20732958,tba,Not Relevant
+4594,14565544,tba,Not Relevant
+4595,27904095,tba,Not Relevant
+4596,12147170,tba,Not Relevant
+4597,922589,tba,Not Relevant
+4598,29124781,tba,Not Relevant
+4599,21690471,tba,Relevant
+4600,8642484,tba,Not Relevant
+4601,18584966,tba,Relevant
+4602,8784647,tba,Not Relevant
+4603,20358306,tba,Not Relevant
+4604,5790082,tba,Not Relevant
+4605,11110060,tba,Not Relevant
+4606,22217906,tba,Not Relevant
+4607,632422,tba,Not Relevant
+4608,20384881,tba,Not Relevant
+4609,29495021,tba,Not Relevant
+4610,6243377,tba,Not Relevant
+4611,24159570,tba,Not Relevant
+4612,16312508,tba,Relevant
+4613,9110360,tba,Not Relevant
+4614,23272653,tba,Not Relevant
+4615,19655809,tba,Not Relevant
+4616,19629383,tba,Not Relevant
+4617,489203,tba,Relevant
+4618,30154685,tba,Not Relevant
+4619,3580515,tba,Relevant
+4620,27002938,tba,Relevant
+4621,6825714,tba,Not Relevant
+4622,8634768,tba,Not Relevant
+4623,23187875,tba,Not Relevant
+4624,3609287,tba,Relevant
+4625,22811412,tba,Not Relevant
+4626,25715979,tba,Not Relevant
+4627,26555458,tba,Not Relevant
+4628,27160418,tba,Not Relevant
+4629,10595955,tba,Not Relevant
+4630,7757956,tba,Not Relevant
+4631,3838479,tba,Relevant
+4632,29953382,tba,Not Relevant
+4633,8429338,tba,Not Relevant
+4634,11274702,tba,Relevant
+4635,17365999,tba,Not Relevant
+4636,12743672,tba,Relevant
+4637,25844668,tba,Not Relevant
+4638,1670918,tba,Not Relevant
+4639,28693525,tba,Not Relevant
+4640,19551948,tba,Not Relevant
+4641,29407178,tba,Not Relevant
+4642,23828842,tba,Not Relevant
+4643,13694670,tba,Not Relevant
+4644,6745704,tba,Not Relevant
+4645,30720734,tba,Not Relevant
+4646,19865523,tba,Not Relevant
+4647,7889839,tba,Not Relevant
+4648,9609361,tba,Not Relevant
+4649,8479598,tba,Not Relevant
+4650,16263322,tba,Not Relevant
+4651,28892871,tba,Relevant
+4652,2435501,tba,Not Relevant
+4653,6398364,tba,Relevant
+4654,11576175,tba,Not Relevant
+4655,22257897,tba,Not Relevant
+4656,12085694,tba,Not Relevant
+4657,7903118,tba,Not Relevant
+4658,5994680,tba,Not Relevant
+4659,87060,tba,Not Relevant
+4660,29746294,tba,Not Relevant
+4661,17064199,tba,Relevant
+4662,3223979,tba,Not Relevant
+4663,15841106,tba,Not Relevant
+4664,17973649,tba,Not Relevant
+4665,22960522,tba,Not Relevant
+4666,43222,tba,Relevant
+4667,22367428,tba,Not Relevant
+4668,26051541,tba,Not Relevant
+4669,17291226,tba,Not Relevant
+4670,19706501,tba,Not Relevant
+4671,1663300,tba,Not Relevant
+4672,11361823,tba,Not Relevant
+4673,12173407,tba,Not Relevant
+4674,26887651,tba,Relevant
+4675,16387324,tba,Relevant
+4676,27803477,tba,Not Relevant
+4677,2109665,tba,Relevant
+4678,23407048,tba,Not Relevant
+4679,24263088,tba,Relevant
+4680,15235069,tba,Not Relevant
+4681,1718179,tba,Not Relevant
+4682,8948068,tba,Relevant
+4683,2280480,tba,Not Relevant
+4684,29064853,tba,Not Relevant
+4685,29807674,tba,Not Relevant
+4686,19508462,tba,Not Relevant
+4687,17267079,tba,Not Relevant
+4688,19203907,tba,Not Relevant
+4689,7736998,tba,Not Relevant
+4690,3786948,tba,Relevant
+4691,3527499,tba,Not Relevant
+4692,3027821,tba,Relevant
+4693,2293545,tba,Not Relevant
+4694,17641292,tba,Not Relevant
+4695,26687572,tba,Not Relevant
+4696,28567705,tba,Not Relevant
+4697,15634614,tba,Not Relevant
+4698,25615880,tba,Not Relevant
+4699,7067043,tba,Not Relevant
+4700,16682639,tba,Not Relevant
+4701,17475604,tba,Relevant
+4702,3772750,tba,Not Relevant
+4703,7397055,tba,Not Relevant
+4704,28250701,tba,Not Relevant
+4705,16284992,tba,Not Relevant
+4706,18797857,tba,Not Relevant
+4707,27249385,tba,Relevant
+4708,24461133,tba,Not Relevant
+4709,3106786,tba,Not Relevant
+4710,148241,tba,Not Relevant
+4711,23032949,tba,Not Relevant
+4712,3994922,tba,Relevant
+4713,15579780,tba,Not Relevant
+4714,9576765,tba,Not Relevant
+4715,27761948,tba,Not Relevant
+4716,18450593,tba,Relevant
+4717,25299177,tba,Not Relevant
+4718,8861659,tba,Not Relevant
+4719,4619748,tba,Relevant
+4720,8932908,tba,Not Relevant
+4721,15361638,tba,Not Relevant
+4722,8417153,tba,Not Relevant
+4723,29457324,tba,Not Relevant
+4724,9221295,tba,Not Relevant
+4725,12842138,tba,Not Relevant
+4726,6295996,tba,Not Relevant
+4727,8097990,tba,Not Relevant
+4728,19695487,tba,Not Relevant
+4729,22409491,tba,Not Relevant
+4730,8196089,tba,Relevant
+4731,10761167,tba,Relevant
+4732,682125,tba,Relevant
+4733,8058428,tba,Not Relevant
+4734,11269503,tba,Not Relevant
+4735,8032493,tba,Not Relevant
+4736,15183289,tba,Not Relevant
+4737,1310230,tba,Not Relevant
+4738,33246,tba,Relevant
+4739,31323882,tba,Not Relevant
+4740,3923347,tba,Not Relevant
+4741,22629771,tba,Not Relevant
+4742,6031874,tba,Not Relevant
+4743,25898832,tba,Not Relevant
+4744,13835597,tba,Not Relevant
+4745,26897367,tba,Not Relevant
+4746,22261404,tba,Not Relevant
+4747,15447927,tba,Not Relevant
+4748,12003195,tba,Relevant
+4749,30785963,tba,Relevant
+4750,6499514,tba,Relevant
+4751,21743914,tba,Not Relevant
+4752,25523045,tba,Not Relevant
+4753,26586379,tba,Not Relevant
+4754,21671592,tba,Not Relevant
+4755,19764432,tba,Not Relevant
+4756,21670,tba,Not Relevant
+4757,10719615,tba,Relevant
+4758,8248410,tba,Not Relevant
+4759,22917888,tba,Not Relevant
+4760,21216979,tba,Not Relevant
+4761,28569994,tba,Not Relevant
+4762,6430640,tba,Relevant
+4763,14617693,tba,Relevant
+4764,19401345,tba,Not Relevant
+4765,27992787,tba,Relevant
+4766,16778712,tba,Relevant
+4767,29912996,tba,Not Relevant
+4768,12355562,tba,Relevant
+4769,28368215,tba,Not Relevant
+4770,24577419,tba,Not Relevant
+4771,27819766,tba,Relevant
+4772,4094802,tba,Not Relevant
+4773,17559351,tba,Not Relevant
+4774,29178081,tba,Not Relevant
+4775,26457718,tba,Not Relevant
+4776,11992244,tba,Not Relevant
+4777,26531,tba,Not Relevant
+4778,3850847,tba,Not Relevant
+4779,28710635,tba,Not Relevant
+4780,28799107,tba,Not Relevant
+4781,30452993,tba,Not Relevant
+4782,7097474,tba,Relevant
+4783,1392225,tba,Not Relevant
+4784,22968355,tba,Not Relevant
+4785,22330195,tba,Not Relevant
+4786,11083108,tba,Not Relevant
+4787,2037712,tba,Relevant
+4788,2720667,tba,Not Relevant
+4789,9033549,tba,Not Relevant
+4790,102133,tba,Not Relevant
+4791,18339019,tba,Relevant
+4792,6187258,tba,Not Relevant
