@@ -16,16 +16,16 @@ The labels assigned to each publication can be found in the [labels folder](http
 
 You will need an environment with **Python 3.7+**. We strongly recommend that you use an isolated Python environment (such as virtualenv or conda) to install the packages related to this project. Our default option will be to create a virtual environment with conda:
     
-1. If you don't have anaconda installed follow the instructions [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html?highlight=conda#regular-installation)
+1a. If you don't have anaconda installed follow the instructions [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html?highlight=conda#regular-installation)
 
-2. Create conda environment for this project and activate it 
+1b. Create conda environment for this project and activate it 
 
     ````bash
    conda create -n PKDocClassifier python=3.7
    conda activate PKDocClassifier
     ````
 
-3. Clone and access this repository on your local machine 
+1c. Clone and access this repository on your local machine 
    
    ````bash
    git clone https://github.com/fgh95/PKDocClassifier
@@ -37,7 +37,7 @@ You will need an environment with **Python 3.7+**. We strongly recommend that yo
    brew install libomp
    ````
 
-5. Install all project dependencies
+1d. Install all project dependencies
 
    ````bash
    pip install .
@@ -49,7 +49,12 @@ If you would like to reproduce the steps taken for data retrieval and parsing yo
 Alternatively, you can also skip this step and use the parsed data available at [data/subsets/](https://github.com/fgh95/PKDocClassifier/tree/master/data/subsets). Alternatively, follow the steps at [pubmed_parser wiki](https://github.com/titipata/pubmed_parser/wiki/Download-and-preprocess-MEDLINE-dataset) and place the resulting `medline_lastview.parquet` file at _data/medline_lastview.parquet_. Then, change the [spark config file](https://github.com/fgh95/PKDocClassifier/blob/master/sparksetup/sparkconf.py) to your spark configuration and run:
 
 ````bash
-python scripts/getready.py
+# this script is a little experimental but should generate medline_lastview.parque
+bash scripts/0_get_medline.sh
+````
+
+````bash
+python scripts/get_ready.py
 ````
 
 This should generate the files at [data/subsets/](https://github.com/fgh95/PKDocClassifier/tree/master/data/subsets).

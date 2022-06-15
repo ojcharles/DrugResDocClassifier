@@ -1,11 +1,16 @@
 """ This script is only used once to select the documents that have been labeled and the pk subset.
 It applies the functions from clean_parquet to clean the files and get them ready"""
 
-from sparksetup import spark
 import os
 import pandas as pd
 from pyspark.sql.types import IntegerType
-
+from pyspark import sql
+spark = (
+    sql.SparkSession.builder.master("local[1]")
+    .config("spark.executor.memory", "1g")
+    .config("spark.driver.memory", "2g")
+    .getOrCreate()
+)
 
 def store_features(inp_path, out_path, all_pk_data):
     with open(inp_path, 'r') as myfile:
@@ -33,5 +38,3 @@ if __name__ == '__main__':
     # 4. Process files
     store_features(path_labels_dev, path_out_lab_dev, all_sets)
     store_features(path_labels_test, path_out_lab_test, all_sets)
-
-

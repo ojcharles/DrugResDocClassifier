@@ -77,6 +77,7 @@ cython_debug/
 
 # Data dirs
 /data/encoded/
+/data/raw_medline.parquet/
 /data/medline_lastview.parquet/
 /data/labels/original/
 /data/labels/mixthem.py
@@ -88,3 +89,9 @@ cython_debug/
 /data/results/distributional/bootstrap/
 /specter/
 /pk_classifier.egg-info/
+/data/medline/
+/data/subsets/
+
+# cluster stuff 
+/logs/
+/sparksetup/

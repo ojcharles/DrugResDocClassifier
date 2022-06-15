@@ -43,9 +43,9 @@ def process_them(input_tuple, rounds, test_prop, out_path_results, out_path_figu
                                   min_df=2)
         normalizer = TfidfTransformer(norm="l1", use_idf=use_idf)
 
-        decoder = xgb.XGBClassifier(random_state=rd_seed, n_jobs=-1, n_estimators=2000, objective='binary:logistic',
+        decoder = xgb.XGBClassifier(random_state=rd_seed, n_jobs=10, n_estimators=2000, objective='binary:logistic',
                                     max_depth=4, learning_rate=0.1, colsample_bytree=1.,
-                                    scale_pos_weight=balancing_factor, nthread=-1)
+                                    scale_pos_weight=balancing_factor, nthreads=10)
 
         # Define encoding pipeline
         enc_pip = Pipeline([
